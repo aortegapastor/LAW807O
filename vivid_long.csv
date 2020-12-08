@@ -1,0 +1,1837 @@
+"","Country","emitGt","level","Time"
+"1","Bangladesh",33.2713527245615,"LOW_Total_CO2_Power",2015
+"2","Bangladesh",34.2835482470041,"LOW_Total_CO2_Power",2016
+"3","Bangladesh",35.3036465591057,"LOW_Total_CO2_Power",2017
+"4","Bangladesh",36.1899439724532,"LOW_Total_CO2_Power",2018
+"5","Bangladesh",37.074025291672,"LOW_Total_CO2_Power",2019
+"6","Bangladesh",37.9527026958521,"LOW_Total_CO2_Power",2020
+"7","Bangladesh",38.8270409508358,"LOW_Total_CO2_Power",2021
+"8","Bangladesh",39.6964309300059,"LOW_Total_CO2_Power",2022
+"9","Bangladesh",40.5580698796346,"LOW_Total_CO2_Power",2023
+"10","Bangladesh",41.4079431390228,"LOW_Total_CO2_Power",2024
+"11","Bangladesh",42.2430366475948,"LOW_Total_CO2_Power",2025
+"12","Bangladesh",43.0618285776849,"LOW_Total_CO2_Power",2026
+"13","Bangladesh",43.8654305811334,"LOW_Total_CO2_Power",2027
+"14","Bangladesh",44.6545441999446,"LOW_Total_CO2_Power",2028
+"15","Bangladesh",45.4306237708636,"LOW_Total_CO2_Power",2029
+"16","Bangladesh",46.1947987525935,"LOW_Total_CO2_Power",2030
+"17","Bangladesh",46.9464161998248,"LOW_Total_CO2_Power",2031
+"18","Bangladesh",47.709165194674,"LOW_Total_CO2_Power",2032
+"19","Bangladesh",48.4601807077285,"LOW_Total_CO2_Power",2033
+"20","Bangladesh",49.2001346496241,"LOW_Total_CO2_Power",2034
+"21","Bangladesh",49.929613179662,"LOW_Total_CO2_Power",2035
+"22","Bangladesh",50.6485370768272,"LOW_Total_CO2_Power",2036
+"23","Bangladesh",51.3578490710301,"LOW_Total_CO2_Power",2037
+"24","Bangladesh",52.057343758032,"LOW_Total_CO2_Power",2038
+"25","Bangladesh",52.746556678021,"LOW_Total_CO2_Power",2039
+"26","Bangladesh",53.4253019190371,"LOW_Total_CO2_Power",2040
+"27","Bangladesh",54.0938925603712,"LOW_Total_CO2_Power",2041
+"28","Bangladesh",54.7754798957331,"LOW_Total_CO2_Power",2042
+"29","Bangladesh",55.4471999532042,"LOW_Total_CO2_Power",2043
+"30","Bangladesh",56.1092131245243,"LOW_Total_CO2_Power",2044
+"31","Bangladesh",56.7617265452085,"LOW_Total_CO2_Power",2045
+"32","Bangladesh",57.4052556589744,"LOW_Total_CO2_Power",2046
+"33","Bangladesh",58.0401991158329,"LOW_Total_CO2_Power",2047
+"34","Bangladesh",58.6666621689299,"LOW_Total_CO2_Power",2048
+"35","Bangladesh",59.2852305508663,"LOW_Total_CO2_Power",2049
+"36","Bangladesh",59.8966970472739,"LOW_Total_CO2_Power",2050
+"37","Egypt",92.1045437056028,"LOW_Total_CO2_Power",2015
+"38","Egypt",91.3163096608285,"LOW_Total_CO2_Power",2016
+"39","Egypt",90.4876338203132,"LOW_Total_CO2_Power",2017
+"40","Egypt",89.5507531115837,"LOW_Total_CO2_Power",2018
+"41","Egypt",88.6768300302157,"LOW_Total_CO2_Power",2019
+"42","Egypt",87.801022053843,"LOW_Total_CO2_Power",2020
+"43","Egypt",86.9366361678817,"LOW_Total_CO2_Power",2021
+"44","Egypt",86.0670003862059,"LOW_Total_CO2_Power",2022
+"45","Egypt",85.2030055047172,"LOW_Total_CO2_Power",2023
+"46","Egypt",84.3591719218641,"LOW_Total_CO2_Power",2024
+"47","Egypt",83.544068734329,"LOW_Total_CO2_Power",2025
+"48","Egypt",82.7504569477779,"LOW_Total_CO2_Power",2026
+"49","Egypt",81.988787415717,"LOW_Total_CO2_Power",2027
+"50","Egypt",81.2600264910099,"LOW_Total_CO2_Power",2028
+"51","Egypt",80.5618040031226,"LOW_Total_CO2_Power",2029
+"52","Egypt",79.8930136592031,"LOW_Total_CO2_Power",2030
+"53","Egypt",79.2529907201438,"LOW_Total_CO2_Power",2031
+"54","Egypt",78.6951133621051,"LOW_Total_CO2_Power",2032
+"55","Egypt",78.1669843223719,"LOW_Total_CO2_Power",2033
+"56","Egypt",77.6702216774246,"LOW_Total_CO2_Power",2034
+"57","Egypt",77.2049333152722,"LOW_Total_CO2_Power",2035
+"58","Egypt",76.7663675054514,"LOW_Total_CO2_Power",2036
+"59","Egypt",76.357260159719,"LOW_Total_CO2_Power",2037
+"60","Egypt",75.9733496227002,"LOW_Total_CO2_Power",2038
+"61","Egypt",75.6096731660635,"LOW_Total_CO2_Power",2039
+"62","Egypt",75.2628276842303,"LOW_Total_CO2_Power",2040
+"63","Egypt",74.9292294727638,"LOW_Total_CO2_Power",2041
+"64","Egypt",74.6631823063619,"LOW_Total_CO2_Power",2042
+"65","Egypt",74.411956900679,"LOW_Total_CO2_Power",2043
+"66","Egypt",74.1749800125428,"LOW_Total_CO2_Power",2044
+"67","Egypt",73.9518770298685,"LOW_Total_CO2_Power",2045
+"68","Egypt",73.7424054161604,"LOW_Total_CO2_Power",2046
+"69","Egypt",73.5464436739816,"LOW_Total_CO2_Power",2047
+"70","Egypt",73.3644086659466,"LOW_Total_CO2_Power",2048
+"71","Egypt",73.1966520250181,"LOW_Total_CO2_Power",2049
+"72","Egypt",73.0432617272176,"LOW_Total_CO2_Power",2050
+"73","Indonesia",177.490799209466,"LOW_Total_CO2_Power",2015
+"74","Indonesia",175.237578391475,"LOW_Total_CO2_Power",2016
+"75","Indonesia",173.121475573707,"LOW_Total_CO2_Power",2017
+"76","Indonesia",170.997973338435,"LOW_Total_CO2_Power",2018
+"77","Indonesia",168.995509044417,"LOW_Total_CO2_Power",2019
+"78","Indonesia",167.10256315593,"LOW_Total_CO2_Power",2020
+"79","Indonesia",165.323135695021,"LOW_Total_CO2_Power",2021
+"80","Indonesia",163.646241800441,"LOW_Total_CO2_Power",2022
+"81","Indonesia",162.074881979262,"LOW_Total_CO2_Power",2023
+"82","Indonesia",160.615796321907,"LOW_Total_CO2_Power",2024
+"83","Indonesia",159.271109009058,"LOW_Total_CO2_Power",2025
+"84","Indonesia",158.022695634217,"LOW_Total_CO2_Power",2026
+"85","Indonesia",156.886053625912,"LOW_Total_CO2_Power",2027
+"86","Indonesia",155.856279243481,"LOW_Total_CO2_Power",2028
+"87","Indonesia",154.924833793198,"LOW_Total_CO2_Power",2029
+"88","Indonesia",154.085547478223,"LOW_Total_CO2_Power",2030
+"89","Indonesia",153.328573551286,"LOW_Total_CO2_Power",2031
+"90","Indonesia",152.714603781612,"LOW_Total_CO2_Power",2032
+"91","Indonesia",152.187440592871,"LOW_Total_CO2_Power",2033
+"92","Indonesia",151.745731820442,"LOW_Total_CO2_Power",2034
+"93","Indonesia",151.38735980889,"LOW_Total_CO2_Power",2035
+"94","Indonesia",151.09837974996,"LOW_Total_CO2_Power",2036
+"95","Indonesia",150.88968039182,"LOW_Total_CO2_Power",2037
+"96","Indonesia",150.759075187072,"LOW_Total_CO2_Power",2038
+"97","Indonesia",150.704707807784,"LOW_Total_CO2_Power",2039
+"98","Indonesia",150.724176168121,"LOW_Total_CO2_Power",2040
+"99","Indonesia",150.801116514476,"LOW_Total_CO2_Power",2041
+"100","Indonesia",150.9982750141,"LOW_Total_CO2_Power",2042
+"101","Indonesia",151.260985434643,"LOW_Total_CO2_Power",2043
+"102","Indonesia",151.583376005,"LOW_Total_CO2_Power",2044
+"103","Indonesia",151.960512165521,"LOW_Total_CO2_Power",2045
+"104","Indonesia",152.373655705104,"LOW_Total_CO2_Power",2046
+"105","Indonesia",152.838893896284,"LOW_Total_CO2_Power",2047
+"106","Indonesia",153.355401954974,"LOW_Total_CO2_Power",2048
+"107","Indonesia",153.923619228376,"LOW_Total_CO2_Power",2049
+"108","Indonesia",154.541895104044,"LOW_Total_CO2_Power",2050
+"109","Islamic Republic of Iran",158.511018208437,"LOW_Total_CO2_Power",2015
+"110","Islamic Republic of Iran",156.751460047825,"LOW_Total_CO2_Power",2016
+"111","Islamic Republic of Iran",153.679280413295,"LOW_Total_CO2_Power",2017
+"112","Islamic Republic of Iran",150.648655063739,"LOW_Total_CO2_Power",2018
+"113","Islamic Republic of Iran",147.739509112098,"LOW_Total_CO2_Power",2019
+"114","Islamic Republic of Iran",144.871149934392,"LOW_Total_CO2_Power",2020
+"115","Islamic Republic of Iran",142.048049677641,"LOW_Total_CO2_Power",2021
+"116","Islamic Republic of Iran",139.266987584945,"LOW_Total_CO2_Power",2022
+"117","Islamic Republic of Iran",136.533476868934,"LOW_Total_CO2_Power",2023
+"118","Islamic Republic of Iran",133.853139889883,"LOW_Total_CO2_Power",2024
+"119","Islamic Republic of Iran",131.230635730024,"LOW_Total_CO2_Power",2025
+"120","Islamic Republic of Iran",128.667621872459,"LOW_Total_CO2_Power",2026
+"121","Islamic Republic of Iran",126.168361373011,"LOW_Total_CO2_Power",2027
+"122","Islamic Republic of Iran",123.739111543014,"LOW_Total_CO2_Power",2028
+"123","Islamic Republic of Iran",121.385474758181,"LOW_Total_CO2_Power",2029
+"124","Islamic Republic of Iran",119.110970125974,"LOW_Total_CO2_Power",2030
+"125","Islamic Republic of Iran",116.916859551005,"LOW_Total_CO2_Power",2031
+"126","Islamic Republic of Iran",114.811687345288,"LOW_Total_CO2_Power",2032
+"127","Islamic Republic of Iran",112.785512976828,"LOW_Total_CO2_Power",2033
+"128","Islamic Republic of Iran",110.840104186546,"LOW_Total_CO2_Power",2034
+"129","Islamic Republic of Iran",108.974979983682,"LOW_Total_CO2_Power",2035
+"130","Islamic Republic of Iran",107.18822781853,"LOW_Total_CO2_Power",2036
+"131","Islamic Republic of Iran",105.476317233453,"LOW_Total_CO2_Power",2037
+"132","Islamic Republic of Iran",103.832714042016,"LOW_Total_CO2_Power",2038
+"133","Islamic Republic of Iran",102.249793267175,"LOW_Total_CO2_Power",2039
+"134","Islamic Republic of Iran",100.721056173635,"LOW_Total_CO2_Power",2040
+"135","Islamic Republic of Iran",99.2466814722581,"LOW_Total_CO2_Power",2041
+"136","Islamic Republic of Iran",97.8310014817072,"LOW_Total_CO2_Power",2042
+"137","Islamic Republic of Iran",96.4562122362232,"LOW_Total_CO2_Power",2043
+"138","Islamic Republic of Iran",95.1132522038139,"LOW_Total_CO2_Power",2044
+"139","Islamic Republic of Iran",93.7956104978204,"LOW_Total_CO2_Power",2045
+"140","Islamic Republic of Iran",92.5063247819582,"LOW_Total_CO2_Power",2046
+"141","Islamic Republic of Iran",91.2392259899011,"LOW_Total_CO2_Power",2047
+"142","Islamic Republic of Iran",89.9944760549682,"LOW_Total_CO2_Power",2048
+"143","Islamic Republic of Iran",88.7745445002165,"LOW_Total_CO2_Power",2049
+"144","Islamic Republic of Iran",87.5808955101515,"LOW_Total_CO2_Power",2050
+"145","Kazakhstan",89.4622532475421,"LOW_Total_CO2_Power",2015
+"146","Kazakhstan",86.6838706333732,"LOW_Total_CO2_Power",2016
+"147","Kazakhstan",84.0530705349401,"LOW_Total_CO2_Power",2017
+"148","Kazakhstan",81.4025864021086,"LOW_Total_CO2_Power",2018
+"149","Kazakhstan",78.8101697975416,"LOW_Total_CO2_Power",2019
+"150","Kazakhstan",76.29362430415,"LOW_Total_CO2_Power",2020
+"151","Kazakhstan",73.8578584418996,"LOW_Total_CO2_Power",2021
+"152","Kazakhstan",71.4898380889743,"LOW_Total_CO2_Power",2022
+"153","Kazakhstan",69.1909013695139,"LOW_Total_CO2_Power",2023
+"154","Kazakhstan",66.9610879609984,"LOW_Total_CO2_Power",2024
+"155","Kazakhstan",64.8001459288745,"LOW_Total_CO2_Power",2025
+"156","Kazakhstan",62.7038682044578,"LOW_Total_CO2_Power",2026
+"157","Kazakhstan",60.6798198051314,"LOW_Total_CO2_Power",2027
+"158","Kazakhstan",58.7285946943752,"LOW_Total_CO2_Power",2028
+"159","Kazakhstan",56.8499025692025,"LOW_Total_CO2_Power",2029
+"160","Kazakhstan",55.0431696257186,"LOW_Total_CO2_Power",2030
+"161","Kazakhstan",53.3062891527444,"LOW_Total_CO2_Power",2031
+"162","Kazakhstan",51.6505912888648,"LOW_Total_CO2_Power",2032
+"163","Kazakhstan",50.0618704041659,"LOW_Total_CO2_Power",2033
+"164","Kazakhstan",48.5387118711956,"LOW_Total_CO2_Power",2034
+"165","Kazakhstan",47.0792759865125,"LOW_Total_CO2_Power",2035
+"166","Kazakhstan",45.6795215738548,"LOW_Total_CO2_Power",2036
+"167","Kazakhstan",44.3389398124165,"LOW_Total_CO2_Power",2037
+"168","Kazakhstan",43.0551522577204,"LOW_Total_CO2_Power",2038
+"169","Kazakhstan",41.8257577618213,"LOW_Total_CO2_Power",2039
+"170","Kazakhstan",40.6483969805222,"LOW_Total_CO2_Power",2040
+"171","Kazakhstan",39.5191249260763,"LOW_Total_CO2_Power",2041
+"172","Kazakhstan",38.4476761977554,"LOW_Total_CO2_Power",2042
+"173","Kazakhstan",37.4204752630004,"LOW_Total_CO2_Power",2043
+"174","Kazakhstan",36.434892332653,"LOW_Total_CO2_Power",2044
+"175","Kazakhstan",35.4885747155436,"LOW_Total_CO2_Power",2045
+"176","Kazakhstan",34.5778646779519,"LOW_Total_CO2_Power",2046
+"177","Kazakhstan",33.7035905066873,"LOW_Total_CO2_Power",2047
+"178","Kazakhstan",32.8628372190217,"LOW_Total_CO2_Power",2048
+"179","Kazakhstan",32.0522460774749,"LOW_Total_CO2_Power",2049
+"180","Kazakhstan",31.2694908176953,"LOW_Total_CO2_Power",2050
+"181","Malaysia",103.921651456622,"LOW_Total_CO2_Power",2015
+"182","Malaysia",101.552073418122,"LOW_Total_CO2_Power",2016
+"183","Malaysia",99.3326520446576,"LOW_Total_CO2_Power",2017
+"184","Malaysia",96.8762778487426,"LOW_Total_CO2_Power",2018
+"185","Malaysia",94.5016449427844,"LOW_Total_CO2_Power",2019
+"186","Malaysia",92.2014570728954,"LOW_Total_CO2_Power",2020
+"187","Malaysia",89.9788313768305,"LOW_Total_CO2_Power",2021
+"188","Malaysia",87.8242828321287,"LOW_Total_CO2_Power",2022
+"189","Malaysia",85.7299865959424,"LOW_Total_CO2_Power",2023
+"190","Malaysia",83.6853959572584,"LOW_Total_CO2_Power",2024
+"191","Malaysia",81.6837814842349,"LOW_Total_CO2_Power",2025
+"192","Malaysia",79.7249102639669,"LOW_Total_CO2_Power",2026
+"193","Malaysia",77.8121650895092,"LOW_Total_CO2_Power",2027
+"194","Malaysia",75.9445466852165,"LOW_Total_CO2_Power",2028
+"195","Malaysia",74.1210553949711,"LOW_Total_CO2_Power",2029
+"196","Malaysia",72.3412238555067,"LOW_Total_CO2_Power",2030
+"197","Malaysia",70.6051370916055,"LOW_Total_CO2_Power",2031
+"198","Malaysia",68.9547318783598,"LOW_Total_CO2_Power",2032
+"199","Malaysia",67.3466859986312,"LOW_Total_CO2_Power",2033
+"200","Malaysia",65.7813365268424,"LOW_Total_CO2_Power",2034
+"201","Malaysia",64.2587819023234,"LOW_Total_CO2_Power",2035
+"202","Malaysia",62.7787088358994,"LOW_Total_CO2_Power",2036
+"203","Malaysia",61.3409240711199,"LOW_Total_CO2_Power",2037
+"204","Malaysia",59.9458040976128,"LOW_Total_CO2_Power",2038
+"205","Malaysia",58.5938163765326,"LOW_Total_CO2_Power",2039
+"206","Malaysia",57.2847335850488,"LOW_Total_CO2_Power",2040
+"207","Malaysia",56.0171304948142,"LOW_Total_CO2_Power",2041
+"208","Malaysia",54.8271309124912,"LOW_Total_CO2_Power",2042
+"209","Malaysia",53.6748690276268,"LOW_Total_CO2_Power",2043
+"210","Malaysia",52.5581891090559,"LOW_Total_CO2_Power",2044
+"211","Malaysia",51.4752652998437,"LOW_Total_CO2_Power",2045
+"212","Malaysia",50.4247850451849,"LOW_Total_CO2_Power",2046
+"213","Malaysia",49.4066522895099,"LOW_Total_CO2_Power",2047
+"214","Malaysia",48.4194248175331,"LOW_Total_CO2_Power",2048
+"215","Malaysia",47.4618892749247,"LOW_Total_CO2_Power",2049
+"216","Malaysia",46.532848098597,"LOW_Total_CO2_Power",2050
+"217","Mongolia",11.7022893601424,"LOW_Total_CO2_Power",2015
+"218","Mongolia",11.3673633612314,"LOW_Total_CO2_Power",2016
+"219","Mongolia",11.0516096052443,"LOW_Total_CO2_Power",2017
+"220","Mongolia",10.7336661288671,"LOW_Total_CO2_Power",2018
+"221","Mongolia",10.4251860262004,"LOW_Total_CO2_Power",2019
+"222","Mongolia",10.1226542123688,"LOW_Total_CO2_Power",2020
+"223","Mongolia",9.82666202666989,"LOW_Total_CO2_Power",2021
+"224","Mongolia",9.53628474451791,"LOW_Total_CO2_Power",2022
+"225","Mongolia",9.25225956977823,"LOW_Total_CO2_Power",2023
+"226","Mongolia",8.97534300650796,"LOW_Total_CO2_Power",2024
+"227","Mongolia",8.7061886406315,"LOW_Total_CO2_Power",2025
+"228","Mongolia",8.44463519715769,"LOW_Total_CO2_Power",2026
+"229","Mongolia",8.19135218284034,"LOW_Total_CO2_Power",2027
+"230","Mongolia",7.94655036074662,"LOW_Total_CO2_Power",2028
+"231","Mongolia",7.71020300405966,"LOW_Total_CO2_Power",2029
+"232","Mongolia",7.48237693980583,"LOW_Total_CO2_Power",2030
+"233","Mongolia",7.26298209681363,"LOW_Total_CO2_Power",2031
+"234","Mongolia",7.0547564559653,"LOW_Total_CO2_Power",2032
+"235","Mongolia",6.85509003170813,"LOW_Total_CO2_Power",2033
+"236","Mongolia",6.6639901448513,"LOW_Total_CO2_Power",2034
+"237","Mongolia",6.48144536374315,"LOW_Total_CO2_Power",2035
+"238","Mongolia",6.30715052294298,"LOW_Total_CO2_Power",2036
+"239","Mongolia",6.1409917170041,"LOW_Total_CO2_Power",2037
+"240","Mongolia",5.98278548973894,"LOW_Total_CO2_Power",2038
+"241","Mongolia",5.83237214416008,"LOW_Total_CO2_Power",2039
+"242","Mongolia",5.68949131053853,"LOW_Total_CO2_Power",2040
+"243","Mongolia",5.55376317568292,"LOW_Total_CO2_Power",2041
+"244","Mongolia",5.427342025785,"LOW_Total_CO2_Power",2042
+"245","Mongolia",5.30754267938501,"LOW_Total_CO2_Power",2043
+"246","Mongolia",5.19404888478314,"LOW_Total_CO2_Power",2044
+"247","Mongolia",5.08656184945373,"LOW_Total_CO2_Power",2045
+"248","Mongolia",4.98468332398545,"LOW_Total_CO2_Power",2046
+"249","Mongolia",4.88832999242031,"LOW_Total_CO2_Power",2047
+"250","Mongolia",4.79702665695601,"LOW_Total_CO2_Power",2048
+"251","Mongolia",4.71021282421507,"LOW_Total_CO2_Power",2049
+"252","Mongolia",4.62749021862355,"LOW_Total_CO2_Power",2050
+"253","Myanmar",4.65338332083863,"LOW_Total_CO2_Power",2015
+"254","Myanmar",5.16062031069166,"LOW_Total_CO2_Power",2016
+"255","Myanmar",5.67596171489055,"LOW_Total_CO2_Power",2017
+"256","Myanmar",6.15802575800862,"LOW_Total_CO2_Power",2018
+"257","Myanmar",6.61807643098693,"LOW_Total_CO2_Power",2019
+"258","Myanmar",7.06995883458579,"LOW_Total_CO2_Power",2020
+"259","Myanmar",7.51245023419264,"LOW_Total_CO2_Power",2021
+"260","Myanmar",7.94708439973804,"LOW_Total_CO2_Power",2022
+"261","Myanmar",8.37383945488391,"LOW_Total_CO2_Power",2023
+"262","Myanmar",8.79288973445326,"LOW_Total_CO2_Power",2024
+"263","Myanmar",9.20447483659441,"LOW_Total_CO2_Power",2025
+"264","Myanmar",9.6082500468167,"LOW_Total_CO2_Power",2026
+"265","Myanmar",10.0047830843953,"LOW_Total_CO2_Power",2027
+"266","Myanmar",10.3941579902678,"LOW_Total_CO2_Power",2028
+"267","Myanmar",10.7765413615736,"LOW_Total_CO2_Power",2029
+"268","Myanmar",11.1520433072026,"LOW_Total_CO2_Power",2030
+"269","Myanmar",11.5199159532126,"LOW_Total_CO2_Power",2031
+"270","Myanmar",11.8879007075,"LOW_Total_CO2_Power",2032
+"271","Myanmar",12.2493368229589,"LOW_Total_CO2_Power",2033
+"272","Myanmar",12.60422013291,"LOW_Total_CO2_Power",2034
+"273","Myanmar",12.9525945517589,"LOW_Total_CO2_Power",2035
+"274","Myanmar",13.2937355002468,"LOW_Total_CO2_Power",2036
+"275","Myanmar",13.6288435539138,"LOW_Total_CO2_Power",2037
+"276","Myanmar",13.9580568287043,"LOW_Total_CO2_Power",2038
+"277","Myanmar",14.2815441646457,"LOW_Total_CO2_Power",2039
+"278","Myanmar",14.5994522171266,"LOW_Total_CO2_Power",2040
+"279","Myanmar",14.9104571849714,"LOW_Total_CO2_Power",2041
+"280","Myanmar",15.2229375008239,"LOW_Total_CO2_Power",2042
+"281","Myanmar",15.5305062805757,"LOW_Total_CO2_Power",2043
+"282","Myanmar",15.8333250346063,"LOW_Total_CO2_Power",2044
+"283","Myanmar",16.131555282448,"LOW_Total_CO2_Power",2045
+"284","Myanmar",16.4234322299281,"LOW_Total_CO2_Power",2046
+"285","Myanmar",16.7113570192396,"LOW_Total_CO2_Power",2047
+"286","Myanmar",16.9955173020782,"LOW_Total_CO2_Power",2048
+"287","Myanmar",17.2761541400418,"LOW_Total_CO2_Power",2049
+"288","Myanmar",17.5534194086928,"LOW_Total_CO2_Power",2050
+"289","Pakistan",49.8474802001586,"LOW_Total_CO2_Power",2015
+"290","Pakistan",50.8061776785871,"LOW_Total_CO2_Power",2016
+"291","Pakistan",51.7943613504179,"LOW_Total_CO2_Power",2017
+"292","Pakistan",52.6284157798615,"LOW_Total_CO2_Power",2018
+"293","Pakistan",53.4949042611442,"LOW_Total_CO2_Power",2019
+"294","Pakistan",54.3681650184382,"LOW_Total_CO2_Power",2020
+"295","Pakistan",55.2466900038642,"LOW_Total_CO2_Power",2021
+"296","Pakistan",56.1293201786098,"LOW_Total_CO2_Power",2022
+"297","Pakistan",57.0156902913731,"LOW_Total_CO2_Power",2023
+"298","Pakistan",57.9053391647479,"LOW_Total_CO2_Power",2024
+"299","Pakistan",58.7977108944755,"LOW_Total_CO2_Power",2025
+"300","Pakistan",59.6891926542736,"LOW_Total_CO2_Power",2026
+"301","Pakistan",60.5833194840278,"LOW_Total_CO2_Power",2027
+"302","Pakistan",61.4804456313256,"LOW_Total_CO2_Power",2028
+"303","Pakistan",62.3809070163414,"LOW_Total_CO2_Power",2029
+"304","Pakistan",63.2850099306148,"LOW_Total_CO2_Power",2030
+"305","Pakistan",64.1900086767319,"LOW_Total_CO2_Power",2031
+"306","Pakistan",65.1235558485812,"LOW_Total_CO2_Power",2032
+"307","Pakistan",66.0608453909274,"LOW_Total_CO2_Power",2033
+"308","Pakistan",67.0027831574469,"LOW_Total_CO2_Power",2034
+"309","Pakistan",67.949708610195,"LOW_Total_CO2_Power",2035
+"310","Pakistan",68.8978496110151,"LOW_Total_CO2_Power",2036
+"311","Pakistan",69.8507290796166,"LOW_Total_CO2_Power",2037
+"312","Pakistan",70.8068917777119,"LOW_Total_CO2_Power",2038
+"313","Pakistan",71.7645564058701,"LOW_Total_CO2_Power",2039
+"314","Pakistan",72.7222116847135,"LOW_Total_CO2_Power",2040
+"315","Pakistan",73.6755124134227,"LOW_Total_CO2_Power",2041
+"316","Pakistan",74.6531893072915,"LOW_Total_CO2_Power",2042
+"317","Pakistan",75.6283222733799,"LOW_Total_CO2_Power",2043
+"318","Pakistan",76.5991034365371,"LOW_Total_CO2_Power",2044
+"319","Pakistan",77.5640707775759,"LOW_Total_CO2_Power",2045
+"320","Pakistan",78.5192214965343,"LOW_Total_CO2_Power",2046
+"321","Pakistan",79.4682809853302,"LOW_Total_CO2_Power",2047
+"322","Pakistan",80.4099311462399,"LOW_Total_CO2_Power",2048
+"323","Pakistan",81.3427697412295,"LOW_Total_CO2_Power",2049
+"324","Pakistan",82.2657821976425,"LOW_Total_CO2_Power",2050
+"325","Philippines",52.9600897292598,"LOW_Total_CO2_Power",2015
+"326","Philippines",52.8239384001951,"LOW_Total_CO2_Power",2016
+"327","Philippines",52.714475963121,"LOW_Total_CO2_Power",2017
+"328","Philippines",52.3767526155669,"LOW_Total_CO2_Power",2018
+"329","Philippines",52.0212274448509,"LOW_Total_CO2_Power",2019
+"330","Philippines",51.6961594635361,"LOW_Total_CO2_Power",2020
+"331","Philippines",51.3995180530023,"LOW_Total_CO2_Power",2021
+"332","Philippines",51.1315045103398,"LOW_Total_CO2_Power",2022
+"333","Philippines",50.8910022708517,"LOW_Total_CO2_Power",2023
+"334","Philippines",50.676696970382,"LOW_Total_CO2_Power",2024
+"335","Philippines",50.4874317781212,"LOW_Total_CO2_Power",2025
+"336","Philippines",50.3205199841523,"LOW_Total_CO2_Power",2026
+"337","Philippines",50.1777991627757,"LOW_Total_CO2_Power",2027
+"338","Philippines",50.0584925279521,"LOW_Total_CO2_Power",2028
+"339","Philippines",49.9617250203449,"LOW_Total_CO2_Power",2029
+"340","Philippines",49.8866978015888,"LOW_Total_CO2_Power",2030
+"341","Philippines",49.8302373848486,"LOW_Total_CO2_Power",2031
+"342","Philippines",49.7997212236514,"LOW_Total_CO2_Power",2032
+"343","Philippines",49.7896055368798,"LOW_Total_CO2_Power",2033
+"344","Philippines",49.7995521947383,"LOW_Total_CO2_Power",2034
+"345","Philippines",49.8290818739689,"LOW_Total_CO2_Power",2035
+"346","Philippines",49.8746729181952,"LOW_Total_CO2_Power",2036
+"347","Philippines",49.9392397610136,"LOW_Total_CO2_Power",2037
+"348","Philippines",50.0219510693663,"LOW_Total_CO2_Power",2038
+"349","Philippines",50.1218471973163,"LOW_Total_CO2_Power",2039
+"350","Philippines",50.2381237288346,"LOW_Total_CO2_Power",2040
+"351","Philippines",50.3671811074035,"LOW_Total_CO2_Power",2041
+"352","Philippines",50.5169289781561,"LOW_Total_CO2_Power",2042
+"353","Philippines",50.6820688332961,"LOW_Total_CO2_Power",2043
+"354","Philippines",50.8624212954844,"LOW_Total_CO2_Power",2044
+"355","Philippines",51.0575566566041,"LOW_Total_CO2_Power",2045
+"356","Philippines",51.2627250057335,"LOW_Total_CO2_Power",2046
+"357","Philippines",51.4820339409617,"LOW_Total_CO2_Power",2047
+"358","Philippines",51.714755017815,"LOW_Total_CO2_Power",2048
+"359","Philippines",51.9600682716339,"LOW_Total_CO2_Power",2049
+"360","Philippines",52.2171628211691,"LOW_Total_CO2_Power",2050
+"361","Russian Federation",764.032416312537,"LOW_Total_CO2_Power",2015
+"362","Russian Federation",735.343517758133,"LOW_Total_CO2_Power",2016
+"363","Russian Federation",708.389445046264,"LOW_Total_CO2_Power",2017
+"364","Russian Federation",682.746065890697,"LOW_Total_CO2_Power",2018
+"365","Russian Federation",657.925407376643,"LOW_Total_CO2_Power",2019
+"366","Russian Federation",633.965108927182,"LOW_Total_CO2_Power",2020
+"367","Russian Federation",610.838860259899,"LOW_Total_CO2_Power",2021
+"368","Russian Federation",588.50191643261,"LOW_Total_CO2_Power",2022
+"369","Russian Federation",566.946556863083,"LOW_Total_CO2_Power",2023
+"370","Russian Federation",546.170630435972,"LOW_Total_CO2_Power",2024
+"371","Russian Federation",526.164976198834,"LOW_Total_CO2_Power",2025
+"372","Russian Federation",506.882824630456,"LOW_Total_CO2_Power",2026
+"373","Russian Federation",488.339415214728,"LOW_Total_CO2_Power",2027
+"374","Russian Federation",470.522415663342,"LOW_Total_CO2_Power",2028
+"375","Russian Federation",453.418006740853,"LOW_Total_CO2_Power",2029
+"376","Russian Federation",437.011068046557,"LOW_Total_CO2_Power",2030
+"377","Russian Federation",421.269828760541,"LOW_Total_CO2_Power",2031
+"378","Russian Federation",406.189456321814,"LOW_Total_CO2_Power",2032
+"379","Russian Federation",391.748869430075,"LOW_Total_CO2_Power",2033
+"380","Russian Federation",377.925263405775,"LOW_Total_CO2_Power",2034
+"381","Russian Federation",364.695272436464,"LOW_Total_CO2_Power",2035
+"382","Russian Federation",352.021066150551,"LOW_Total_CO2_Power",2036
+"383","Russian Federation",339.89786346281,"LOW_Total_CO2_Power",2037
+"384","Russian Federation",328.30827676687,"LOW_Total_CO2_Power",2038
+"385","Russian Federation",317.23789208197,"LOW_Total_CO2_Power",2039
+"386","Russian Federation",306.66857138035,"LOW_Total_CO2_Power",2040
+"387","Russian Federation",296.555958745732,"LOW_Total_CO2_Power",2041
+"388","Russian Federation",286.900887046912,"LOW_Total_CO2_Power",2042
+"389","Russian Federation",277.673277266061,"LOW_Total_CO2_Power",2043
+"390","Russian Federation",268.8423498425,"LOW_Total_CO2_Power",2044
+"391","Russian Federation",260.381645748792,"LOW_Total_CO2_Power",2045
+"392","Russian Federation",252.251699149488,"LOW_Total_CO2_Power",2046
+"393","Russian Federation",244.464320012932,"LOW_Total_CO2_Power",2047
+"394","Russian Federation",236.997070978364,"LOW_Total_CO2_Power",2048
+"395","Russian Federation",229.826851822282,"LOW_Total_CO2_Power",2049
+"396","Russian Federation",222.934957867681,"LOW_Total_CO2_Power",2050
+"397","Saudi Arabia",283.844703736645,"LOW_Total_CO2_Power",2015
+"398","Saudi Arabia",278.185394433855,"LOW_Total_CO2_Power",2016
+"399","Saudi Arabia",271.737406394952,"LOW_Total_CO2_Power",2017
+"400","Saudi Arabia",265.624684452962,"LOW_Total_CO2_Power",2018
+"401","Saudi Arabia",259.407864761042,"LOW_Total_CO2_Power",2019
+"402","Saudi Arabia",253.178547460998,"LOW_Total_CO2_Power",2020
+"403","Saudi Arabia",246.944231988559,"LOW_Total_CO2_Power",2021
+"404","Saudi Arabia",240.721372703973,"LOW_Total_CO2_Power",2022
+"405","Saudi Arabia",234.531597770185,"LOW_Total_CO2_Power",2023
+"406","Saudi Arabia",228.3896604046,"LOW_Total_CO2_Power",2024
+"407","Saudi Arabia",222.309935188539,"LOW_Total_CO2_Power",2025
+"408","Saudi Arabia",216.313944029171,"LOW_Total_CO2_Power",2026
+"409","Saudi Arabia",210.409166132496,"LOW_Total_CO2_Power",2027
+"410","Saudi Arabia",204.603209018076,"LOW_Total_CO2_Power",2028
+"411","Saudi Arabia",198.902122280968,"LOW_Total_CO2_Power",2029
+"412","Saudi Arabia",193.309986652696,"LOW_Total_CO2_Power",2030
+"413","Saudi Arabia",187.83192297351,"LOW_Total_CO2_Power",2031
+"414","Saudi Arabia",182.485745529476,"LOW_Total_CO2_Power",2032
+"415","Saudi Arabia",177.25269522097,"LOW_Total_CO2_Power",2033
+"416","Saudi Arabia",172.125063930089,"LOW_Total_CO2_Power",2034
+"417","Saudi Arabia",167.099805212352,"LOW_Total_CO2_Power",2035
+"418","Saudi Arabia",162.176737835095,"LOW_Total_CO2_Power",2036
+"419","Saudi Arabia",157.363599537045,"LOW_Total_CO2_Power",2037
+"420","Saudi Arabia",152.668614554009,"LOW_Total_CO2_Power",2038
+"421","Saudi Arabia",148.101815912342,"LOW_Total_CO2_Power",2039
+"422","Saudi Arabia",143.669154298007,"LOW_Total_CO2_Power",2040
+"423","Saudi Arabia",139.371081241601,"LOW_Total_CO2_Power",2041
+"424","Saudi Arabia",135.211433889018,"LOW_Total_CO2_Power",2042
+"425","Saudi Arabia",131.176722230561,"LOW_Total_CO2_Power",2043
+"426","Saudi Arabia",127.263665167447,"LOW_Total_CO2_Power",2044
+"427","Saudi Arabia",123.468558882131,"LOW_Total_CO2_Power",2045
+"428","Saudi Arabia",119.789660553205,"LOW_Total_CO2_Power",2046
+"429","Saudi Arabia",116.222805765017,"LOW_Total_CO2_Power",2047
+"430","Saudi Arabia",112.761059635383,"LOW_Total_CO2_Power",2048
+"431","Saudi Arabia",109.39690423335,"LOW_Total_CO2_Power",2049
+"432","Saudi Arabia",106.124745487688,"LOW_Total_CO2_Power",2050
+"433","Singapore",18.273448351436,"LOW_Total_CO2_Power",2015
+"434","Singapore",17.9575247722419,"LOW_Total_CO2_Power",2016
+"435","Singapore",17.6579598800226,"LOW_Total_CO2_Power",2017
+"436","Singapore",17.3382268146335,"LOW_Total_CO2_Power",2018
+"437","Singapore",17.0052737878296,"LOW_Total_CO2_Power",2019
+"438","Singapore",16.6525108090962,"LOW_Total_CO2_Power",2020
+"439","Singapore",16.2798058257613,"LOW_Total_CO2_Power",2021
+"440","Singapore",15.8924848040582,"LOW_Total_CO2_Power",2022
+"441","Singapore",15.4984653862244,"LOW_Total_CO2_Power",2023
+"442","Singapore",15.1073786670216,"LOW_Total_CO2_Power",2024
+"443","Singapore",14.7257147480532,"LOW_Total_CO2_Power",2025
+"444","Singapore",14.3552166760921,"LOW_Total_CO2_Power",2026
+"445","Singapore",13.994085849111,"LOW_Total_CO2_Power",2027
+"446","Singapore",13.6410472675753,"LOW_Total_CO2_Power",2028
+"447","Singapore",13.2939141665025,"LOW_Total_CO2_Power",2029
+"448","Singapore",12.9511889253331,"LOW_Total_CO2_Power",2030
+"449","Singapore",12.6131838337262,"LOW_Total_CO2_Power",2031
+"450","Singapore",12.280711240148,"LOW_Total_CO2_Power",2032
+"451","Singapore",11.9534390081818,"LOW_Total_CO2_Power",2033
+"452","Singapore",11.6312943545414,"LOW_Total_CO2_Power",2034
+"453","Singapore",11.3143451183487,"LOW_Total_CO2_Power",2035
+"454","Singapore",11.0026001705348,"LOW_Total_CO2_Power",2036
+"455","Singapore",10.6961768606269,"LOW_Total_CO2_Power",2037
+"456","Singapore",10.3951706778324,"LOW_Total_CO2_Power",2038
+"457","Singapore",10.0996692911206,"LOW_Total_CO2_Power",2039
+"458","Singapore",9.80979887179067,"LOW_Total_CO2_Power",2040
+"459","Singapore",9.52552833905659,"LOW_Total_CO2_Power",2041
+"460","Singapore",9.24687940317101,"LOW_Total_CO2_Power",2042
+"461","Singapore",8.97449040687892,"LOW_Total_CO2_Power",2043
+"462","Singapore",8.70874736325451,"LOW_Total_CO2_Power",2044
+"463","Singapore",8.45007971663016,"LOW_Total_CO2_Power",2045
+"464","Singapore",8.19869093280452,"LOW_Total_CO2_Power",2046
+"465","Singapore",7.95510837613104,"LOW_Total_CO2_Power",2047
+"466","Singapore",7.71976816207459,"LOW_Total_CO2_Power",2048
+"467","Singapore",7.49310744276205,"LOW_Total_CO2_Power",2049
+"468","Singapore",7.27565727545069,"LOW_Total_CO2_Power",2050
+"469","Sri Lanka",7.43536905298107,"LOW_Total_CO2_Power",2015
+"470","Sri Lanka",7.42226090527477,"LOW_Total_CO2_Power",2016
+"471","Sri Lanka",7.37761203922254,"LOW_Total_CO2_Power",2017
+"472","Sri Lanka",7.38395838774421,"LOW_Total_CO2_Power",2018
+"473","Sri Lanka",7.383991778005,"LOW_Total_CO2_Power",2019
+"474","Sri Lanka",7.38919625504867,"LOW_Total_CO2_Power",2020
+"475","Sri Lanka",7.3988560124593,"LOW_Total_CO2_Power",2021
+"476","Sri Lanka",7.41359576077793,"LOW_Total_CO2_Power",2022
+"477","Sri Lanka",7.43283042210451,"LOW_Total_CO2_Power",2023
+"478","Sri Lanka",7.45569044478806,"LOW_Total_CO2_Power",2024
+"479","Sri Lanka",7.48154837267386,"LOW_Total_CO2_Power",2025
+"480","Sri Lanka",7.51038604673341,"LOW_Total_CO2_Power",2026
+"481","Sri Lanka",7.54190354249395,"LOW_Total_CO2_Power",2027
+"482","Sri Lanka",7.57615473715595,"LOW_Total_CO2_Power",2028
+"483","Sri Lanka",7.61338072793109,"LOW_Total_CO2_Power",2029
+"484","Sri Lanka",7.65362150627717,"LOW_Total_CO2_Power",2030
+"485","Sri Lanka",7.6966240058654,"LOW_Total_CO2_Power",2031
+"486","Sri Lanka",7.74448716327294,"LOW_Total_CO2_Power",2032
+"487","Sri Lanka",7.79480601330295,"LOW_Total_CO2_Power",2033
+"488","Sri Lanka",7.84744620510988,"LOW_Total_CO2_Power",2034
+"489","Sri Lanka",7.90220632822963,"LOW_Total_CO2_Power",2035
+"490","Sri Lanka",7.9588802272026,"LOW_Total_CO2_Power",2036
+"491","Sri Lanka",8.01766942026072,"LOW_Total_CO2_Power",2037
+"492","Sri Lanka",8.07802734123599,"LOW_Total_CO2_Power",2038
+"493","Sri Lanka",8.13915218277271,"LOW_Total_CO2_Power",2039
+"494","Sri Lanka",8.20043906063666,"LOW_Total_CO2_Power",2040
+"495","Sri Lanka",8.26183241672846,"LOW_Total_CO2_Power",2041
+"496","Sri Lanka",8.32541134373886,"LOW_Total_CO2_Power",2042
+"497","Sri Lanka",8.3893280696019,"LOW_Total_CO2_Power",2043
+"498","Sri Lanka",8.45404967364026,"LOW_Total_CO2_Power",2044
+"499","Sri Lanka",8.51974710836755,"LOW_Total_CO2_Power",2045
+"500","Sri Lanka",8.58653817526303,"LOW_Total_CO2_Power",2046
+"501","Sri Lanka",8.65405830863909,"LOW_Total_CO2_Power",2047
+"502","Sri Lanka",8.72231196127203,"LOW_Total_CO2_Power",2048
+"503","Sri Lanka",8.79129679354038,"LOW_Total_CO2_Power",2049
+"504","Sri Lanka",8.86084475742361,"LOW_Total_CO2_Power",2050
+"505","Thailand",88.5766712879406,"LOW_Total_CO2_Power",2015
+"506","Thailand",86.3403581126344,"LOW_Total_CO2_Power",2016
+"507","Thailand",84.2496717244892,"LOW_Total_CO2_Power",2017
+"508","Thailand",82.0702389661345,"LOW_Total_CO2_Power",2018
+"509","Thailand",80.0431634526986,"LOW_Total_CO2_Power",2019
+"510","Thailand",78.0830383531205,"LOW_Total_CO2_Power",2020
+"511","Thailand",76.1906346940964,"LOW_Total_CO2_Power",2021
+"512","Thailand",74.3609480862858,"LOW_Total_CO2_Power",2022
+"513","Thailand",72.5945804473747,"LOW_Total_CO2_Power",2023
+"514","Thailand",70.8924396339643,"LOW_Total_CO2_Power",2024
+"515","Thailand",69.2540687638895,"LOW_Total_CO2_Power",2025
+"516","Thailand",67.6770141725648,"LOW_Total_CO2_Power",2026
+"517","Thailand",66.1611320039313,"LOW_Total_CO2_Power",2027
+"518","Thailand",64.702745417929,"LOW_Total_CO2_Power",2028
+"519","Thailand",63.2973587158265,"LOW_Total_CO2_Power",2029
+"520","Thailand",61.9415506855621,"LOW_Total_CO2_Power",2030
+"521","Thailand",60.6353700180157,"LOW_Total_CO2_Power",2031
+"522","Thailand",59.4013093532897,"LOW_Total_CO2_Power",2032
+"523","Thailand",58.2117778157444,"LOW_Total_CO2_Power",2033
+"524","Thailand",57.0653589810008,"LOW_Total_CO2_Power",2034
+"525","Thailand",55.9607109184455,"LOW_Total_CO2_Power",2035
+"526","Thailand",54.9000543709493,"LOW_Total_CO2_Power",2036
+"527","Thailand",53.8790934507189,"LOW_Total_CO2_Power",2037
+"528","Thailand",52.8964969646549,"LOW_Total_CO2_Power",2038
+"529","Thailand",51.9511590208484,"LOW_Total_CO2_Power",2039
+"530","Thailand",51.0419749442611,"LOW_Total_CO2_Power",2040
+"531","Thailand",50.1723449491378,"LOW_Total_CO2_Power",2041
+"532","Thailand",49.3595326512894,"LOW_Total_CO2_Power",2042
+"533","Thailand",48.5791528384671,"LOW_Total_CO2_Power",2043
+"534","Thailand",47.8303984161148,"LOW_Total_CO2_Power",2044
+"535","Thailand",47.1121004414799,"LOW_Total_CO2_Power",2045
+"536","Thailand",46.4269547950342,"LOW_Total_CO2_Power",2046
+"537","Thailand",45.7708191368351,"LOW_Total_CO2_Power",2047
+"538","Thailand",45.1415135102074,"LOW_Total_CO2_Power",2048
+"539","Thailand",44.5365743747608,"LOW_Total_CO2_Power",2049
+"540","Thailand",43.9535751229084,"LOW_Total_CO2_Power",2050
+"541","Ukraine",88.6087937053829,"LOW_Total_CO2_Power",2015
+"542","Ukraine",84.8048463475325,"LOW_Total_CO2_Power",2016
+"543","Ukraine",81.2044047013904,"LOW_Total_CO2_Power",2017
+"544","Ukraine",77.8003137072899,"LOW_Total_CO2_Power",2018
+"545","Ukraine",74.5815297941203,"LOW_Total_CO2_Power",2019
+"546","Ukraine",71.5226183200296,"LOW_Total_CO2_Power",2020
+"547","Ukraine",68.6126877846522,"LOW_Total_CO2_Power",2021
+"548","Ukraine",65.8476723914087,"LOW_Total_CO2_Power",2022
+"549","Ukraine",63.2186457687564,"LOW_Total_CO2_Power",2023
+"550","Ukraine",60.7163376463489,"LOW_Total_CO2_Power",2024
+"551","Ukraine",58.3330025925179,"LOW_Total_CO2_Power",2025
+"552","Ukraine",56.0606928102636,"LOW_Total_CO2_Power",2026
+"553","Ukraine",53.8971532453495,"LOW_Total_CO2_Power",2027
+"554","Ukraine",51.8385556041123,"LOW_Total_CO2_Power",2028
+"555","Ukraine",49.8821174256114,"LOW_Total_CO2_Power",2029
+"556","Ukraine",48.024619383939,"LOW_Total_CO2_Power",2030
+"557","Ukraine",46.2591034709906,"LOW_Total_CO2_Power",2031
+"558","Ukraine",44.5979387735716,"LOW_Total_CO2_Power",2032
+"559","Ukraine",43.0228715833006,"LOW_Total_CO2_Power",2033
+"560","Ukraine",41.5299726188468,"LOW_Total_CO2_Power",2034
+"561","Ukraine",40.1152436384766,"LOW_Total_CO2_Power",2035
+"562","Ukraine",38.7724493097722,"LOW_Total_CO2_Power",2036
+"563","Ukraine",37.5004804919318,"LOW_Total_CO2_Power",2037
+"564","Ukraine",36.2955964920734,"LOW_Total_CO2_Power",2038
+"565","Ukraine",35.1543873480462,"LOW_Total_CO2_Power",2039
+"566","Ukraine",34.0735506867192,"LOW_Total_CO2_Power",2040
+"567","Ukraine",33.0470336473245,"LOW_Total_CO2_Power",2041
+"568","Ukraine",32.0882672817595,"LOW_Total_CO2_Power",2042
+"569","Ukraine",31.1799412030775,"LOW_Total_CO2_Power",2043
+"570","Ukraine",30.3185448143147,"LOW_Total_CO2_Power",2044
+"571","Ukraine",29.5009830852487,"LOW_Total_CO2_Power",2045
+"572","Ukraine",28.7218233716713,"LOW_Total_CO2_Power",2046
+"573","Ukraine",27.9827085568167,"LOW_Total_CO2_Power",2047
+"574","Ukraine",27.281300227164,"LOW_Total_CO2_Power",2048
+"575","Ukraine",26.6153588426057,"LOW_Total_CO2_Power",2049
+"576","Ukraine",25.9829090547257,"LOW_Total_CO2_Power",2050
+"577","Viet Nam",72.9280245669734,"LOW_Total_CO2_Power",2015
+"578","Viet Nam",71.6262423542779,"LOW_Total_CO2_Power",2016
+"579","Viet Nam",70.4116262436393,"LOW_Total_CO2_Power",2017
+"580","Viet Nam",69.0852537462177,"LOW_Total_CO2_Power",2018
+"581","Viet Nam",67.8689282584678,"LOW_Total_CO2_Power",2019
+"582","Viet Nam",66.7077952040764,"LOW_Total_CO2_Power",2020
+"583","Viet Nam",65.601463286846,"LOW_Total_CO2_Power",2021
+"584","Viet Nam",64.5437657064365,"LOW_Total_CO2_Power",2022
+"585","Viet Nam",63.5303048545841,"LOW_Total_CO2_Power",2023
+"586","Viet Nam",62.5561043653445,"LOW_Total_CO2_Power",2024
+"587","Viet Nam",61.6176826120566,"LOW_Total_CO2_Power",2025
+"588","Viet Nam",60.7121289839669,"LOW_Total_CO2_Power",2026
+"589","Viet Nam",59.8431460872602,"LOW_Total_CO2_Power",2027
+"590","Viet Nam",59.0104068579729,"LOW_Total_CO2_Power",2028
+"591","Viet Nam",58.2133963407413,"LOW_Total_CO2_Power",2029
+"592","Viet Nam",57.4519316050766,"LOW_Total_CO2_Power",2030
+"593","Viet Nam",56.7278643074325,"LOW_Total_CO2_Power",2031
+"594","Viet Nam",56.0615341954795,"LOW_Total_CO2_Power",2032
+"595","Viet Nam",55.4310032923999,"LOW_Total_CO2_Power",2033
+"596","Viet Nam",54.838548125102,"LOW_Total_CO2_Power",2034
+"597","Viet Nam",54.285188991682,"LOW_Total_CO2_Power",2035
+"598","Viet Nam",53.7706983811215,"LOW_Total_CO2_Power",2036
+"599","Viet Nam",53.293575299768,"LOW_Total_CO2_Power",2037
+"600","Viet Nam",52.8529728210065,"LOW_Total_CO2_Power",2038
+"601","Viet Nam",52.4475643525103,"LOW_Total_CO2_Power",2039
+"602","Viet Nam",52.0759385026958,"LOW_Total_CO2_Power",2040
+"603","Viet Nam",51.7380719814257,"LOW_Total_CO2_Power",2041
+"604","Viet Nam",51.4547586013541,"LOW_Total_CO2_Power",2042
+"605","Viet Nam",51.2010771125622,"LOW_Total_CO2_Power",2043
+"606","Viet Nam",50.9746868443966,"LOW_Total_CO2_Power",2044
+"607","Viet Nam",50.773653966665,"LOW_Total_CO2_Power",2045
+"608","Viet Nam",50.5989709620047,"LOW_Total_CO2_Power",2046
+"609","Viet Nam",50.4484039658969,"LOW_Total_CO2_Power",2047
+"610","Viet Nam",50.320502617893,"LOW_Total_CO2_Power",2048
+"611","Viet Nam",50.2137607343036,"LOW_Total_CO2_Power",2049
+"612","Viet Nam",50.1266231511072,"LOW_Total_CO2_Power",2050
+"613","Bangladesh",33.2713527245615,"BASE_Total_CO2_Power",2015
+"614","Bangladesh",36.8873411096205,"BASE_Total_CO2_Power",2016
+"615","Bangladesh",40.6210531780643,"BASE_Total_CO2_Power",2017
+"616","Bangladesh",44.0764888626928,"BASE_Total_CO2_Power",2018
+"617","Bangladesh",47.5990814345293,"BASE_Total_CO2_Power",2019
+"618","Bangladesh",51.1753245122192,"BASE_Total_CO2_Power",2020
+"619","Bangladesh",54.8062305053308,"BASE_Total_CO2_Power",2021
+"620","Bangladesh",58.4922255935831,"BASE_Total_CO2_Power",2022
+"621","Bangladesh",62.2293846062497,"BASE_Total_CO2_Power",2023
+"622","Bangladesh",66.0116022093357,"BASE_Total_CO2_Power",2024
+"623","Bangladesh",69.8331711948817,"BASE_Total_CO2_Power",2025
+"624","Bangladesh",73.689007426932,"BASE_Total_CO2_Power",2026
+"625","Bangladesh",77.5790495893298,"BASE_Total_CO2_Power",2027
+"626","Bangladesh",81.5024754367,"BASE_Total_CO2_Power",2028
+"627","Bangladesh",85.4600154240499,"BASE_Total_CO2_Power",2029
+"628","Bangladesh",89.4519805763472,"BASE_Total_CO2_Power",2030
+"629","Bangladesh",93.4746324318713,"BASE_Total_CO2_Power",2031
+"630","Bangladesh",97.5934372801759,"BASE_Total_CO2_Power",2032
+"631","Bangladesh",101.743529728659,"BASE_Total_CO2_Power",2033
+"632","Bangladesh",105.924684549122,"BASE_Total_CO2_Power",2034
+"633","Bangladesh",110.136520436441,"BASE_Total_CO2_Power",2035
+"634","Bangladesh",114.376928277664,"BASE_Total_CO2_Power",2036
+"635","Bangladesh",118.64667902092,"BASE_Total_CO2_Power",2037
+"636","Bangladesh",122.943214498904,"BASE_Total_CO2_Power",2038
+"637","Bangladesh",127.263209390088,"BASE_Total_CO2_Power",2039
+"638","Bangladesh",131.604226384991,"BASE_Total_CO2_Power",2040
+"639","Bangladesh",135.965386657701,"BASE_Total_CO2_Power",2041
+"640","Bangladesh",140.412630808023,"BASE_Total_CO2_Power",2042
+"641","Bangladesh",144.880046022422,"BASE_Total_CO2_Power",2043
+"642","Bangladesh",149.366701568149,"BASE_Total_CO2_Power",2044
+"643","Bangladesh",153.871824735575,"BASE_Total_CO2_Power",2045
+"644","Bangladesh",158.395574577105,"BASE_Total_CO2_Power",2046
+"645","Bangladesh",162.937855912968,"BASE_Total_CO2_Power",2047
+"646","Bangladesh",167.497825601475,"BASE_Total_CO2_Power",2048
+"647","Bangladesh",172.076161155865,"BASE_Total_CO2_Power",2049
+"648","Bangladesh",176.674325917448,"BASE_Total_CO2_Power",2050
+"649","Egypt",92.1045437056028,"BASE_Total_CO2_Power",2015
+"650","Egypt",95.4178212950555,"BASE_Total_CO2_Power",2016
+"651","Egypt",98.720556948136,"BASE_Total_CO2_Power",2017
+"652","Egypt",101.790758150709,"BASE_Total_CO2_Power",2018
+"653","Egypt",105.084944845702,"BASE_Total_CO2_Power",2019
+"654","Egypt",108.396415711099,"BASE_Total_CO2_Power",2020
+"655","Egypt",111.758152324776,"BASE_Total_CO2_Power",2021
+"656","Egypt",115.12064127902,"BASE_Total_CO2_Power",2022
+"657","Egypt",118.502368937514,"BASE_Total_CO2_Power",2023
+"658","Egypt",121.933176560592,"BASE_Total_CO2_Power",2024
+"659","Egypt",125.428882779598,"BASE_Total_CO2_Power",2025
+"660","Egypt",128.964162533786,"BASE_Total_CO2_Power",2026
+"661","Egypt",132.5652648956,"BASE_Total_CO2_Power",2027
+"662","Egypt",136.228409900496,"BASE_Total_CO2_Power",2028
+"663","Egypt",139.940329514287,"BASE_Total_CO2_Power",2029
+"664","Egypt",143.693981205,"BASE_Total_CO2_Power",2030
+"665","Egypt",147.487451612025,"BASE_Total_CO2_Power",2031
+"666","Egypt",151.482117766618,"BASE_Total_CO2_Power",2032
+"667","Egypt",155.526831795283,"BASE_Total_CO2_Power",2033
+"668","Egypt",159.627666027371,"BASE_Total_CO2_Power",2034
+"669","Egypt",163.787205663345,"BASE_Total_CO2_Power",2035
+"670","Egypt",167.993097903828,"BASE_Total_CO2_Power",2036
+"671","Egypt",172.256629152053,"BASE_Total_CO2_Power",2037
+"672","Egypt",176.569729019943,"BASE_Total_CO2_Power",2038
+"673","Egypt",180.921753790865,"BASE_Total_CO2_Power",2039
+"674","Egypt",185.30469214567,"BASE_Total_CO2_Power",2040
+"675","Egypt",189.707517884868,"BASE_Total_CO2_Power",2041
+"676","Egypt",194.296450712862,"BASE_Total_CO2_Power",2042
+"677","Egypt",198.914220678339,"BASE_Total_CO2_Power",2043
+"678","Egypt",203.558448366056,"BASE_Total_CO2_Power",2044
+"679","Egypt",208.227092052026,"BASE_Total_CO2_Power",2045
+"680","Egypt",212.918353787805,"BASE_Total_CO2_Power",2046
+"681","Egypt",217.630704573562,"BASE_Total_CO2_Power",2047
+"682","Egypt",222.364309229411,"BASE_Total_CO2_Power",2048
+"683","Egypt",227.119278417892,"BASE_Total_CO2_Power",2049
+"684","Egypt",231.895086717319,"BASE_Total_CO2_Power",2050
+"685","Indonesia",177.490799209466,"BASE_Total_CO2_Power",2015
+"686","Indonesia",185.251890196158,"BASE_Total_CO2_Power",2016
+"687","Indonesia",193.257984215975,"BASE_Total_CO2_Power",2017
+"688","Indonesia",201.065966506242,"BASE_Total_CO2_Power",2018
+"689","Indonesia",209.043203332894,"BASE_Total_CO2_Power",2019
+"690","Indonesia",217.151216163197,"BASE_Total_CO2_Power",2020
+"691","Indonesia",225.407480560859,"BASE_Total_CO2_Power",2021
+"692","Indonesia",233.788784466094,"BASE_Total_CO2_Power",2022
+"693","Indonesia",242.311761915047,"BASE_Total_CO2_Power",2023
+"694","Indonesia",251.00657782528,"BASE_Total_CO2_Power",2024
+"695","Indonesia",259.88958811452,"BASE_Total_CO2_Power",2025
+"696","Indonesia",268.912851922104,"BASE_Total_CO2_Power",2026
+"697","Indonesia",278.132355555671,"BASE_Total_CO2_Power",2027
+"698","Indonesia",287.541590491561,"BASE_Total_CO2_Power",2028
+"699","Indonesia",297.12198479605,"BASE_Total_CO2_Power",2029
+"700","Indonesia",306.862592524955,"BASE_Total_CO2_Power",2030
+"701","Indonesia",316.740705946186,"BASE_Total_CO2_Power",2031
+"702","Indonesia",326.966293298801,"BASE_Total_CO2_Power",2032
+"703","Indonesia",337.373217236382,"BASE_Total_CO2_Power",2033
+"704","Indonesia",347.969454701918,"BASE_Total_CO2_Power",2034
+"705","Indonesia",358.76056000019,"BASE_Total_CO2_Power",2035
+"706","Indonesia",369.71168594444,"BASE_Total_CO2_Power",2036
+"707","Indonesia",380.870788846635,"BASE_Total_CO2_Power",2037
+"708","Indonesia",392.24370512022,"BASE_Total_CO2_Power",2038
+"709","Indonesia",403.837781777825,"BASE_Total_CO2_Power",2039
+"710","Indonesia",415.659170654535,"BASE_Total_CO2_Power",2040
+"711","Indonesia",427.664789184949,"BASE_Total_CO2_Power",2041
+"712","Indonesia",440.093612667687,"BASE_Total_CO2_Power",2042
+"713","Indonesia",452.775017832957,"BASE_Total_CO2_Power",2043
+"714","Indonesia",465.705152608198,"BASE_Total_CO2_Power",2044
+"715","Indonesia",478.883080761616,"BASE_Total_CO2_Power",2045
+"716","Indonesia",492.255593059296,"BASE_Total_CO2_Power",2046
+"717","Indonesia",505.897470906625,"BASE_Total_CO2_Power",2047
+"718","Indonesia",519.824274058368,"BASE_Total_CO2_Power",2048
+"719","Indonesia",534.05756973263,"BASE_Total_CO2_Power",2049
+"720","Indonesia",548.612399701445,"BASE_Total_CO2_Power",2050
+"721","Islamic Republic of Iran",158.511018208437,"BASE_Total_CO2_Power",2015
+"722","Islamic Republic of Iran",166.768204629022,"BASE_Total_CO2_Power",2016
+"723","Islamic Republic of Iran",170.813599505326,"BASE_Total_CO2_Power",2017
+"724","Islamic Republic of Iran",174.899259203455,"BASE_Total_CO2_Power",2018
+"725","Islamic Republic of Iran",179.289557706078,"BASE_Total_CO2_Power",2019
+"726","Islamic Republic of Iran",183.724682969851,"BASE_Total_CO2_Power",2020
+"727","Islamic Republic of Iran",188.215935425252,"BASE_Total_CO2_Power",2021
+"728","Islamic Republic of Iran",192.745611438551,"BASE_Total_CO2_Power",2022
+"729","Islamic Republic of Iran",197.319049504723,"BASE_Total_CO2_Power",2023
+"730","Islamic Republic of Iran",201.940657339175,"BASE_Total_CO2_Power",2024
+"731","Islamic Republic of Iran",206.613261683513,"BASE_Total_CO2_Power",2025
+"732","Islamic Republic of Iran",211.336890285649,"BASE_Total_CO2_Power",2026
+"733","Islamic Republic of Iran",216.118318430467,"BASE_Total_CO2_Power",2027
+"734","Islamic Republic of Iran",220.963866395443,"BASE_Total_CO2_Power",2028
+"735","Islamic Republic of Iran",225.87762926121,"BASE_Total_CO2_Power",2029
+"736","Islamic Republic of Iran",230.863349995222,"BASE_Total_CO2_Power",2030
+"737","Islamic Republic of Iran",235.928411397418,"BASE_Total_CO2_Power",2031
+"738","Islamic Republic of Iran",241.112095394343,"BASE_Total_CO2_Power",2032
+"739","Islamic Republic of Iran",246.380918992093,"BASE_Total_CO2_Power",2033
+"740","Islamic Republic of Iran",251.745544771163,"BASE_Total_CO2_Power",2034
+"741","Islamic Republic of Iran",257.212105310134,"BASE_Total_CO2_Power",2035
+"742","Islamic Republic of Iran",262.784895923915,"BASE_Total_CO2_Power",2036
+"743","Islamic Republic of Iran",268.464669389365,"BASE_Total_CO2_Power",2037
+"744","Islamic Republic of Iran",274.240346313093,"BASE_Total_CO2_Power",2038
+"745","Islamic Republic of Iran",280.096029565847,"BASE_Total_CO2_Power",2039
+"746","Islamic Republic of Iran",286.018721228469,"BASE_Total_CO2_Power",2040
+"747","Islamic Republic of Iran",292.02093302732,"BASE_Total_CO2_Power",2041
+"748","Islamic Republic of Iran",298.136096097066,"BASE_Total_CO2_Power",2042
+"749","Islamic Republic of Iran",304.303704103711,"BASE_Total_CO2_Power",2043
+"750","Islamic Republic of Iran",310.497600016403,"BASE_Total_CO2_Power",2044
+"751","Islamic Republic of Iran",316.69879736409,"BASE_Total_CO2_Power",2045
+"752","Islamic Republic of Iran",322.92825943963,"BASE_Total_CO2_Power",2046
+"753","Islamic Republic of Iran",329.163522171596,"BASE_Total_CO2_Power",2047
+"754","Islamic Republic of Iran",335.413175091962,"BASE_Total_CO2_Power",2048
+"755","Islamic Republic of Iran",341.698612543265,"BASE_Total_CO2_Power",2049
+"756","Islamic Republic of Iran",348.037826816454,"BASE_Total_CO2_Power",2050
+"757","Kazakhstan",89.4622532475421,"BASE_Total_CO2_Power",2015
+"758","Kazakhstan",89.7806435231541,"BASE_Total_CO2_Power",2016
+"759","Kazakhstan",90.5895891266732,"BASE_Total_CO2_Power",2017
+"760","Kazakhstan",91.2149485029528,"BASE_Total_CO2_Power",2018
+"761","Kazakhstan",91.8372187869056,"BASE_Total_CO2_Power",2019
+"762","Kazakhstan",92.4604405356353,"BASE_Total_CO2_Power",2020
+"763","Kazakhstan",93.1007994656132,"BASE_Total_CO2_Power",2021
+"764","Kazakhstan",93.7319534465669,"BASE_Total_CO2_Power",2022
+"765","Kazakhstan",94.3599886575932,"BASE_Total_CO2_Power",2023
+"766","Kazakhstan",94.9896814021475,"BASE_Total_CO2_Power",2024
+"767","Kazakhstan",95.6228847432462,"BASE_Total_CO2_Power",2025
+"768","Kazakhstan",96.2426779215326,"BASE_Total_CO2_Power",2026
+"769","Kazakhstan",96.8757691436851,"BASE_Total_CO2_Power",2027
+"770","Kazakhstan",97.5234441475254,"BASE_Total_CO2_Power",2028
+"771","Kazakhstan",98.1836609418781,"BASE_Total_CO2_Power",2029
+"772","Kazakhstan",98.8561925995694,"BASE_Total_CO2_Power",2030
+"773","Kazakhstan",99.5393245085269,"BASE_Total_CO2_Power",2031
+"774","Kazakhstan",100.29035933175,"BASE_Total_CO2_Power",2032
+"775","Kazakhstan",101.058424253958,"BASE_Total_CO2_Power",2033
+"776","Kazakhstan",101.845243639596,"BASE_Total_CO2_Power",2034
+"777","Kazakhstan",102.651904126087,"BASE_Total_CO2_Power",2035
+"778","Kazakhstan",103.470891744682,"BASE_Total_CO2_Power",2036
+"779","Kazakhstan",104.311028862536,"BASE_Total_CO2_Power",2037
+"780","Kazakhstan",105.173025216038,"BASE_Total_CO2_Power",2038
+"781","Kazakhstan",106.057866404139,"BASE_Total_CO2_Power",2039
+"782","Kazakhstan",106.966256112084,"BASE_Total_CO2_Power",2040
+"783","Kazakhstan",107.890292159211,"BASE_Total_CO2_Power",2041
+"784","Kazakhstan",108.888943478799,"BASE_Total_CO2_Power",2042
+"785","Kazakhstan",109.910499282884,"BASE_Total_CO2_Power",2043
+"786","Kazakhstan",110.953669966181,"BASE_Total_CO2_Power",2044
+"787","Kazakhstan",112.017327610253,"BASE_Total_CO2_Power",2045
+"788","Kazakhstan",113.091486130476,"BASE_Total_CO2_Power",2046
+"789","Kazakhstan",114.188907188171,"BASE_Total_CO2_Power",2047
+"790","Kazakhstan",115.303880097072,"BASE_Total_CO2_Power",2048
+"791","Kazakhstan",116.427484179856,"BASE_Total_CO2_Power",2049
+"792","Kazakhstan",117.55442486445,"BASE_Total_CO2_Power",2050
+"793","Malaysia",103.921651456622,"BASE_Total_CO2_Power",2015
+"794","Malaysia",105.987166341105,"BASE_Total_CO2_Power",2016
+"795","Malaysia",108.650930880403,"BASE_Total_CO2_Power",2017
+"796","Malaysia",110.378287823852,"BASE_Total_CO2_Power",2018
+"797","Malaysia",112.218602656779,"BASE_Total_CO2_Power",2019
+"798","Malaysia",114.080482161362,"BASE_Total_CO2_Power",2020
+"799","Malaysia",115.969003899135,"BASE_Total_CO2_Power",2021
+"800","Malaysia",117.879572376709,"BASE_Total_CO2_Power",2022
+"801","Malaysia",119.806770413424,"BASE_Total_CO2_Power",2023
+"802","Malaysia",121.742147291813,"BASE_Total_CO2_Power",2024
+"803","Malaysia",123.679486288007,"BASE_Total_CO2_Power",2025
+"804","Malaysia",125.61684307777,"BASE_Total_CO2_Power",2026
+"805","Malaysia",127.560390617842,"BASE_Total_CO2_Power",2027
+"806","Malaysia",129.509122291229,"BASE_Total_CO2_Power",2028
+"807","Malaysia",131.461724007988,"BASE_Total_CO2_Power",2029
+"808","Malaysia",133.417457791814,"BASE_Total_CO2_Power",2030
+"809","Malaysia",135.377190728303,"BASE_Total_CO2_Power",2031
+"810","Malaysia",137.519231561003,"BASE_Total_CO2_Power",2032
+"811","Malaysia",139.667404799766,"BASE_Total_CO2_Power",2033
+"812","Malaysia",141.821820617675,"BASE_Total_CO2_Power",2034
+"813","Malaysia",143.982350253084,"BASE_Total_CO2_Power",2035
+"814","Malaysia",146.148972774218,"BASE_Total_CO2_Power",2036
+"815","Malaysia",148.322171510051,"BASE_Total_CO2_Power",2037
+"816","Malaysia",150.503766025101,"BASE_Total_CO2_Power",2038
+"817","Malaysia",152.696296792751,"BASE_Total_CO2_Power",2039
+"818","Malaysia",154.900663769176,"BASE_Total_CO2_Power",2040
+"819","Malaysia",157.114276222128,"BASE_Total_CO2_Power",2041
+"820","Malaysia",159.517075883069,"BASE_Total_CO2_Power",2042
+"821","Malaysia",161.930284148435,"BASE_Total_CO2_Power",2043
+"822","Malaysia",164.346585258688,"BASE_Total_CO2_Power",2044
+"823","Malaysia",166.760473158479,"BASE_Total_CO2_Power",2045
+"824","Malaysia",169.16967885639,"BASE_Total_CO2_Power",2046
+"825","Malaysia",171.578940478636,"BASE_Total_CO2_Power",2047
+"826","Malaysia",173.986390137671,"BASE_Total_CO2_Power",2048
+"827","Malaysia",176.391452370794,"BASE_Total_CO2_Power",2049
+"828","Malaysia",178.793356725636,"BASE_Total_CO2_Power",2050
+"829","Mongolia",11.7022893601424,"BASE_Total_CO2_Power",2015
+"830","Mongolia",11.775469563318,"BASE_Total_CO2_Power",2016
+"831","Mongolia",11.8961520858728,"BASE_Total_CO2_Power",2017
+"832","Mongolia",11.9978600605642,"BASE_Total_CO2_Power",2018
+"833","Mongolia",12.1102801231809,"BASE_Total_CO2_Power",2019
+"834","Mongolia",12.2197474725625,"BASE_Total_CO2_Power",2020
+"835","Mongolia",12.3277506580506,"BASE_Total_CO2_Power",2021
+"836","Mongolia",12.4317988988871,"BASE_Total_CO2_Power",2022
+"837","Mongolia",12.5329837607033,"BASE_Total_CO2_Power",2023
+"838","Mongolia",12.6327195443115,"BASE_Total_CO2_Power",2024
+"839","Mongolia",12.7321456648087,"BASE_Total_CO2_Power",2025
+"840","Mongolia",12.830429040316,"BASE_Total_CO2_Power",2026
+"841","Mongolia",12.9294802894943,"BASE_Total_CO2_Power",2027
+"842","Mongolia",13.0296778655858,"BASE_Total_CO2_Power",2028
+"843","Mongolia",13.1308396754493,"BASE_Total_CO2_Power",2029
+"844","Mongolia",13.2331533417317,"BASE_Total_CO2_Power",2030
+"845","Mongolia",13.3368050482766,"BASE_Total_CO2_Power",2031
+"846","Mongolia",13.4515637089408,"BASE_Total_CO2_Power",2032
+"847","Mongolia",13.5693712069354,"BASE_Total_CO2_Power",2033
+"848","Mongolia",13.6909078133918,"BASE_Total_CO2_Power",2034
+"849","Mongolia",13.8168649138495,"BASE_Total_CO2_Power",2035
+"850","Mongolia",13.9471678941064,"BASE_Total_CO2_Power",2036
+"851","Mongolia",14.0825099940498,"BASE_Total_CO2_Power",2037
+"852","Mongolia",14.2233291721636,"BASE_Total_CO2_Power",2038
+"853","Mongolia",14.3701698719259,"BASE_Total_CO2_Power",2039
+"854","Mongolia",14.5233581221545,"BASE_Total_CO2_Power",2040
+"855","Mongolia",14.682709477452,"BASE_Total_CO2_Power",2041
+"856","Mongolia",14.8579551341105,"BASE_Total_CO2_Power",2042
+"857","Mongolia",15.0405428586341,"BASE_Total_CO2_Power",2043
+"858","Mongolia",15.2306063098416,"BASE_Total_CO2_Power",2044
+"859","Mongolia",15.4283038542074,"BASE_Total_CO2_Power",2045
+"860","Mongolia",15.6333162092284,"BASE_Total_CO2_Power",2046
+"861","Mongolia",15.8466528576656,"BASE_Total_CO2_Power",2047
+"862","Mongolia",16.0677721313775,"BASE_Total_CO2_Power",2048
+"863","Mongolia",16.2957082217775,"BASE_Total_CO2_Power",2049
+"864","Mongolia",16.5299731583189,"BASE_Total_CO2_Power",2050
+"865","Myanmar",4.65338332083863,"BASE_Total_CO2_Power",2015
+"866","Myanmar",5.820081193164,"BASE_Total_CO2_Power",2016
+"867","Myanmar",7.05052804627276,"BASE_Total_CO2_Power",2017
+"868","Myanmar",8.23020785791295,"BASE_Total_CO2_Power",2018
+"869","Myanmar",9.38833247605246,"BASE_Total_CO2_Power",2019
+"870","Myanmar",10.5623508394838,"BASE_Total_CO2_Power",2020
+"871","Myanmar",11.7485459233318,"BASE_Total_CO2_Power",2021
+"872","Myanmar",12.9505643281357,"BASE_Total_CO2_Power",2022
+"873","Myanmar",14.1675393273709,"BASE_Total_CO2_Power",2023
+"874","Myanmar",15.3989512295318,"BASE_Total_CO2_Power",2024
+"875","Myanmar",16.6445740638855,"BASE_Total_CO2_Power",2025
+"876","Myanmar",17.9027747603499,"BASE_Total_CO2_Power",2026
+"877","Myanmar",19.1746499982078,"BASE_Total_CO2_Power",2027
+"878","Myanmar",20.4599201702436,"BASE_Total_CO2_Power",2028
+"879","Myanmar",21.7585889497245,"BASE_Total_CO2_Power",2029
+"880","Myanmar",23.070461592309,"BASE_Total_CO2_Power",2030
+"881","Myanmar",24.3927658208638,"BASE_Total_CO2_Power",2031
+"882","Myanmar",25.7471421372322,"BASE_Total_CO2_Power",2032
+"883","Myanmar",27.114366132995,"BASE_Total_CO2_Power",2033
+"884","Myanmar",28.4938127651091,"BASE_Total_CO2_Power",2034
+"885","Myanmar",29.8849712888954,"BASE_Total_CO2_Power",2035
+"886","Myanmar",31.2850685068107,"BASE_Total_CO2_Power",2036
+"887","Myanmar",32.6968846462389,"BASE_Total_CO2_Power",2037
+"888","Myanmar",34.1201988041566,"BASE_Total_CO2_Power",2038
+"889","Myanmar",35.554888408087,"BASE_Total_CO2_Power",2039
+"890","Myanmar",37.0007895274025,"BASE_Total_CO2_Power",2040
+"891","Myanmar",38.4533848413351,"BASE_Total_CO2_Power",2041
+"892","Myanmar",39.9370592572889,"BASE_Total_CO2_Power",2042
+"893","Myanmar",41.4328516225621,"BASE_Total_CO2_Power",2043
+"894","Myanmar",42.9407481603896,"BASE_Total_CO2_Power",2044
+"895","Myanmar",44.4607888278648,"BASE_Total_CO2_Power",2045
+"896","Myanmar",45.9872051839719,"BASE_Total_CO2_Power",2046
+"897","Myanmar",47.5267830748037,"BASE_Total_CO2_Power",2047
+"898","Myanmar",49.0798371978329,"BASE_Total_CO2_Power",2048
+"899","Myanmar",50.6469014329343,"BASE_Total_CO2_Power",2049
+"900","Myanmar",52.2283045959226,"BASE_Total_CO2_Power",2050
+"901","Pakistan",49.8474802001586,"BASE_Total_CO2_Power",2015
+"902","Pakistan",53.9992461945415,"BASE_Total_CO2_Power",2016
+"903","Pakistan",58.317438104887,"BASE_Total_CO2_Power",2017
+"904","Pakistan",62.2956671219992,"BASE_Total_CO2_Power",2018
+"905","Pakistan",66.4368349947911,"BASE_Total_CO2_Power",2019
+"906","Pakistan",70.67110235767,"BASE_Total_CO2_Power",2020
+"907","Pakistan",74.9946677147815,"BASE_Total_CO2_Power",2021
+"908","Pakistan",79.4050988455366,"BASE_Total_CO2_Power",2022
+"909","Pakistan",83.9013059215224,"BASE_Total_CO2_Power",2023
+"910","Pakistan",88.4817409455858,"BASE_Total_CO2_Power",2024
+"911","Pakistan",93.1440389114535,"BASE_Total_CO2_Power",2025
+"912","Pakistan",97.8771563184708,"BASE_Total_CO2_Power",2026
+"913","Pakistan",102.688809435754,"BASE_Total_CO2_Power",2027
+"914","Pakistan",107.577166970795,"BASE_Total_CO2_Power",2028
+"915","Pakistan",112.540006276895,"BASE_Total_CO2_Power",2029
+"916","Pakistan",117.57569436026,"BASE_Total_CO2_Power",2030
+"917","Pakistan",122.675499515175,"BASE_Total_CO2_Power",2031
+"918","Pakistan",127.916019149228,"BASE_Total_CO2_Power",2032
+"919","Pakistan",133.227895816989,"BASE_Total_CO2_Power",2033
+"920","Pakistan",138.611964921831,"BASE_Total_CO2_Power",2034
+"921","Pakistan",144.068088763125,"BASE_Total_CO2_Power",2035
+"922","Pakistan",149.585094298921,"BASE_Total_CO2_Power",2036
+"923","Pakistan",155.172615645438,"BASE_Total_CO2_Power",2037
+"924","Pakistan",160.826697080007,"BASE_Total_CO2_Power",2038
+"925","Pakistan",166.542469989997,"BASE_Total_CO2_Power",2039
+"926","Pakistan",172.315501721428,"BASE_Total_CO2_Power",2040
+"927","Pakistan",178.13271965597,"BASE_Total_CO2_Power",2041
+"928","Pakistan",184.074910506462,"BASE_Total_CO2_Power",2042
+"929","Pakistan",190.067087071532,"BASE_Total_CO2_Power",2043
+"930","Pakistan",196.103446154396,"BASE_Total_CO2_Power",2044
+"931","Pakistan",202.178767536062,"BASE_Total_CO2_Power",2045
+"932","Pakistan",208.280102316775,"BASE_Total_CO2_Power",2046
+"933","Pakistan",214.416234756258,"BASE_Total_CO2_Power",2047
+"934","Pakistan",220.58185635561,"BASE_Total_CO2_Power",2048
+"935","Pakistan",226.771243184024,"BASE_Total_CO2_Power",2049
+"936","Pakistan",232.979604171115,"BASE_Total_CO2_Power",2050
+"937","Philippines",52.9600897292598,"BASE_Total_CO2_Power",2015
+"938","Philippines",56.1011794835192,"BASE_Total_CO2_Power",2016
+"939","Philippines",59.3122820943682,"BASE_Total_CO2_Power",2017
+"940","Philippines",61.8457187399632,"BASE_Total_CO2_Power",2018
+"941","Philippines",64.2890643353636,"BASE_Total_CO2_Power",2019
+"942","Philippines",66.7782203861844,"BASE_Total_CO2_Power",2020
+"943","Philippines",69.309115521309,"BASE_Total_CO2_Power",2021
+"944","Philippines",71.885755033446,"BASE_Total_CO2_Power",2022
+"945","Philippines",74.507892965832,"BASE_Total_CO2_Power",2023
+"946","Philippines",77.1749005130063,"BASE_Total_CO2_Power",2024
+"947","Philippines",79.8859316691847,"BASE_Total_CO2_Power",2025
+"948","Philippines",82.6345311462471,"BASE_Total_CO2_Power",2026
+"949","Philippines",85.4270508107507,"BASE_Total_CO2_Power",2027
+"950","Philippines",88.2626093224237,"BASE_Total_CO2_Power",2028
+"951","Philippines",91.1399073804347,"BASE_Total_CO2_Power",2029
+"952","Philippines",94.0577935045855,"BASE_Total_CO2_Power",2030
+"953","Philippines",97.0079306547113,"BASE_Total_CO2_Power",2031
+"954","Philippines",100.013442136369,"BASE_Total_CO2_Power",2032
+"955","Philippines",103.059285970395,"BASE_Total_CO2_Power",2033
+"956","Philippines",106.145581007169,"BASE_Total_CO2_Power",2034
+"957","Philippines",109.272029180162,"BASE_Total_CO2_Power",2035
+"958","Philippines",112.429078581673,"BASE_Total_CO2_Power",2036
+"959","Philippines",115.626463872534,"BASE_Total_CO2_Power",2037
+"960","Philippines",118.862809158352,"BASE_Total_CO2_Power",2038
+"961","Philippines",122.136304863447,"BASE_Total_CO2_Power",2039
+"962","Philippines",125.445609764929,"BASE_Total_CO2_Power",2040
+"963","Philippines",128.780733086702,"BASE_Total_CO2_Power",2041
+"964","Philippines",132.167077052853,"BASE_Total_CO2_Power",2042
+"965","Philippines",135.5899734534,"BASE_Total_CO2_Power",2043
+"966","Philippines",139.050162899545,"BASE_Total_CO2_Power",2044
+"967","Philippines",142.547649688475,"BASE_Total_CO2_Power",2045
+"968","Philippines",146.06888062649,"BASE_Total_CO2_Power",2046
+"969","Philippines",149.627711328482,"BASE_Total_CO2_Power",2047
+"970","Philippines",153.22324550578,"BASE_Total_CO2_Power",2048
+"971","Philippines",156.854283117895,"BASE_Total_CO2_Power",2049
+"972","Philippines",160.519660271552,"BASE_Total_CO2_Power",2050
+"973","Russian Federation",764.032416312537,"BASE_Total_CO2_Power",2015
+"974","Russian Federation",762.062855259583,"BASE_Total_CO2_Power",2016
+"975","Russian Federation",762.982317785789,"BASE_Total_CO2_Power",2017
+"976","Russian Federation",765.403051806646,"BASE_Total_CO2_Power",2018
+"977","Russian Federation",767.553910006658,"BASE_Total_CO2_Power",2019
+"978","Russian Federation",769.604934621482,"BASE_Total_CO2_Power",2020
+"979","Russian Federation",771.569161149534,"BASE_Total_CO2_Power",2021
+"980","Russian Federation",773.402652862808,"BASE_Total_CO2_Power",2022
+"981","Russian Federation",775.144427582317,"BASE_Total_CO2_Power",2023
+"982","Russian Federation",776.851343361151,"BASE_Total_CO2_Power",2024
+"983","Russian Federation",778.557630984947,"BASE_Total_CO2_Power",2025
+"984","Russian Federation",780.155741267321,"BASE_Total_CO2_Power",2026
+"985","Russian Federation",781.784008827476,"BASE_Total_CO2_Power",2027
+"986","Russian Federation",783.465105316803,"BASE_Total_CO2_Power",2028
+"987","Russian Federation",785.215602515775,"BASE_Total_CO2_Power",2029
+"988","Russian Federation",787.051410040794,"BASE_Total_CO2_Power",2030
+"989","Russian Federation",788.933272762085,"BASE_Total_CO2_Power",2031
+"990","Russian Federation",790.930142156399,"BASE_Total_CO2_Power",2032
+"991","Russian Federation",793.025299424038,"BASE_Total_CO2_Power",2033
+"992","Russian Federation",795.189541430814,"BASE_Total_CO2_Power",2034
+"993","Russian Federation",797.401311581027,"BASE_Total_CO2_Power",2035
+"994","Russian Federation",799.592372096164,"BASE_Total_CO2_Power",2036
+"995","Russian Federation",801.848108770552,"BASE_Total_CO2_Power",2037
+"996","Russian Federation",804.188091843237,"BASE_Total_CO2_Power",2038
+"997","Russian Federation",806.646991034604,"BASE_Total_CO2_Power",2039
+"998","Russian Federation",809.247713695553,"BASE_Total_CO2_Power",2040
+"999","Russian Federation",811.883828571356,"BASE_Total_CO2_Power",2041
+"1000","Russian Federation",814.672828542479,"BASE_Total_CO2_Power",2042
+"1001","Russian Federation",817.588666786622,"BASE_Total_CO2_Power",2043
+"1002","Russian Federation",820.597323016659,"BASE_Total_CO2_Power",2044
+"1003","Russian Federation",823.673586053048,"BASE_Total_CO2_Power",2045
+"1004","Russian Federation",826.701974620245,"BASE_Total_CO2_Power",2046
+"1005","Russian Federation",829.829635357755,"BASE_Total_CO2_Power",2047
+"1006","Russian Federation",833.033504557946,"BASE_Total_CO2_Power",2048
+"1007","Russian Federation",836.280202324481,"BASE_Total_CO2_Power",2049
+"1008","Russian Federation",839.549022837186,"BASE_Total_CO2_Power",2050
+"1009","Saudi Arabia",283.844703736645,"BASE_Total_CO2_Power",2015
+"1010","Saudi Arabia",287.887628417928,"BASE_Total_CO2_Power",2016
+"1011","Saudi Arabia",289.80059257447,"BASE_Total_CO2_Power",2017
+"1012","Saudi Arabia",294.368022874062,"BASE_Total_CO2_Power",2018
+"1013","Saudi Arabia",298.871177001155,"BASE_Total_CO2_Power",2019
+"1014","Saudi Arabia",303.278850881883,"BASE_Total_CO2_Power",2020
+"1015","Saudi Arabia",307.505354771043,"BASE_Total_CO2_Power",2021
+"1016","Saudi Arabia",311.655148411415,"BASE_Total_CO2_Power",2022
+"1017","Saudi Arabia",315.726535721256,"BASE_Total_CO2_Power",2023
+"1018","Saudi Arabia",319.708789461287,"BASE_Total_CO2_Power",2024
+"1019","Saudi Arabia",323.602610659083,"BASE_Total_CO2_Power",2025
+"1020","Saudi Arabia",327.447995518529,"BASE_Total_CO2_Power",2026
+"1021","Saudi Arabia",331.22770819962,"BASE_Total_CO2_Power",2027
+"1022","Saudi Arabia",334.950936209291,"BASE_Total_CO2_Power",2028
+"1023","Saudi Arabia",338.630886083082,"BASE_Total_CO2_Power",2029
+"1024","Saudi Arabia",342.273492907281,"BASE_Total_CO2_Power",2030
+"1025","Saudi Arabia",345.876330339852,"BASE_Total_CO2_Power",2031
+"1026","Saudi Arabia",349.527236204861,"BASE_Total_CO2_Power",2032
+"1027","Saudi Arabia",353.132848387707,"BASE_Total_CO2_Power",2033
+"1028","Saudi Arabia",356.666162233332,"BASE_Total_CO2_Power",2034
+"1029","Saudi Arabia",360.111894723073,"BASE_Total_CO2_Power",2035
+"1030","Saudi Arabia",363.462987230533,"BASE_Total_CO2_Power",2036
+"1031","Saudi Arabia",366.73984469557,"BASE_Total_CO2_Power",2037
+"1032","Saudi Arabia",369.953281915691,"BASE_Total_CO2_Power",2038
+"1033","Saudi Arabia",373.123149025359,"BASE_Total_CO2_Power",2039
+"1034","Saudi Arabia",376.266700600285,"BASE_Total_CO2_Power",2040
+"1035","Saudi Arabia",379.396877277128,"BASE_Total_CO2_Power",2041
+"1036","Saudi Arabia",382.572322562891,"BASE_Total_CO2_Power",2042
+"1037","Saudi Arabia",385.726701483469,"BASE_Total_CO2_Power",2043
+"1038","Saudi Arabia",388.867906948354,"BASE_Total_CO2_Power",2044
+"1039","Saudi Arabia",391.99946973977,"BASE_Total_CO2_Power",2045
+"1040","Saudi Arabia",395.131338921066,"BASE_Total_CO2_Power",2046
+"1041","Saudi Arabia",398.256322682299,"BASE_Total_CO2_Power",2047
+"1042","Saudi Arabia",401.353469403039,"BASE_Total_CO2_Power",2048
+"1043","Saudi Arabia",404.395443080401,"BASE_Total_CO2_Power",2049
+"1044","Saudi Arabia",407.363340806474,"BASE_Total_CO2_Power",2050
+"1045","Singapore",18.273448351436,"BASE_Total_CO2_Power",2015
+"1046","Singapore",18.7634943838309,"BASE_Total_CO2_Power",2016
+"1047","Singapore",19.4600852312262,"BASE_Total_CO2_Power",2017
+"1048","Singapore",19.9861478174087,"BASE_Total_CO2_Power",2018
+"1049","Singapore",20.5284507581602,"BASE_Total_CO2_Power",2019
+"1050","Singapore",21.0554504636592,"BASE_Total_CO2_Power",2020
+"1051","Singapore",21.5630211102568,"BASE_Total_CO2_Power",2021
+"1052","Singapore",22.0488145677396,"BASE_Total_CO2_Power",2022
+"1053","Singapore",22.5144576261553,"BASE_Total_CO2_Power",2023
+"1054","Singapore",22.9649006633382,"BASE_Total_CO2_Power",2024
+"1055","Singapore",23.4044260110352,"BASE_Total_CO2_Power",2025
+"1056","Singapore",23.8363807866385,"BASE_Total_CO2_Power",2026
+"1057","Singapore",24.256377565007,"BASE_Total_CO2_Power",2027
+"1058","Singapore",24.6625319134248,"BASE_Total_CO2_Power",2028
+"1059","Singapore",25.0511490376971,"BASE_Total_CO2_Power",2029
+"1060","Singapore",25.4180305520467,"BASE_Total_CO2_Power",2030
+"1061","Singapore",25.7622681237371,"BASE_Total_CO2_Power",2031
+"1062","Singapore",26.0843317467154,"BASE_Total_CO2_Power",2032
+"1063","Singapore",26.3741876200155,"BASE_Total_CO2_Power",2033
+"1064","Singapore",26.6276730142104,"BASE_Total_CO2_Power",2034
+"1065","Singapore",26.841458825478,"BASE_Total_CO2_Power",2035
+"1066","Singapore",27.0117981728342,"BASE_Total_CO2_Power",2036
+"1067","Singapore",27.1344253957318,"BASE_Total_CO2_Power",2037
+"1068","Singapore",27.2053121991722,"BASE_Total_CO2_Power",2038
+"1069","Singapore",27.2194662955504,"BASE_Total_CO2_Power",2039
+"1070","Singapore",27.171231940465,"BASE_Total_CO2_Power",2040
+"1071","Singapore",27.0492985201385,"BASE_Total_CO2_Power",2041
+"1072","Singapore",26.8383970491474,"BASE_Total_CO2_Power",2042
+"1073","Singapore",26.5385973272945,"BASE_Total_CO2_Power",2043
+"1074","Singapore",26.1433753077147,"BASE_Total_CO2_Power",2044
+"1075","Singapore",25.647379634686,"BASE_Total_CO2_Power",2045
+"1076","Singapore",25.0289594980701,"BASE_Total_CO2_Power",2046
+"1077","Singapore",24.2858648533654,"BASE_Total_CO2_Power",2047
+"1078","Singapore",23.4087511344392,"BASE_Total_CO2_Power",2048
+"1079","Singapore",22.3871411020278,"BASE_Total_CO2_Power",2049
+"1080","Singapore",21.2116507952466,"BASE_Total_CO2_Power",2050
+"1081","Sri Lanka",7.43536905298107,"BASE_Total_CO2_Power",2015
+"1082","Sri Lanka",7.99109729156802,"BASE_Total_CO2_Power",2016
+"1083","Sri Lanka",8.4452698613457,"BASE_Total_CO2_Power",2017
+"1084","Sri Lanka",9.04291932096693,"BASE_Total_CO2_Power",2018
+"1085","Sri Lanka",9.61573002947901,"BASE_Total_CO2_Power",2019
+"1086","Sri Lanka",10.197594438492,"BASE_Total_CO2_Power",2020
+"1087","Sri Lanka",10.7868191609212,"BASE_Total_CO2_Power",2021
+"1088","Sri Lanka",11.3861369028959,"BASE_Total_CO2_Power",2022
+"1089","Sri Lanka",11.9949366743809,"BASE_Total_CO2_Power",2023
+"1090","Sri Lanka",12.6118059532702,"BASE_Total_CO2_Power",2024
+"1091","Sri Lanka",13.2357388387116,"BASE_Total_CO2_Power",2025
+"1092","Sri Lanka",13.8672835151149,"BASE_Total_CO2_Power",2026
+"1093","Sri Lanka",14.5058346750626,"BASE_Total_CO2_Power",2027
+"1094","Sri Lanka",15.1518084135458,"BASE_Total_CO2_Power",2028
+"1095","Sri Lanka",15.8061710837061,"BASE_Total_CO2_Power",2029
+"1096","Sri Lanka",16.4694452039678,"BASE_Total_CO2_Power",2030
+"1097","Sri Lanka",17.1414596486784,"BASE_Total_CO2_Power",2031
+"1098","Sri Lanka",17.8299109323146,"BASE_Total_CO2_Power",2032
+"1099","Sri Lanka",18.5279066184009,"BASE_Total_CO2_Power",2033
+"1100","Sri Lanka",19.2357541419957,"BASE_Total_CO2_Power",2034
+"1101","Sri Lanka",19.9535518662049,"BASE_Total_CO2_Power",2035
+"1102","Sri Lanka",20.6813264850515,"BASE_Total_CO2_Power",2036
+"1103","Sri Lanka",21.4205359733237,"BASE_Total_CO2_Power",2037
+"1104","Sri Lanka",22.1702138779291,"BASE_Total_CO2_Power",2038
+"1105","Sri Lanka",22.9284502915721,"BASE_Total_CO2_Power",2039
+"1106","Sri Lanka",23.6938509175704,"BASE_Total_CO2_Power",2040
+"1107","Sri Lanka",24.4667970937168,"BASE_Total_CO2_Power",2041
+"1108","Sri Lanka",25.2554186474767,"BASE_Total_CO2_Power",2042
+"1109","Sri Lanka",26.0541188183361,"BASE_Total_CO2_Power",2043
+"1110","Sri Lanka",26.8654494086338,"BASE_Total_CO2_Power",2044
+"1111","Sri Lanka",27.6910298165595,"BASE_Total_CO2_Power",2045
+"1112","Sri Lanka",28.5324120270328,"BASE_Total_CO2_Power",2046
+"1113","Sri Lanka",29.3893726738325,"BASE_Total_CO2_Power",2047
+"1114","Sri Lanka",30.2630697617691,"BASE_Total_CO2_Power",2048
+"1115","Sri Lanka",31.1546983703631,"BASE_Total_CO2_Power",2049
+"1116","Sri Lanka",32.0649019343674,"BASE_Total_CO2_Power",2050
+"1117","Thailand",88.5766712879406,"BASE_Total_CO2_Power",2015
+"1118","Thailand",90.588982317021,"BASE_Total_CO2_Power",2016
+"1119","Thailand",92.8713015480406,"BASE_Total_CO2_Power",2017
+"1120","Thailand",94.6694607838634,"BASE_Total_CO2_Power",2018
+"1121","Thailand",96.7330978840003,"BASE_Total_CO2_Power",2019
+"1122","Thailand",98.7897646321677,"BASE_Total_CO2_Power",2020
+"1123","Thailand",100.84535789309,"BASE_Total_CO2_Power",2021
+"1124","Thailand",102.889928119462,"BASE_Total_CO2_Power",2022
+"1125","Thailand",104.927282782833,"BASE_Total_CO2_Power",2023
+"1126","Thailand",106.963003922861,"BASE_Total_CO2_Power",2024
+"1127","Thailand",108.999805135943,"BASE_Total_CO2_Power",2025
+"1128","Thailand",111.034854970911,"BASE_Total_CO2_Power",2026
+"1129","Thailand",113.074532754396,"BASE_Total_CO2_Power",2027
+"1130","Thailand",115.114382079367,"BASE_Total_CO2_Power",2028
+"1131","Thailand",117.147314605683,"BASE_Total_CO2_Power",2029
+"1132","Thailand",119.168831619659,"BASE_Total_CO2_Power",2030
+"1133","Thailand",121.184772808439,"BASE_Total_CO2_Power",2031
+"1134","Thailand",123.281157035352,"BASE_Total_CO2_Power",2032
+"1135","Thailand",125.370758264486,"BASE_Total_CO2_Power",2033
+"1136","Thailand",127.455325273009,"BASE_Total_CO2_Power",2034
+"1137","Thailand",129.536346804489,"BASE_Total_CO2_Power",2035
+"1138","Thailand",131.627710042969,"BASE_Total_CO2_Power",2036
+"1139","Thailand",133.719547275557,"BASE_Total_CO2_Power",2037
+"1140","Thailand",135.812427482853,"BASE_Total_CO2_Power",2038
+"1141","Thailand",137.907643210108,"BASE_Total_CO2_Power",2039
+"1142","Thailand",140.006533653517,"BASE_Total_CO2_Power",2040
+"1143","Thailand",142.127953408166,"BASE_Total_CO2_Power",2041
+"1144","Thailand",144.346525689505,"BASE_Total_CO2_Power",2042
+"1145","Thailand",146.577428541992,"BASE_Total_CO2_Power",2043
+"1146","Thailand",148.82352748338,"BASE_Total_CO2_Power",2044
+"1147","Thailand",151.086354928239,"BASE_Total_CO2_Power",2045
+"1148","Thailand",153.383386112171,"BASE_Total_CO2_Power",2046
+"1149","Thailand",155.704916989433,"BASE_Total_CO2_Power",2047
+"1150","Thailand",158.048575201943,"BASE_Total_CO2_Power",2048
+"1151","Thailand",160.410437425492,"BASE_Total_CO2_Power",2049
+"1152","Thailand",162.786287049229,"BASE_Total_CO2_Power",2050
+"1153","Ukraine",88.6087937053829,"BASE_Total_CO2_Power",2015
+"1154","Ukraine",88.2343846604275,"BASE_Total_CO2_Power",2016
+"1155","Ukraine",87.9014242203725,"BASE_Total_CO2_Power",2017
+"1156","Ukraine",87.6238032672889,"BASE_Total_CO2_Power",2018
+"1157","Ukraine",87.4042570931199,"BASE_Total_CO2_Power",2019
+"1158","Ukraine",87.1991044892369,"BASE_Total_CO2_Power",2020
+"1159","Ukraine",86.9995794044662,"BASE_Total_CO2_Power",2021
+"1160","Ukraine",86.8148493444836,"BASE_Total_CO2_Power",2022
+"1161","Ukraine",86.6418634582106,"BASE_Total_CO2_Power",2023
+"1162","Ukraine",86.4750503742873,"BASE_Total_CO2_Power",2024
+"1163","Ukraine",86.3106858914776,"BASE_Total_CO2_Power",2025
+"1164","Ukraine",86.1419451329018,"BASE_Total_CO2_Power",2026
+"1165","Ukraine",85.976689722304,"BASE_Total_CO2_Power",2027
+"1166","Ukraine",85.8171486405036,"BASE_Total_CO2_Power",2028
+"1167","Ukraine",85.6677734992878,"BASE_Total_CO2_Power",2029
+"1168","Ukraine",85.5319426964012,"BASE_Total_CO2_Power",2030
+"1169","Ukraine",85.4025807381693,"BASE_Total_CO2_Power",2031
+"1170","Ukraine",85.3313707080577,"BASE_Total_CO2_Power",2032
+"1171","Ukraine",85.2754772258138,"BASE_Total_CO2_Power",2033
+"1172","Ukraine",85.2342059872837,"BASE_Total_CO2_Power",2034
+"1173","Ukraine",85.2068221977191,"BASE_Total_CO2_Power",2035
+"1174","Ukraine",85.1859352323719,"BASE_Total_CO2_Power",2036
+"1175","Ukraine",85.1800098163397,"BASE_Total_CO2_Power",2037
+"1176","Ukraine",85.1888032128912,"BASE_Total_CO2_Power",2038
+"1177","Ukraine",85.2126826478582,"BASE_Total_CO2_Power",2039
+"1178","Ukraine",85.2518740812177,"BASE_Total_CO2_Power",2040
+"1179","Ukraine",85.2969384091818,"BASE_Total_CO2_Power",2041
+"1180","Ukraine",85.4017635320542,"BASE_Total_CO2_Power",2042
+"1181","Ukraine",85.5209222296725,"BASE_Total_CO2_Power",2043
+"1182","Ukraine",85.6519655534034,"BASE_Total_CO2_Power",2044
+"1183","Ukraine",85.793063258821,"BASE_Total_CO2_Power",2045
+"1184","Ukraine",85.9336693948775,"BASE_Total_CO2_Power",2046
+"1185","Ukraine",86.0863708373797,"BASE_Total_CO2_Power",2047
+"1186","Ukraine",86.2504744291528,"BASE_Total_CO2_Power",2048
+"1187","Ukraine",86.4251692004063,"BASE_Total_CO2_Power",2049
+"1188","Ukraine",86.6100955876199,"BASE_Total_CO2_Power",2050
+"1189","Viet Nam",72.9280245669734,"BASE_Total_CO2_Power",2015
+"1190","Viet Nam",75.1078223013023,"BASE_Total_CO2_Power",2016
+"1191","Viet Nam",77.4313642937146,"BASE_Total_CO2_Power",2017
+"1192","Viet Nam",79.3334942334556,"BASE_Total_CO2_Power",2018
+"1193","Viet Nam",81.4191176104664,"BASE_Total_CO2_Power",2019
+"1194","Viet Nam",83.5344813682197,"BASE_Total_CO2_Power",2020
+"1195","Viet Nam",85.6826655814301,"BASE_Total_CO2_Power",2021
+"1196","Viet Nam",87.8561614078146,"BASE_Total_CO2_Power",2022
+"1197","Viet Nam",90.052063208809,"BASE_Total_CO2_Power",2023
+"1198","Viet Nam",92.2663265642104,"BASE_Total_CO2_Power",2024
+"1199","Viet Nam",94.4953179270804,"BASE_Total_CO2_Power",2025
+"1200","Viet Nam",96.7320910837919,"BASE_Total_CO2_Power",2026
+"1201","Viet Nam",98.9860161311606,"BASE_Total_CO2_Power",2027
+"1202","Viet Nam",101.255908851582,"BASE_Total_CO2_Power",2028
+"1203","Viet Nam",103.539550431339,"BASE_Total_CO2_Power",2029
+"1204","Viet Nam",105.836216512843,"BASE_Total_CO2_Power",2030
+"1205","Viet Nam",108.152904156312,"BASE_Total_CO2_Power",2031
+"1206","Viet Nam",110.551300692836,"BASE_Total_CO2_Power",2032
+"1207","Viet Nam",112.968810325953,"BASE_Total_CO2_Power",2033
+"1208","Viet Nam",115.412270953448,"BASE_Total_CO2_Power",2034
+"1209","Viet Nam",117.886291693165,"BASE_Total_CO2_Power",2035
+"1210","Viet Nam",120.393503659014,"BASE_Total_CO2_Power",2036
+"1211","Viet Nam",122.933407449265,"BASE_Total_CO2_Power",2037
+"1212","Viet Nam",125.507073788372,"BASE_Total_CO2_Power",2038
+"1213","Viet Nam",128.114330959621,"BASE_Total_CO2_Power",2039
+"1214","Viet Nam",130.754884172013,"BASE_Total_CO2_Power",2040
+"1215","Viet Nam",133.432706895463,"BASE_Total_CO2_Power",2041
+"1216","Viet Nam",136.216776337824,"BASE_Total_CO2_Power",2042
+"1217","Viet Nam",139.036959574647,"BASE_Total_CO2_Power",2043
+"1218","Viet Nam",141.890290579264,"BASE_Total_CO2_Power",2044
+"1219","Viet Nam",144.774708318161,"BASE_Total_CO2_Power",2045
+"1220","Viet Nam",147.69704075207,"BASE_Total_CO2_Power",2046
+"1221","Viet Nam",150.654077667983,"BASE_Total_CO2_Power",2047
+"1222","Viet Nam",153.644973177714,"BASE_Total_CO2_Power",2048
+"1223","Viet Nam",156.668539330642,"BASE_Total_CO2_Power",2049
+"1224","Viet Nam",159.723220941408,"BASE_Total_CO2_Power",2050
+"1225","Bangladesh",33.2713527245615,"HIGH_Total_CO2_Power",2015
+"1226","Bangladesh",45.894016941551,"HIGH_Total_CO2_Power",2016
+"1227","Bangladesh",58.7424196322232,"HIGH_Total_CO2_Power",2017
+"1228","Bangladesh",71.2915997609159,"HIGH_Total_CO2_Power",2018
+"1229","Bangladesh",83.9938854199981,"HIGH_Total_CO2_Power",2019
+"1230","Bangladesh",96.8321911788796,"HIGH_Total_CO2_Power",2020
+"1231","Bangladesh",109.808850821039,"HIGH_Total_CO2_Power",2021
+"1232","Bangladesh",122.922562464255,"HIGH_Total_CO2_Power",2022
+"1233","Bangladesh",136.16238630275,"HIGH_Total_CO2_Power",2023
+"1234","Bangladesh",149.509268385612,"HIGH_Total_CO2_Power",2024
+"1235","Bangladesh",162.942925821211,"HIGH_Total_CO2_Power",2025
+"1236","Bangladesh",176.445904598844,"HIGH_Total_CO2_Power",2026
+"1237","Bangladesh",190.010455601376,"HIGH_Total_CO2_Power",2027
+"1238","Bangladesh",203.627818166165,"HIGH_Total_CO2_Power",2028
+"1239","Bangladesh",217.293239147124,"HIGH_Total_CO2_Power",2029
+"1240","Bangladesh",231.001488345095,"HIGH_Total_CO2_Power",2030
+"1241","Bangladesh",244.740100142503,"HIGH_Total_CO2_Power",2031
+"1242","Bangladesh",258.586114107908,"HIGH_Total_CO2_Power",2032
+"1243","Bangladesh",272.44738066078,"HIGH_Total_CO2_Power",2033
+"1244","Bangladesh",286.316880145665,"HIGH_Total_CO2_Power",2034
+"1245","Bangladesh",300.187601185232,"HIGH_Total_CO2_Power",2035
+"1246","Bangladesh",314.050001548357,"HIGH_Total_CO2_Power",2036
+"1247","Bangladesh",327.898821970411,"HIGH_Total_CO2_Power",2037
+"1248","Bangladesh",341.725704871697,"HIGH_Total_CO2_Power",2038
+"1249","Bangladesh",355.522085117742,"HIGH_Total_CO2_Power",2039
+"1250","Bangladesh",369.280460979767,"HIGH_Total_CO2_Power",2040
+"1251","Bangladesh",382.995061568896,"HIGH_Total_CO2_Power",2041
+"1252","Bangladesh",396.746485652483,"HIGH_Total_CO2_Power",2042
+"1253","Bangladesh",410.442576787405,"HIGH_Total_CO2_Power",2043
+"1254","Bangladesh",424.075644058549,"HIGH_Total_CO2_Power",2044
+"1255","Bangladesh",437.638630147455,"HIGH_Total_CO2_Power",2045
+"1256","Bangladesh",451.126687221037,"HIGH_Total_CO2_Power",2046
+"1257","Bangladesh",464.535562230997,"HIGH_Total_CO2_Power",2047
+"1258","Bangladesh",477.860115054171,"HIGH_Total_CO2_Power",2048
+"1259","Bangladesh",491.097743769138,"HIGH_Total_CO2_Power",2049
+"1260","Bangladesh",504.246923348388,"HIGH_Total_CO2_Power",2050
+"1261","Egypt",92.1045437056028,"HIGH_Total_CO2_Power",2015
+"1262","Egypt",100.571123007376,"HIGH_Total_CO2_Power",2016
+"1263","Egypt",109.162957700747,"HIGH_Total_CO2_Power",2017
+"1264","Egypt",117.580544991231,"HIGH_Total_CO2_Power",2018
+"1265","Egypt",126.41083316171,"HIGH_Total_CO2_Power",2019
+"1266","Egypt",135.376512562513,"HIGH_Total_CO2_Power",2020
+"1267","Egypt",144.515721870162,"HIGH_Total_CO2_Power",2021
+"1268","Egypt",153.758557162191,"HIGH_Total_CO2_Power",2022
+"1269","Egypt",163.123884829632,"HIGH_Total_CO2_Power",2023
+"1270","Egypt",172.6463349547,"HIGH_Total_CO2_Power",2024
+"1271","Egypt",182.343154474614,"HIGH_Total_CO2_Power",2025
+"1272","Egypt",192.178177067032,"HIGH_Total_CO2_Power",2026
+"1273","Egypt",202.183049335305,"HIGH_Total_CO2_Power",2027
+"1274","Egypt",212.351882449337,"HIGH_Total_CO2_Power",2028
+"1275","Egypt",222.667987765778,"HIGH_Total_CO2_Power",2029
+"1276","Egypt",233.123496951995,"HIGH_Total_CO2_Power",2030
+"1277","Egypt",243.716545488079,"HIGH_Total_CO2_Power",2031
+"1278","Egypt",254.657351699939,"HIGH_Total_CO2_Power",2032
+"1279","Egypt",265.749669463533,"HIGH_Total_CO2_Power",2033
+"1280","Egypt",277.002384883163,"HIGH_Total_CO2_Power",2034
+"1281","Egypt",288.419281079103,"HIGH_Total_CO2_Power",2035
+"1282","Egypt",299.985019196873,"HIGH_Total_CO2_Power",2036
+"1283","Egypt",311.713097371154,"HIGH_Total_CO2_Power",2037
+"1284","Egypt",323.588130963847,"HIGH_Total_CO2_Power",2038
+"1285","Egypt",335.588565704576,"HIGH_Total_CO2_Power",2039
+"1286","Egypt",347.696192048551,"HIGH_Total_CO2_Power",2040
+"1287","Egypt",359.891488723525,"HIGH_Total_CO2_Power",2041
+"1288","Egypt",372.386313397882,"HIGH_Total_CO2_Power",2042
+"1289","Egypt",384.969960527652,"HIGH_Total_CO2_Power",2043
+"1290","Egypt",397.633102115141,"HIGH_Total_CO2_Power",2044
+"1291","Egypt",410.366954663101,"HIGH_Total_CO2_Power",2045
+"1292","Egypt",423.163200461087,"HIGH_Total_CO2_Power",2046
+"1293","Egypt",436.014402755024,"HIGH_Total_CO2_Power",2047
+"1294","Egypt",448.915914823952,"HIGH_Total_CO2_Power",2048
+"1295","Egypt",461.863600396748,"HIGH_Total_CO2_Power",2049
+"1296","Egypt",474.852757091969,"HIGH_Total_CO2_Power",2050
+"1297","Indonesia",177.490799209466,"HIGH_Total_CO2_Power",2015
+"1298","Indonesia",200.089887193059,"HIGH_Total_CO2_Power",2016
+"1299","Indonesia",223.146858171149,"HIGH_Total_CO2_Power",2017
+"1300","Indonesia",246.070436809833,"HIGH_Total_CO2_Power",2018
+"1301","Indonesia",269.3256075528,"HIGH_Total_CO2_Power",2019
+"1302","Indonesia",292.850795882524,"HIGH_Total_CO2_Power",2020
+"1303","Indonesia",316.658214043056,"HIGH_Total_CO2_Power",2021
+"1304","Indonesia",340.70676721936,"HIGH_Total_CO2_Power",2022
+"1305","Indonesia",365.006898791331,"HIGH_Total_CO2_Power",2023
+"1306","Indonesia",389.586082106631,"HIGH_Total_CO2_Power",2024
+"1307","Indonesia",414.453609352187,"HIGH_Total_CO2_Power",2025
+"1308","Indonesia",439.535609334108,"HIGH_Total_CO2_Power",2026
+"1309","Indonesia",464.893520443909,"HIGH_Total_CO2_Power",2027
+"1310","Indonesia",490.508199523676,"HIGH_Total_CO2_Power",2028
+"1311","Indonesia",516.345628776813,"HIGH_Total_CO2_Power",2029
+"1312","Indonesia",542.381929062497,"HIGH_Total_CO2_Power",2030
+"1313","Indonesia",568.578027038929,"HIGH_Total_CO2_Power",2031
+"1314","Indonesia",595.194711099656,"HIGH_Total_CO2_Power",2032
+"1315","Indonesia",622.00622756445,"HIGH_Total_CO2_Power",2033
+"1316","Indonesia",649.011693163312,"HIGH_Total_CO2_Power",2034
+"1317","Indonesia",676.207272695948,"HIGH_Total_CO2_Power",2035
+"1318","Indonesia",703.537725654831,"HIGH_Total_CO2_Power",2036
+"1319","Indonesia",731.055321529762,"HIGH_Total_CO2_Power",2037
+"1320","Indonesia",758.758287618973,"HIGH_Total_CO2_Power",2038
+"1321","Indonesia",786.647370257939,"HIGH_Total_CO2_Power",2039
+"1322","Indonesia",814.721808411364,"HIGH_Total_CO2_Power",2040
+"1323","Indonesia",842.917853454308,"HIGH_Total_CO2_Power",2041
+"1324","Indonesia",871.533016117393,"HIGH_Total_CO2_Power",2042
+"1325","Indonesia",900.338164590274,"HIGH_Total_CO2_Power",2043
+"1326","Indonesia",929.318255705609,"HIGH_Total_CO2_Power",2044
+"1327","Indonesia",958.462706596284,"HIGH_Total_CO2_Power",2045
+"1328","Indonesia",987.695308616808,"HIGH_Total_CO2_Power",2046
+"1329","Indonesia",1017.10503366765,"HIGH_Total_CO2_Power",2047
+"1330","Indonesia",1046.70574200729,"HIGH_Total_CO2_Power",2048
+"1331","Indonesia",1076.51998623659,"HIGH_Total_CO2_Power",2049
+"1332","Indonesia",1106.56213535904,"HIGH_Total_CO2_Power",2050
+"1333","Islamic Republic of Iran",158.511018208437,"HIGH_Total_CO2_Power",2015
+"1334","Islamic Republic of Iran",172.532451406172,"HIGH_Total_CO2_Power",2016
+"1335","Islamic Republic of Iran",181.150058589036,"HIGH_Total_CO2_Power",2017
+"1336","Islamic Republic of Iran",189.867967615886,"HIGH_Total_CO2_Power",2018
+"1337","Islamic Republic of Iran",199.022264037673,"HIGH_Total_CO2_Power",2019
+"1338","Islamic Republic of Iran",208.27098373911,"HIGH_Total_CO2_Power",2020
+"1339","Islamic Republic of Iran",217.622516251451,"HIGH_Total_CO2_Power",2021
+"1340","Islamic Republic of Iran",227.047184301834,"HIGH_Total_CO2_Power",2022
+"1341","Islamic Republic of Iran",236.544458882726,"HIGH_Total_CO2_Power",2023
+"1342","Islamic Republic of Iran",246.11261377932,"HIGH_Total_CO2_Power",2024
+"1343","Islamic Republic of Iran",255.748269336148,"HIGH_Total_CO2_Power",2025
+"1344","Islamic Republic of Iran",265.445061019558,"HIGH_Total_CO2_Power",2026
+"1345","Islamic Republic of Iran",275.205409616769,"HIGH_Total_CO2_Power",2027
+"1346","Islamic Republic of Iran",285.031640878183,"HIGH_Total_CO2_Power",2028
+"1347","Islamic Republic of Iran",294.924452106445,"HIGH_Total_CO2_Power",2029
+"1348","Islamic Republic of Iran",304.885347525239,"HIGH_Total_CO2_Power",2030
+"1349","Islamic Republic of Iran",314.92104475234,"HIGH_Total_CO2_Power",2031
+"1350","Islamic Republic of Iran",325.079190447835,"HIGH_Total_CO2_Power",2032
+"1351","Islamic Republic of Iran",335.315270499206,"HIGH_Total_CO2_Power",2033
+"1352","Islamic Republic of Iran",345.641993885556,"HIGH_Total_CO2_Power",2034
+"1353","Islamic Republic of Iran",356.066601514055,"HIGH_Total_CO2_Power",2035
+"1354","Islamic Republic of Iran",366.593968074988,"HIGH_Total_CO2_Power",2036
+"1355","Islamic Republic of Iran",377.22414486549,"HIGH_Total_CO2_Power",2037
+"1356","Islamic Republic of Iran",387.941945808799,"HIGH_Total_CO2_Power",2038
+"1357","Islamic Republic of Iran",398.725687747412,"HIGH_Total_CO2_Power",2039
+"1358","Islamic Republic of Iran",409.557159009755,"HIGH_Total_CO2_Power",2040
+"1359","Islamic Republic of Iran",420.450900700138,"HIGH_Total_CO2_Power",2041
+"1360","Islamic Republic of Iran",431.447166584769,"HIGH_Total_CO2_Power",2042
+"1361","Islamic Republic of Iran",442.465580574628,"HIGH_Total_CO2_Power",2043
+"1362","Islamic Republic of Iran",453.468231936853,"HIGH_Total_CO2_Power",2044
+"1363","Islamic Republic of Iran",464.426210900765,"HIGH_Total_CO2_Power",2045
+"1364","Islamic Republic of Iran",475.362198288843,"HIGH_Total_CO2_Power",2046
+"1365","Islamic Republic of Iran",486.244300607167,"HIGH_Total_CO2_Power",2047
+"1366","Islamic Republic of Iran",497.078297182736,"HIGH_Total_CO2_Power",2048
+"1367","Islamic Republic of Iran",507.885483309876,"HIGH_Total_CO2_Power",2049
+"1368","Islamic Republic of Iran",518.682919135446,"HIGH_Total_CO2_Power",2050
+"1369","Kazakhstan",89.4622532475421,"HIGH_Total_CO2_Power",2015
+"1370","Kazakhstan",90.5167753306242,"HIGH_Total_CO2_Power",2016
+"1371","Kazakhstan",92.2437424131823,"HIGH_Total_CO2_Power",2017
+"1372","Kazakhstan",93.7700415467179,"HIGH_Total_CO2_Power",2018
+"1373","Kazakhstan",95.3152550598676,"HIGH_Total_CO2_Power",2019
+"1374","Kazakhstan",96.876519882027,"HIGH_Total_CO2_Power",2020
+"1375","Kazakhstan",98.4728891634606,"HIGH_Total_CO2_Power",2021
+"1376","Kazakhstan",100.071782773756,"HIGH_Total_CO2_Power",2022
+"1377","Kazakhstan",101.679728279588,"HIGH_Total_CO2_Power",2023
+"1378","Kazakhstan",103.301851619723,"HIGH_Total_CO2_Power",2024
+"1379","Kazakhstan",104.939255231436,"HIGH_Total_CO2_Power",2025
+"1380","Kazakhstan",106.56880650875,"HIGH_Total_CO2_Power",2026
+"1381","Kazakhstan",108.222632320763,"HIGH_Total_CO2_Power",2027
+"1382","Kazakhstan",109.900564124688,"HIGH_Total_CO2_Power",2028
+"1383","Kazakhstan",111.598307875626,"HIGH_Total_CO2_Power",2029
+"1384","Kazakhstan",113.314298810692,"HIGH_Total_CO2_Power",2030
+"1385","Kazakhstan",115.045659718416,"HIGH_Total_CO2_Power",2031
+"1386","Kazakhstan",116.864428831085,"HIGH_Total_CO2_Power",2032
+"1387","Kazakhstan",118.705385934444,"HIGH_Total_CO2_Power",2033
+"1388","Kazakhstan",120.570282115174,"HIGH_Total_CO2_Power",2034
+"1389","Kazakhstan",122.460251206344,"HIGH_Total_CO2_Power",2035
+"1390","Kazakhstan",124.365752450129,"HIGH_Total_CO2_Power",2036
+"1391","Kazakhstan",126.29800557087,"HIGH_Total_CO2_Power",2037
+"1392","Kazakhstan",128.257981586974,"HIGH_Total_CO2_Power",2038
+"1393","Kazakhstan",130.247031925545,"HIGH_Total_CO2_Power",2039
+"1394","Kazakhstan",132.266120477754,"HIGH_Total_CO2_Power",2040
+"1395","Kazakhstan",134.305348419267,"HIGH_Total_CO2_Power",2041
+"1396","Kazakhstan",136.438887139491,"HIGH_Total_CO2_Power",2042
+"1397","Kazakhstan",138.601513523826,"HIGH_Total_CO2_Power",2043
+"1398","Kazakhstan",140.79147465263,"HIGH_Total_CO2_Power",2044
+"1399","Kazakhstan",143.007102060328,"HIGH_Total_CO2_Power",2045
+"1400","Kazakhstan",145.23557582873,"HIGH_Total_CO2_Power",2046
+"1401","Kazakhstan",147.49256241838,"HIGH_Total_CO2_Power",2047
+"1402","Kazakhstan",149.770393651651,"HIGH_Total_CO2_Power",2048
+"1403","Kazakhstan",152.057254006501,"HIGH_Total_CO2_Power",2049
+"1404","Kazakhstan",154.345844872662,"HIGH_Total_CO2_Power",2050
+"1405","Malaysia",103.921651456622,"HIGH_Total_CO2_Power",2015
+"1406","Malaysia",107.714021952537,"HIGH_Total_CO2_Power",2016
+"1407","Malaysia",112.319759198508,"HIGH_Total_CO2_Power",2017
+"1408","Malaysia",115.765549203681,"HIGH_Total_CO2_Power",2018
+"1409","Malaysia",119.381860790972,"HIGH_Total_CO2_Power",2019
+"1410","Malaysia",123.044014679573,"HIGH_Total_CO2_Power",2020
+"1411","Malaysia",126.757090059925,"HIGH_Total_CO2_Power",2021
+"1412","Malaysia",130.517449798101,"HIGH_Total_CO2_Power",2022
+"1413","Malaysia",134.319553265642,"HIGH_Total_CO2_Power",2023
+"1414","Malaysia",138.154382254341,"HIGH_Total_CO2_Power",2024
+"1415","Malaysia",142.014321647488,"HIGH_Total_CO2_Power",2025
+"1416","Malaysia",145.89525188731,"HIGH_Total_CO2_Power",2026
+"1417","Malaysia",149.802878844918,"HIGH_Total_CO2_Power",2027
+"1418","Malaysia",153.734464978466,"HIGH_Total_CO2_Power",2028
+"1419","Malaysia",157.686743196578,"HIGH_Total_CO2_Power",2029
+"1420","Malaysia",161.656981813419,"HIGH_Total_CO2_Power",2030
+"1421","Malaysia",165.644377489008,"HIGH_Total_CO2_Power",2031
+"1422","Malaysia",169.872801231257,"HIGH_Total_CO2_Power",2032
+"1423","Malaysia",174.116353444149,"HIGH_Total_CO2_Power",2033
+"1424","Malaysia",178.373247607801,"HIGH_Total_CO2_Power",2034
+"1425","Malaysia",182.641517388526,"HIGH_Total_CO2_Power",2035
+"1426","Malaysia",186.919437634013,"HIGH_Total_CO2_Power",2036
+"1427","Malaysia",191.205998673135,"HIGH_Total_CO2_Power",2037
+"1428","Malaysia",195.502048774347,"HIGH_Total_CO2_Power",2038
+"1429","Malaysia",199.809569926654,"HIGH_Total_CO2_Power",2039
+"1430","Malaysia",204.1286497894,"HIGH_Total_CO2_Power",2040
+"1431","Malaysia",208.4550242987,"HIGH_Total_CO2_Power",2041
+"1432","Malaysia",213.01410541871,"HIGH_Total_CO2_Power",2042
+"1433","Malaysia",217.57962333315,"HIGH_Total_CO2_Power",2043
+"1434","Malaysia",222.141956318235,"HIGH_Total_CO2_Power",2044
+"1435","Malaysia",226.69389142617,"HIGH_Total_CO2_Power",2045
+"1436","Malaysia",231.232264617128,"HIGH_Total_CO2_Power",2046
+"1437","Malaysia",235.762591189367,"HIGH_Total_CO2_Power",2047
+"1438","Malaysia",240.28204092987,"HIGH_Total_CO2_Power",2048
+"1439","Malaysia",244.789288103894,"HIGH_Total_CO2_Power",2049
+"1440","Malaysia",249.282731345001,"HIGH_Total_CO2_Power",2050
+"1441","Mongolia",11.7022893601424,"HIGH_Total_CO2_Power",2015
+"1442","Mongolia",11.9082040938562,"HIGH_Total_CO2_Power",2016
+"1443","Mongolia",12.1824155940596,"HIGH_Total_CO2_Power",2017
+"1444","Mongolia",12.4376831449545,"HIGH_Total_CO2_Power",2018
+"1445","Mongolia",12.7117634706935,"HIGH_Total_CO2_Power",2019
+"1446","Mongolia",12.9862049411858,"HIGH_Total_CO2_Power",2020
+"1447","Mongolia",13.2627552312025,"HIGH_Total_CO2_Power",2021
+"1448","Mongolia",13.5380692555151,"HIGH_Total_CO2_Power",2022
+"1449","Mongolia",13.8132096107369,"HIGH_Total_CO2_Power",2023
+"1450","Mongolia",14.0896643057742,"HIGH_Total_CO2_Power",2024
+"1451","Mongolia",14.3685419346816,"HIGH_Total_CO2_Power",2025
+"1452","Mongolia",14.6484687565045,"HIGH_Total_CO2_Power",2026
+"1453","Mongolia",14.9316299372829,"HIGH_Total_CO2_Power",2027
+"1454","Mongolia",15.2181987247467,"HIGH_Total_CO2_Power",2028
+"1455","Mongolia",15.5076557821626,"HIGH_Total_CO2_Power",2029
+"1456","Mongolia",15.7999809458731,"HIGH_Total_CO2_Power",2030
+"1457","Mongolia",16.0952222979732,"HIGH_Total_CO2_Power",2031
+"1458","Mongolia",16.4057620986789,"HIGH_Total_CO2_Power",2032
+"1459","Mongolia",16.7209961607061,"HIGH_Total_CO2_Power",2033
+"1460","Mongolia",17.0416487145074,"HIGH_Total_CO2_Power",2034
+"1461","Mongolia",17.3684798063424,"HIGH_Total_CO2_Power",2035
+"1462","Mongolia",17.701297662675,"HIGH_Total_CO2_Power",2036
+"1463","Mongolia",18.040911687961,"HIGH_Total_CO2_Power",2037
+"1464","Mongolia",18.3878112696095,"HIGH_Total_CO2_Power",2038
+"1465","Mongolia",18.7426350631579,"HIGH_Total_CO2_Power",2039
+"1466","Mongolia",19.1057464846039,"HIGH_Total_CO2_Power",2040
+"1467","Mongolia",19.4768645538741,"HIGH_Total_CO2_Power",2041
+"1468","Mongolia",19.8683392055955,"HIGH_Total_CO2_Power",2042
+"1469","Mongolia",20.2691726548935,"HIGH_Total_CO2_Power",2043
+"1470","Mongolia",20.679468019352,"HIGH_Total_CO2_Power",2044
+"1471","Mongolia",21.0993532305506,"HIGH_Total_CO2_Power",2045
+"1472","Mongolia",21.528351851729,"HIGH_Total_CO2_Power",2046
+"1473","Mongolia",21.9676427416352,"HIGH_Total_CO2_Power",2047
+"1474","Mongolia",22.4163789298358,"HIGH_Total_CO2_Power",2048
+"1475","Mongolia",22.8731114623773,"HIGH_Total_CO2_Power",2049
+"1476","Mongolia",23.3369999696225,"HIGH_Total_CO2_Power",2050
+"1477","Myanmar",4.65338332083863,"HIGH_Total_CO2_Power",2015
+"1478","Myanmar",8.76687736718843,"HIGH_Total_CO2_Power",2016
+"1479","Myanmar",12.9791342656229,"HIGH_Total_CO2_Power",2017
+"1480","Myanmar",17.139669560444,"HIGH_Total_CO2_Power",2018
+"1481","Myanmar",21.2858404875475,"HIGH_Total_CO2_Power",2019
+"1482","Myanmar",25.4650615974237,"HIGH_Total_CO2_Power",2020
+"1483","Myanmar",29.6702725261675,"HIGH_Total_CO2_Power",2021
+"1484","Myanmar",33.9041262510988,"HIGH_Total_CO2_Power",2022
+"1485","Myanmar",38.1637420120422,"HIGH_Total_CO2_Power",2023
+"1486","Myanmar",42.4472605597932,"HIGH_Total_CO2_Power",2024
+"1487","Myanmar",46.7532268225386,"HIGH_Total_CO2_Power",2025
+"1488","Myanmar",51.0778128642332,"HIGH_Total_CO2_Power",2026
+"1489","Myanmar",55.4201383658055,"HIGH_Total_CO2_Power",2027
+"1490","Myanmar",59.7774329023895,"HIGH_Total_CO2_Power",2028
+"1491","Myanmar",64.146923464779,"HIGH_Total_CO2_Power",2029
+"1492","Myanmar",68.5255324516825,"HIGH_Total_CO2_Power",2030
+"1493","Myanmar",72.9071307573113,"HIGH_Total_CO2_Power",2031
+"1494","Myanmar",77.317625552651,"HIGH_Total_CO2_Power",2032
+"1495","Myanmar",81.7293086825813,"HIGH_Total_CO2_Power",2033
+"1496","Myanmar",86.1388122297656,"HIGH_Total_CO2_Power",2034
+"1497","Myanmar",90.5430233218814,"HIGH_Total_CO2_Power",2035
+"1498","Myanmar",94.9359725565146,"HIGH_Total_CO2_Power",2036
+"1499","Myanmar",99.3190843533764,"HIGH_Total_CO2_Power",2037
+"1500","Myanmar",103.690017045878,"HIGH_Total_CO2_Power",2038
+"1501","Myanmar",108.04674915545,"HIGH_Total_CO2_Power",2039
+"1502","Myanmar",112.387326412297,"HIGH_Total_CO2_Power",2040
+"1503","Myanmar",116.704126358861,"HIGH_Total_CO2_Power",2041
+"1504","Myanmar",121.027483121053,"HIGH_Total_CO2_Power",2042
+"1505","Myanmar",125.33179044855,"HIGH_Total_CO2_Power",2043
+"1506","Myanmar",129.61660594529,"HIGH_Total_CO2_Power",2044
+"1507","Myanmar",133.881603977284,"HIGH_Total_CO2_Power",2045
+"1508","Myanmar",138.118516672945,"HIGH_Total_CO2_Power",2046
+"1509","Myanmar",142.335491545404,"HIGH_Total_CO2_Power",2047
+"1510","Myanmar",146.532767424715,"HIGH_Total_CO2_Power",2048
+"1511","Myanmar",150.711121960031,"HIGH_Total_CO2_Power",2049
+"1512","Myanmar",154.871037438571,"HIGH_Total_CO2_Power",2050
+"1513","Pakistan",49.8474802001586,"HIGH_Total_CO2_Power",2015
+"1514","Pakistan",64.5218758718421,"HIGH_Total_CO2_Power",2016
+"1515","Pakistan",79.6744790993539,"HIGH_Total_CO2_Power",2017
+"1516","Pakistan",94.6342054183625,"HIGH_Total_CO2_Power",2018
+"1517","Pakistan",110.054923099546,"HIGH_Total_CO2_Power",2019
+"1518","Pakistan",125.837837220534,"HIGH_Total_CO2_Power",2020
+"1519","Pakistan",141.970208593939,"HIGH_Total_CO2_Power",2021
+"1520","Pakistan",158.439982617747,"HIGH_Total_CO2_Power",2022
+"1521","Pakistan",175.236418274879,"HIGH_Total_CO2_Power",2023
+"1522","Pakistan",192.347621604233,"HIGH_Total_CO2_Power",2024
+"1523","Pakistan",209.760603854342,"HIGH_Total_CO2_Power",2025
+"1524","Pakistan",227.45082171894,"HIGH_Total_CO2_Power",2026
+"1525","Pakistan",245.419571361578,"HIGH_Total_CO2_Power",2027
+"1526","Pakistan",263.657934705519,"HIGH_Total_CO2_Power",2028
+"1527","Pakistan",282.158740171129,"HIGH_Total_CO2_Power",2029
+"1528","Pakistan",300.916051666218,"HIGH_Total_CO2_Power",2030
+"1529","Pakistan",319.912336035165,"HIGH_Total_CO2_Power",2031
+"1530","Pakistan",339.241614010334,"HIGH_Total_CO2_Power",2032
+"1531","Pakistan",358.809820602281,"HIGH_Total_CO2_Power",2033
+"1532","Pakistan",378.616412252208,"HIGH_Total_CO2_Power",2034
+"1533","Pakistan",398.6588600921,"HIGH_Total_CO2_Power",2035
+"1534","Pakistan",418.918600559597,"HIGH_Total_CO2_Power",2036
+"1535","Pakistan",439.401792232541,"HIGH_Total_CO2_Power",2037
+"1536","Pakistan",460.094993512557,"HIGH_Total_CO2_Power",2038
+"1537","Pakistan",480.981373925626,"HIGH_Total_CO2_Power",2039
+"1538","Pakistan",502.044213172386,"HIGH_Total_CO2_Power",2040
+"1539","Pakistan",523.257789414117,"HIGH_Total_CO2_Power",2041
+"1540","Pakistan",544.718337956156,"HIGH_Total_CO2_Power",2042
+"1541","Pakistan",566.313486594327,"HIGH_Total_CO2_Power",2043
+"1542","Pakistan",588.019249132928,"HIGH_Total_CO2_Power",2044
+"1543","Pakistan",609.812840442225,"HIGH_Total_CO2_Power",2045
+"1544","Pakistan",631.664499204132,"HIGH_Total_CO2_Power",2046
+"1545","Pakistan",653.573930347124,"HIGH_Total_CO2_Power",2047
+"1546","Pakistan",675.519904419379,"HIGH_Total_CO2_Power",2048
+"1547","Pakistan",697.480392121747,"HIGH_Total_CO2_Power",2049
+"1548","Pakistan",719.435495281561,"HIGH_Total_CO2_Power",2050
+"1549","Philippines",52.9600897292598,"HIGH_Total_CO2_Power",2015
+"1550","Philippines",61.977865667201,"HIGH_Total_CO2_Power",2016
+"1551","Philippines",71.182455147658,"HIGH_Total_CO2_Power",2017
+"1552","Philippines",79.5955997585121,"HIGH_Total_CO2_Power",2018
+"1553","Philippines",87.9839117607516,"HIGH_Total_CO2_Power",2019
+"1554","Philippines",96.5235602490488,"HIGH_Total_CO2_Power",2020
+"1555","Philippines",105.207832876265,"HIGH_Total_CO2_Power",2021
+"1556","Philippines",114.040058436001,"HIGH_Total_CO2_Power",2022
+"1557","Philippines",123.017551833835,"HIGH_Total_CO2_Power",2023
+"1558","Philippines",132.1364658253,"HIGH_Total_CO2_Power",2024
+"1559","Philippines",141.392265470244,"HIGH_Total_CO2_Power",2025
+"1560","Philippines",150.773165237913,"HIGH_Total_CO2_Power",2026
+"1561","Philippines",160.284172599441,"HIGH_Total_CO2_Power",2027
+"1562","Philippines",169.920529613506,"HIGH_Total_CO2_Power",2028
+"1563","Philippines",179.676844328824,"HIGH_Total_CO2_Power",2029
+"1564","Philippines",189.54782034523,"HIGH_Total_CO2_Power",2030
+"1565","Philippines",199.518707812568,"HIGH_Total_CO2_Power",2031
+"1566","Philippines",209.61563650546,"HIGH_Total_CO2_Power",2032
+"1567","Philippines",219.814992544428,"HIGH_Total_CO2_Power",2033
+"1568","Philippines",230.112924643065,"HIGH_Total_CO2_Power",2034
+"1569","Philippines",240.50503590223,"HIGH_Total_CO2_Power",2035
+"1570","Philippines",250.974869203842,"HIGH_Total_CO2_Power",2036
+"1571","Philippines",261.531127943444,"HIGH_Total_CO2_Power",2037
+"1572","Philippines",272.168256442306,"HIGH_Total_CO2_Power",2038
+"1573","Philippines",282.880295470645,"HIGH_Total_CO2_Power",2039
+"1574","Philippines",293.661907538279,"HIGH_Total_CO2_Power",2040
+"1575","Philippines",304.496512555889,"HIGH_Total_CO2_Power",2041
+"1576","Philippines",315.413417126111,"HIGH_Total_CO2_Power",2042
+"1577","Philippines",326.389974933831,"HIGH_Total_CO2_Power",2043
+"1578","Philippines",337.423595805406,"HIGH_Total_CO2_Power",2044
+"1579","Philippines",348.510871042551,"HIGH_Total_CO2_Power",2045
+"1580","Philippines",359.630547366107,"HIGH_Total_CO2_Power",2046
+"1581","Philippines",370.797367324248,"HIGH_Total_CO2_Power",2047
+"1582","Philippines",382.00776260382,"HIGH_Total_CO2_Power",2048
+"1583","Philippines",393.258257644634,"HIGH_Total_CO2_Power",2049
+"1584","Philippines",404.545145405945,"HIGH_Total_CO2_Power",2050
+"1585","Russian Federation",764.032416312537,"HIGH_Total_CO2_Power",2015
+"1586","Russian Federation",768.311980640688,"HIGH_Total_CO2_Power",2016
+"1587","Russian Federation",776.283885050169,"HIGH_Total_CO2_Power",2017
+"1588","Russian Federation",786.155445421257,"HIGH_Total_CO2_Power",2018
+"1589","Russian Federation",795.644978398032,"HIGH_Total_CO2_Power",2019
+"1590","Russian Federation",804.959296967793,"HIGH_Total_CO2_Power",2020
+"1591","Russian Federation",814.112731931184,"HIGH_Total_CO2_Power",2021
+"1592","Russian Federation",823.048770398962,"HIGH_Total_CO2_Power",2022
+"1593","Russian Federation",831.810582665046,"HIGH_Total_CO2_Power",2023
+"1594","Russian Federation",840.463243734061,"HIGH_Total_CO2_Power",2024
+"1595","Russian Federation",849.043143881864,"HIGH_Total_CO2_Power",2025
+"1596","Russian Federation",857.407670523963,"HIGH_Total_CO2_Power",2026
+"1597","Russian Federation",865.727068637,"HIGH_Total_CO2_Power",2027
+"1598","Russian Federation",874.023283394978,"HIGH_Total_CO2_Power",2028
+"1599","Russian Federation",882.31071738445,"HIGH_Total_CO2_Power",2029
+"1600","Russian Federation",890.603762399411,"HIGH_Total_CO2_Power",2030
+"1601","Russian Federation",898.849066318733,"HIGH_Total_CO2_Power",2031
+"1602","Russian Federation",907.130304697501,"HIGH_Total_CO2_Power",2032
+"1603","Russian Federation",915.421410295593,"HIGH_Total_CO2_Power",2033
+"1604","Russian Federation",923.681345727409,"HIGH_Total_CO2_Power",2034
+"1605","Russian Federation",931.881098955206,"HIGH_Total_CO2_Power",2035
+"1606","Russian Federation",939.935805422984,"HIGH_Total_CO2_Power",2036
+"1607","Russian Federation",947.955558052052,"HIGH_Total_CO2_Power",2037
+"1608","Russian Federation",955.966674002874,"HIGH_Total_CO2_Power",2038
+"1609","Russian Federation",964.0150248072,"HIGH_Total_CO2_Power",2039
+"1610","Russian Federation",972.132432386576,"HIGH_Total_CO2_Power",2040
+"1611","Russian Federation",980.188668173641,"HIGH_Total_CO2_Power",2041
+"1612","Russian Federation",988.335957509072,"HIGH_Total_CO2_Power",2042
+"1613","Russian Federation",996.546124349757,"HIGH_Total_CO2_Power",2043
+"1614","Russian Federation",1004.78089287622,"HIGH_Total_CO2_Power",2044
+"1615","Russian Federation",1013.01240144767,"HIGH_Total_CO2_Power",2045
+"1616","Russian Federation",1021.09897027171,"HIGH_Total_CO2_Power",2046
+"1617","Russian Federation",1029.22796178845,"HIGH_Total_CO2_Power",2047
+"1618","Russian Federation",1037.37293438307,"HIGH_Total_CO2_Power",2048
+"1619","Russian Federation",1045.49405789472,"HIGH_Total_CO2_Power",2049
+"1620","Russian Federation",1053.56683271381,"HIGH_Total_CO2_Power",2050
+"1621","Saudi Arabia",283.844703736645,"HIGH_Total_CO2_Power",2015
+"1622","Saudi Arabia",288.927245553536,"HIGH_Total_CO2_Power",2016
+"1623","Saudi Arabia",291.513923631428,"HIGH_Total_CO2_Power",2017
+"1624","Saudi Arabia",297.59709571896,"HIGH_Total_CO2_Power",2018
+"1625","Saudi Arabia",303.705419037114,"HIGH_Total_CO2_Power",2019
+"1626","Saudi Arabia",309.768053358343,"HIGH_Total_CO2_Power",2020
+"1627","Saudi Arabia",315.671090054149,"HIGH_Total_CO2_Power",2021
+"1628","Saudi Arabia",321.550041944197,"HIGH_Total_CO2_Power",2022
+"1629","Saudi Arabia",327.396092678058,"HIGH_Total_CO2_Power",2023
+"1630","Saudi Arabia",333.190483890817,"HIGH_Total_CO2_Power",2024
+"1631","Saudi Arabia",338.929340353183,"HIGH_Total_CO2_Power",2025
+"1632","Saudi Arabia",344.657474573169,"HIGH_Total_CO2_Power",2026
+"1633","Saudi Arabia",350.348689714668,"HIGH_Total_CO2_Power",2027
+"1634","Saudi Arabia",356.011619573505,"HIGH_Total_CO2_Power",2028
+"1635","Saudi Arabia",361.660508206303,"HIGH_Total_CO2_Power",2029
+"1636","Saudi Arabia",367.300425855794,"HIGH_Total_CO2_Power",2030
+"1637","Saudi Arabia",372.924585298746,"HIGH_Total_CO2_Power",2031
+"1638","Saudi Arabia",378.639674259327,"HIGH_Total_CO2_Power",2032
+"1639","Saudi Arabia",384.328316396009,"HIGH_Total_CO2_Power",2033
+"1640","Saudi Arabia",389.956815620729,"HIGH_Total_CO2_Power",2034
+"1641","Saudi Arabia",395.504973361635,"HIGH_Total_CO2_Power",2035
+"1642","Saudi Arabia",400.962110059732,"HIGH_Total_CO2_Power",2036
+"1643","Saudi Arabia",406.349808608473,"HIGH_Total_CO2_Power",2037
+"1644","Saudi Arabia",411.676348256639,"HIGH_Total_CO2_Power",2038
+"1645","Saudi Arabia",416.960750639938,"HIGH_Total_CO2_Power",2039
+"1646","Saudi Arabia",422.220392948212,"HIGH_Total_CO2_Power",2040
+"1647","Saudi Arabia",427.469583225515,"HIGH_Total_CO2_Power",2041
+"1648","Saudi Arabia",432.780725386498,"HIGH_Total_CO2_Power",2042
+"1649","Saudi Arabia",438.070667250423,"HIGH_Total_CO2_Power",2043
+"1650","Saudi Arabia",443.349019820755,"HIGH_Total_CO2_Power",2044
+"1651","Saudi Arabia",448.619835244101,"HIGH_Total_CO2_Power",2045
+"1652","Saudi Arabia",453.89451466354,"HIGH_Total_CO2_Power",2046
+"1653","Saudi Arabia",459.163314227788,"HIGH_Total_CO2_Power",2047
+"1654","Saudi Arabia",464.400159389594,"HIGH_Total_CO2_Power",2048
+"1655","Saudi Arabia",469.571233560564,"HIGH_Total_CO2_Power",2049
+"1656","Saudi Arabia",474.652972333555,"HIGH_Total_CO2_Power",2050
+"1657","Singapore",18.273448351436,"HIGH_Total_CO2_Power",2015
+"1658","Singapore",19.0736010599407,"HIGH_Total_CO2_Power",2016
+"1659","Singapore",20.1388395612231,"HIGH_Total_CO2_Power",2017
+"1660","Singapore",20.9962347717625,"HIGH_Total_CO2_Power",2018
+"1661","Singapore",21.8829709389339,"HIGH_Total_CO2_Power",2019
+"1662","Singapore",22.7599864172207,"HIGH_Total_CO2_Power",2020
+"1663","Singapore",23.6216000897099,"HIGH_Total_CO2_Power",2021
+"1664","Singapore",24.4630338220486,"HIGH_Total_CO2_Power",2022
+"1665","Singapore",25.2840959598288,"HIGH_Total_CO2_Power",2023
+"1666","Singapore",26.0886287775307,"HIGH_Total_CO2_Power",2024
+"1667","Singapore",26.8805630039105,"HIGH_Total_CO2_Power",2025
+"1668","Singapore",27.6639593570039,"HIGH_Total_CO2_Power",2026
+"1669","Singapore",28.433658309897,"HIGH_Total_CO2_Power",2027
+"1670","Singapore",29.1876624984808,"HIGH_Total_CO2_Power",2028
+"1671","Singapore",29.9218743303569,"HIGH_Total_CO2_Power",2029
+"1672","Singapore",30.6313860127416,"HIGH_Total_CO2_Power",2030
+"1673","Singapore",31.3154106587547,"HIGH_Total_CO2_Power",2031
+"1674","Singapore",31.9755359971532,"HIGH_Total_CO2_Power",2032
+"1675","Singapore",32.5984094050578,"HIGH_Total_CO2_Power",2033
+"1676","Singapore",33.17882108174,"HIGH_Total_CO2_Power",2034
+"1677","Singapore",33.7126037635059,"HIGH_Total_CO2_Power",2035
+"1678","Singapore",34.1962521684217,"HIGH_Total_CO2_Power",2036
+"1679","Singapore",34.6239946568965,"HIGH_Total_CO2_Power",2037
+"1680","Singapore",34.9911892670836,"HIGH_Total_CO2_Power",2038
+"1681","Singapore",35.2922339477085,"HIGH_Total_CO2_Power",2039
+"1682","Singapore",35.5207319005341,"HIGH_Total_CO2_Power",2040
+"1683","Singapore",35.6646101401327,"HIGH_Total_CO2_Power",2041
+"1684","Singapore",35.7072460899692,"HIGH_Total_CO2_Power",2042
+"1685","Singapore",35.6473967340399,"HIGH_Total_CO2_Power",2043
+"1686","Singapore",35.4776228763856,"HIGH_Total_CO2_Power",2044
+"1687","Singapore",35.1917951184784,"HIGH_Total_CO2_Power",2045
+"1688","Singapore",34.7665313857857,"HIGH_Total_CO2_Power",2046
+"1689","Singapore",34.1987678580188,"HIGH_Total_CO2_Power",2047
+"1690","Singapore",33.4780482098576,"HIGH_Total_CO2_Power",2048
+"1691","Singapore",32.5926759656079,"HIGH_Total_CO2_Power",2049
+"1692","Singapore",31.532198025698,"HIGH_Total_CO2_Power",2050
+"1693","Sri Lanka",7.43536905298107,"HIGH_Total_CO2_Power",2015
+"1694","Sri Lanka",9.20221641774686,"HIGH_Total_CO2_Power",2016
+"1695","Sri Lanka",10.8321983836903,"HIGH_Total_CO2_Power",2017
+"1696","Sri Lanka",12.6435830700927,"HIGH_Total_CO2_Power",2018
+"1697","Sri Lanka",14.4163556392288,"HIGH_Total_CO2_Power",2019
+"1698","Sri Lanka",16.1941963043503,"HIGH_Total_CO2_Power",2020
+"1699","Sri Lanka",17.97450176198,"HIGH_Total_CO2_Power",2021
+"1700","Sri Lanka",19.7603605126067,"HIGH_Total_CO2_Power",2022
+"1701","Sri Lanka",21.5503098047307,"HIGH_Total_CO2_Power",2023
+"1702","Sri Lanka",23.3415801775394,"HIGH_Total_CO2_Power",2024
+"1703","Sri Lanka",25.1318679972737,"HIGH_Total_CO2_Power",2025
+"1704","Sri Lanka",26.9209899756426,"HIGH_Total_CO2_Power",2026
+"1705","Sri Lanka",28.7075250488739,"HIGH_Total_CO2_Power",2027
+"1706","Sri Lanka",30.491590203599,"HIGH_Total_CO2_Power",2028
+"1707","Sri Lanka",32.2743007868306,"HIGH_Total_CO2_Power",2029
+"1708","Sri Lanka",34.056216097994,"HIGH_Total_CO2_Power",2030
+"1709","Sri Lanka",35.8367765804015,"HIGH_Total_CO2_Power",2031
+"1710","Sri Lanka",37.6253897425842,"HIGH_Total_CO2_Power",2032
+"1711","Sri Lanka",39.4126942751434,"HIGH_Total_CO2_Power",2033
+"1712","Sri Lanka",41.1985933104576,"HIGH_Total_CO2_Power",2034
+"1713","Sri Lanka",42.9826843870407,"HIGH_Total_CO2_Power",2035
+"1714","Sri Lanka",44.764598205223,"HIGH_Total_CO2_Power",2036
+"1715","Sri Lanka",46.5457304769482,"HIGH_Total_CO2_Power",2037
+"1716","Sri Lanka",48.3240600904154,"HIGH_Total_CO2_Power",2038
+"1717","Sri Lanka",50.0961739909792,"HIGH_Total_CO2_Power",2039
+"1718","Sri Lanka",51.8593870592119,"HIGH_Total_CO2_Power",2040
+"1719","Sri Lanka",53.6136188435538,"HIGH_Total_CO2_Power",2041
+"1720","Sri Lanka",55.3688046648113,"HIGH_Total_CO2_Power",2042
+"1721","Sri Lanka",57.1170514088361,"HIGH_Total_CO2_Power",2043
+"1722","Sri Lanka",58.860903163427,"HIGH_Total_CO2_Power",2044
+"1723","Sri Lanka",60.6018400245471,"HIGH_Total_CO2_Power",2045
+"1724","Sri Lanka",62.3412623131933,"HIGH_Total_CO2_Power",2046
+"1725","Sri Lanka",64.0786636311865,"HIGH_Total_CO2_Power",2047
+"1726","Sri Lanka",65.815649530418,"HIGH_Total_CO2_Power",2048
+"1727","Sri Lanka",67.554218499084,"HIGH_Total_CO2_Power",2049
+"1728","Sri Lanka",69.2956255964087,"HIGH_Total_CO2_Power",2050
+"1729","Thailand",88.5766712879406,"HIGH_Total_CO2_Power",2015
+"1730","Thailand",94.492643800314,"HIGH_Total_CO2_Power",2016
+"1731","Thailand",100.743048244029,"HIGH_Total_CO2_Power",2017
+"1732","Thailand",106.346521491456,"HIGH_Total_CO2_Power",2018
+"1733","Thailand",112.268909813974,"HIGH_Total_CO2_Power",2019
+"1734","Thailand",118.153675216244,"HIGH_Total_CO2_Power",2020
+"1735","Thailand",124.006181011492,"HIGH_Total_CO2_Power",2021
+"1736","Thailand",129.811578442314,"HIGH_Total_CO2_Power",2022
+"1737","Thailand",135.572785300879,"HIGH_Total_CO2_Power",2023
+"1738","Thailand",141.295358014776,"HIGH_Total_CO2_Power",2024
+"1739","Thailand",146.981455747192,"HIGH_Total_CO2_Power",2025
+"1740","Thailand",152.626302434657,"HIGH_Total_CO2_Power",2026
+"1741","Thailand",158.237032902784,"HIGH_Total_CO2_Power",2027
+"1742","Thailand",163.806701207216,"HIGH_Total_CO2_Power",2028
+"1743","Thailand",169.324775650228,"HIGH_Total_CO2_Power",2029
+"1744","Thailand",174.78397829548,"HIGH_Total_CO2_Power",2030
+"1745","Thailand",180.190527328842,"HIGH_Total_CO2_Power",2031
+"1746","Thailand",185.653470586186,"HIGH_Total_CO2_Power",2032
+"1747","Thailand",191.058928431781,"HIGH_Total_CO2_Power",2033
+"1748","Thailand",196.407251851948,"HIGH_Total_CO2_Power",2034
+"1749","Thailand",201.698432811063,"HIGH_Total_CO2_Power",2035
+"1750","Thailand",206.94852268776,"HIGH_Total_CO2_Power",2036
+"1751","Thailand",212.143319911533,"HIGH_Total_CO2_Power",2037
+"1752","Thailand",217.282030321438,"HIGH_Total_CO2_Power",2038
+"1753","Thailand",222.364907691973,"HIGH_Total_CO2_Power",2039
+"1754","Thailand",227.392330235127,"HIGH_Total_CO2_Power",2040
+"1755","Thailand",232.387064872576,"HIGH_Total_CO2_Power",2041
+"1756","Thailand",237.442855522046,"HIGH_Total_CO2_Power",2042
+"1757","Thailand",242.450140250124,"HIGH_Total_CO2_Power",2043
+"1758","Thailand",247.411557699655,"HIGH_Total_CO2_Power",2044
+"1759","Thailand",252.3281953101,"HIGH_Total_CO2_Power",2045
+"1760","Thailand",257.221586868693,"HIGH_Total_CO2_Power",2046
+"1761","Thailand",262.078935226542,"HIGH_Total_CO2_Power",2047
+"1762","Thailand",266.897058108257,"HIGH_Total_CO2_Power",2048
+"1763","Thailand",271.671101018331,"HIGH_Total_CO2_Power",2049
+"1764","Thailand",276.396079827291,"HIGH_Total_CO2_Power",2050
+"1765","Ukraine",88.6087937053829,"HIGH_Total_CO2_Power",2015
+"1766","Ukraine",90.5645824954765,"HIGH_Total_CO2_Power",2016
+"1767","Ukraine",92.523624660945,"HIGH_Total_CO2_Power",2017
+"1768","Ukraine",94.5059038317673,"HIGH_Total_CO2_Power",2018
+"1769","Ukraine",96.5167637376121,"HIGH_Total_CO2_Power",2019
+"1770","Ukraine",98.5003663424256,"HIGH_Total_CO2_Power",2020
+"1771","Ukraine",100.445765456477,"HIGH_Total_CO2_Power",2021
+"1772","Ukraine",102.365287164344,"HIGH_Total_CO2_Power",2022
+"1773","Ukraine",104.255536110643,"HIGH_Total_CO2_Power",2023
+"1774","Ukraine",106.109617171821,"HIGH_Total_CO2_Power",2024
+"1775","Ukraine",107.922751033028,"HIGH_Total_CO2_Power",2025
+"1776","Ukraine",109.68593314238,"HIGH_Total_CO2_Power",2026
+"1777","Ukraine",111.40921864353,"HIGH_Total_CO2_Power",2027
+"1778","Ukraine",113.095397518657,"HIGH_Total_CO2_Power",2028
+"1779","Ukraine",114.750330293086,"HIGH_Total_CO2_Power",2029
+"1780","Ukraine",116.378681935795,"HIGH_Total_CO2_Power",2030
+"1781","Ukraine",117.971591102405,"HIGH_Total_CO2_Power",2031
+"1782","Ukraine",119.596555880284,"HIGH_Total_CO2_Power",2032
+"1783","Ukraine",121.198566022835,"HIGH_Total_CO2_Power",2033
+"1784","Ukraine",122.777793593231,"HIGH_Total_CO2_Power",2034
+"1785","Ukraine",124.334541964831,"HIGH_Total_CO2_Power",2035
+"1786","Ukraine",125.860421340895,"HIGH_Total_CO2_Power",2036
+"1787","Ukraine",127.367491468391,"HIGH_Total_CO2_Power",2037
+"1788","Ukraine",128.856572334868,"HIGH_Total_CO2_Power",2038
+"1789","Ukraine",130.329219800735,"HIGH_Total_CO2_Power",2039
+"1790","Ukraine",131.786749479237,"HIGH_Total_CO2_Power",2040
+"1791","Ukraine",133.218073514709,"HIGH_Total_CO2_Power",2041
+"1792","Ukraine",134.693737352493,"HIGH_Total_CO2_Power",2042
+"1793","Ukraine",136.155561262491,"HIGH_Total_CO2_Power",2043
+"1794","Ukraine",137.600724283404,"HIGH_Total_CO2_Power",2044
+"1795","Ukraine",139.027157584826,"HIGH_Total_CO2_Power",2045
+"1796","Ukraine",140.421802463271,"HIGH_Total_CO2_Power",2046
+"1797","Ukraine",141.801395933059,"HIGH_Total_CO2_Power",2047
+"1798","Ukraine",143.165174059186,"HIGH_Total_CO2_Power",2048
+"1799","Ukraine",144.512052260822,"HIGH_Total_CO2_Power",2049
+"1800","Ukraine",145.841515740742,"HIGH_Total_CO2_Power",2050
+"1801","Viet Nam",72.9280245669734,"HIGH_Total_CO2_Power",2015
+"1802","Viet Nam",80.1841399354513,"HIGH_Total_CO2_Power",2016
+"1803","Viet Nam",87.6733889043674,"HIGH_Total_CO2_Power",2017
+"1804","Viet Nam",94.6506961569153,"HIGH_Total_CO2_Power",2018
+"1805","Viet Nam",101.904693154376,"HIGH_Total_CO2_Power",2019
+"1806","Viet Nam",109.231189800935,"HIGH_Total_CO2_Power",2020
+"1807","Viet Nam",116.632509469687,"HIGH_Total_CO2_Power",2021
+"1808","Viet Nam",124.096551555056,"HIGH_Total_CO2_Power",2022
+"1809","Viet Nam",131.615965578036,"HIGH_Total_CO2_Power",2023
+"1810","Viet Nam",139.180175461016,"HIGH_Total_CO2_Power",2024
+"1811","Viet Nam",146.778034058577,"HIGH_Total_CO2_Power",2025
+"1812","Viet Nam",154.39423413136,"HIGH_Total_CO2_Power",2026
+"1813","Viet Nam",162.035632728202,"HIGH_Total_CO2_Power",2027
+"1814","Viet Nam",169.695481645272,"HIGH_Total_CO2_Power",2028
+"1815","Viet Nam",177.366507062413,"HIGH_Total_CO2_Power",2029
+"1816","Viet Nam",185.043871997279,"HIGH_Total_CO2_Power",2030
+"1817","Viet Nam",192.732197570401,"HIGH_Total_CO2_Power",2031
+"1818","Viet Nam",200.507900753522,"HIGH_Total_CO2_Power",2032
+"1819","Viet Nam",208.287505864666,"HIGH_Total_CO2_Power",2033
+"1820","Viet Nam",216.079856840918,"HIGH_Total_CO2_Power",2034
+"1821","Viet Nam",223.891092874126,"HIGH_Total_CO2_Power",2035
+"1822","Viet Nam",231.723612230636,"HIGH_Total_CO2_Power",2036
+"1823","Viet Nam",239.575093337583,"HIGH_Total_CO2_Power",2037
+"1824","Viet Nam",247.44626982274,"HIGH_Total_CO2_Power",2038
+"1825","Viet Nam",255.336296168892,"HIGH_Total_CO2_Power",2039
+"1826","Viet Nam",263.244039637606,"HIGH_Total_CO2_Power",2040
+"1827","Viet Nam",271.174019398439,"HIGH_Total_CO2_Power",2041
+"1828","Viet Nam",279.214426655762,"HIGH_Total_CO2_Power",2042
+"1829","Viet Nam",287.271589221254,"HIGH_Total_CO2_Power",2043
+"1830","Viet Nam",295.338395360862,"HIGH_Total_CO2_Power",2044
+"1831","Viet Nam",303.408836106846,"HIGH_Total_CO2_Power",2045
+"1832","Viet Nam",311.489520460642,"HIGH_Total_CO2_Power",2046
+"1833","Viet Nam",319.573950275491,"HIGH_Total_CO2_Power",2047
+"1834","Viet Nam",327.657166491766,"HIGH_Total_CO2_Power",2048
+"1835","Viet Nam",335.733163766252,"HIGH_Total_CO2_Power",2049
+"1836","Viet Nam",343.795658232618,"HIGH_Total_CO2_Power",2050

@@ -1,0 +1,31 @@
+﻿Country,Technology,EmF,Units,NumPlants,TotalCapacity(MW)
+China,Coal,864,g/kwh,2427,666142 
+India,Coal,1668,g/kwh,368,106439 
+United States,Coal,1015,g/kwh,572,341568 
+Europe,Coal,1237,g/kwh,703,226848 
+Russia,Coal,1418,g/kwh,101,48851 
+Rest of Asia,Coal,959,g/kwh,295,147627 
+Latin America+Canada,Coal,889,g/kwh,59,28626 
+Middle East+Africa,Coal,1273,g/kwh,94,59187 
+Rest of the world,Coal,1157,g/kwh,47,32253 
+Global,Coal,1044,g/kwh,4666,1657540 
+China,Natural gas,455 ,g/kwh,91,30143 
+India,Natural gas,456 ,g/kwh,169,20177 
+United States,Natural gas,487 ,g/kwh,1521,448671 
+Europe,Natural gas,453 ,g/kwh,4690,196148 
+Russia,Natural gas,713 ,g/kwh,421,102519 
+Rest of Asia,Natural gas,566 ,g/kwh,1306,187760 
+Latin America+Canada,Natural gas,464 ,g/kwh,610,86281 
+Middle East+Africa,Natural gas,535 ,g/kwh,713,194536 
+Rest of the world,Natural gas,505 ,g/kwh,242,17628 
+Global,Natural gas,527 ,g/kwh,9761,1283864 
+China,Oil,211 ,g/kwh,187,13834 
+India,Oil,1099 ,g/kwh,393,6524 
+United States,Oil,1323 ,g/kwh,933,59315 
+Europe,Oil,782 ,g/kwh,1484,78564 
+Russia,Oil,1171 ,g/kwh,118,4042 
+Rest of Asia,Oil,657 ,g/kwh,3301,107034 
+Latin America+Canada,Oil,660 ,g/kwh,2076,63686 
+Middle East+Africa,Oil,869 ,g/kwh,1784,102773 
+Rest of the world,Oil,1248 ,g/kwh,434,4512 
+Global,Oil,788 ,g/kwh,10700,440284 

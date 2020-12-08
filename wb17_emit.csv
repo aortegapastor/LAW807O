@@ -1,0 +1,238 @@
+"","X","Country","Technology","Project.Name","Sub.sector","Capacity","Capacity.Unit","Region","Time","EmiF","stEmiF","EmUnits","EmCite","h","mean_ut","sd_ut","UtCite","GtC","generation.MMW"
+"1",116,"India","Coal","Kolaghat coal plant rehabilitation Stage I","Electricity Generation",630,"MW","India",2015,389.3924615,491.5777446,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.00128938746991572,3.31128
+"2",16,"Bangladesh","Diesel, Natural Gas","Sirajganj 4 Combined Cycle Power Plant","Electricity generation",414,"MW","South Asia",NA,406.6,NA,"kg co2/MWh","US DOE",8760,0.56,NA,"US EIA",0.00082577142144,2.0309184
+"3",204,"Pakistan","Coal","China Power Hub Generation Company","Electricity generation",1320,"MW","South Asia",2015,368.8504615,900.2516329,"gCO2 per kWh","IEA",8760,0.006023636,7.08e-19,"WRI",2.56913596448919e-05,0.0696525077952
+"4",19,"Bolivia","Geothermal","Laguna Colorada Geothermal Plant","Electricity Generation",100,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.732,NA,"EIA",0,0.641232
+"5",81,"Djibouti","Geothermal","Gale-Le-Koma geothermal project","Electricity Generation",15,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.732,NA,"EIA",0,0.0961848
+"6",79,"Costa Rica","Geothermal","Borinquen I Geothermal Project","Electricity Generation",55,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.882486938,9.61e-17,"WRI",0,0.4251822067284
+"7",1,"Afghanistan","Hydro","Kamal Khan Dam Phase 3","Electricity Generation",8.5,"MW","South Asia",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.0320178
+"8",110,"Ethiopia","Geothermal","Project for Installation of Geothermal Wellhead Power System ","Electricity Generation",5,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.297116407,NA,"WRI",0,0.0130136986266
+"9",146,"Indonesia","Geothermal","Sorik Marapi Geothermal Power Plant","Electricity generation",240,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.853867668,9.79e-17,"WRI",0,1.7951713852032
+"10",147,"Indonesia","Geothermal","Muara Laboh Geothermal Power Plant","Electricity generation",80,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.853867668,9.79e-17,"WRI",0,0.5983904617344
+"11",162,"Kenya","Geothermal","Olkaria Geothermal Power Extension","Electricity Generation",61,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.614530722,9.93e-17,"WRI",0,0.32838063660792
+"12",163,"Kenya","Geothermal","Olkaria V Geothermal Power Development Project","Electricity Generation",140,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.614530722,9.93e-17,"WRI",0,0.7536604774608
+"13",164,"Kenya","Geothermal","Olkaria I Unit 6 ","Electricity Generation",70,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.614530722,9.93e-17,"WRI",0,0.3768302387304
+"14",236,"Turkey","Geothermal","Efeler Geothermal plant expansion","Electricity generation",19.8,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.562214612,3.51e-17,"WRI",0,0.097515000022176
+"15",80,"Côte d'Ivoire","Hydro","Gribo-Popoli hydropower","Electricity Generation",112,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.4218816
+"16",21,"Bosnia and Herzegovina","Coal","Tuzla Unit 7 coal-fired power station","Electricity Generation",450,"MW","Europe and Central Asia",2015,213.4185,513.8779528,"gCO2 per kWh","IEA",8760,0.651005592,6.41e-17,"WRI",0.000547688222802705,2.566264043664
+"17",112,"Guinea","Hydro","Fomi multi-purpose dam","Electricity Generation",90,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.339012
+"18",5,"Angola","Hydro","Caculo Cabaca hydropower","Electricity Generation",2171,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.746764367,7.85e-17,"WRI",0,14.2019348610313
+"19",166,"Lao PDR","Hydro","Nam Theun I","Electricity generation",650,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,2.44842
+"20",6,"Argentina","Hydro","Manantiales Behr Wind Power Plant 100 MW","Electricity Generation",100,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.472022821,4.27e-17,"WRI",0,0.413491991196
+"21",7,"Argentina","Hydro","Kirchner-Cepernic Hydropower Complex 1740 MW","Electricity Generation",1740,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.472022821,4.27e-17,"WRI",0,7.1947606468104
+"22",17,"Bangladesh","Hydro","Matarbari Ultra Super Critical Coal-Fired Power Project (III)","Electricity Generation",1200,"MW","South Asia",NA,0,NA,NA,NA,8760,0.291840381,NA,"WRI",0,3.067826085072
+"23",20,"Bolivia","Hydro","Warnes (21MW) and Ventolera (24MW) Wind Farms","Electricity Generation",45,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.572174283,7.54e-17,"WRI",0,0.2255511023586
+"24",22,"Brazil","Hydro","Ado Popinhaki Small Hydro Power Plant","Electricity generation",20,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.434825487,4.27e-17,"WRI",0,0.0761814253224
+"25",23,"Brazil","Hydro","Lajari Small Hydro Power Plant","Electricity generation",25,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.434825487,4.27e-17,"WRI",0,0.095226781653
+"26",35,"Bulgaria","Hydro","Bulgaria hydropower system rehabilitation project","Electricity Generation",1313,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.301013055,3.2e-17,"WRI",0,3.4622160370434
+"27",38,"Cameroon","Hydro","Memve'ele Hydroelectric Power Plant (200MW) Additional Facility 2017","Electricity Generation",200,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.91802414,0,"WRI",0,1.60837829328
+"28",39,"Cameroon","Hydro","Lom Pangar Power Plant","Electricity Generation",30,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.91802414,0,"WRI",0,0.241256743992
+"29",43,"China","Hydro","Yebatan Hydro Power Station Project","Electricity Generation",2240,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.469064284,4.27e-17,"WRI",0,9.2041670063616
+"30",44,"China","Hydro","Inner Mongolia Zhirui Pumped Storage Power Station","Electricity Generation",1200,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.469064284,4.27e-17,"WRI",0,4.930803753408
+"31",45,"China","Hydro","Baihetan hydropower station","Electricity Generation",16000,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.469064284,4.27e-17,"WRI",0,65.74405004544
+"32",167,"Lao PDR","Hydro","Nam Ngum 1 Dam Expansion Project","Electricity Generation",80,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.301344
+"33",83,"Ecuador","Hydro","Hidronormandia Plant","Electricity generation",46.2,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.401924478,5.23e-17,"WRI",0,0.162663659340336
+"34",111,"Georgia","Hydro","Mestiachala 1 & 2 HEPPs","Electricity generation",40.27,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.368592244,3.51e-17,"WRI",0,0.130026516673109
+"35",168,"Lao PDR","Hydro","Xe Namnoy 2 & Xe Katam 1 Hydro Power Plants","Electricity generation",15,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.056502
+"36",148,"Indonesia","Hydro","Kumbih III hydro power plant","Electricity Generation",45,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.379249666,3.72e-17,"WRI",0,0.1495002183372
+"37",161,"Kazakhstan","Hydro","Turgusun HPP-1","Electricity Generation",43367,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.45132289,3.2e-17,"WRI",0,171.455273190719
+"38",165,"Kenya","Hydro","Kenyan Hydro Portfolio (16MW) IFC Facility","Electricity Generation",16,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.48121992,4.2e-17,"WRI",0,0.0674477839872
+"39",169,"Lao PDR","Hydro","Don Sahong Hydropower","Electricity generation",260,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.979368
+"40",170,"Madagascar","Hydro","Jirama Andekaleka Hydro Expansion","Electricity Generation",33,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.1243044
+"41",210,"Papua New Guinea","Hydro","Papua New Guinea: Town Electrification Investment Program - Tranche 2","Electricity Generation",28.3,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.10660044
+"42",216,"Samoa","Hydro","Savai’i hydro power","Electricity Generation",0.81,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.003051108
+"43",217,"Samoa","Hydro","Fuluasou small hydropower plant (700 kW)","Electricity Generation",0.7,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.00263676
+"44",199,"Nepal","Hydro","Nyadi Hydropower Plant","Electricity generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.775220444,1.06e-16,"WRI",0,0.339546554472
+"45",200,"Nepal","Hydro","Super Nyadi Hydropower","Electricity generation",30,"MW","South Asia",NA,0,NA,NA,NA,8760,0.775220444,1.06e-16,"WRI",0,0.2037279326832
+"46",201,"Nepal","Hydro","Upper Solu Khola Hydropower Plant","Electricity generation",20,"MW","South Asia",NA,0,NA,NA,NA,8760,0.775220444,1.06e-16,"WRI",0,0.1358186217888
+"47",202,"Nigeria","Hydro","Mambilla Hydroelectric Plant","Electricity Generation",3050,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.321196828,0,"WRI",0,8.581736850504
+"48",205,"Pakistan","Hydro","Karot Hydropower Plant","Electricity generation",720,"MW","South Asia",NA,0,NA,NA,NA,8760,0.44904266,4.24e-17,"WRI",0,2.832201865152
+"49",206,"Pakistan","Hydro","Suki Kinari Hydropower Plant","Electricity generation",870,"MW","South Asia",NA,0,NA,NA,NA,8760,0.44904266,4.24e-17,"WRI",0,3.422243920392
+"50",207,"Pakistan","Hydro","Dasu Hydropower Stage 1 Project","Electricity Generation",2160,"MW","South Asia",NA,0,NA,NA,NA,8760,0.44904266,4.24e-17,"WRI",0,8.496605595456
+"51",208,"Pakistan","Hydro","Tarbela Hydropower Plant Fifth Extension","Electricity Generation",1410,"MW","South Asia",NA,0,NA,NA,NA,8760,0.44904266,4.24e-17,"WRI",0,5.546395319256
+"52",238,"Uganda","Hydro","Butama Hydroelectric plant","Electricity generation",3.6,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.43,NA,"EIA",0,0.01356048
+"53",212,"Peru","Hydro","Ayanunga hydro plant","Electricity generation",12,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.926421152,8.15e-17,"WRI",0,0.09738539149824
+"54",4,"Algeria","Natural Gas","Kais Combined Cycle Gas-Fired Power Plant 1266 MW","Electricity Generation",1266,"MW","Middle East+Africa",2015,96.15215385,191.7412614,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.00063980566232467,6.654096
+"55",8,"Argentina","Natural Gas","Tucuman & Loma Capana II Thermal Power Plants","Electricity generation",374,"MW","Latin America+Canada",2015,92.57569231,180.5319395,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000181980111704229,1.965744
+"56",220,"Serbia","Hydro","Kostolac wind farm ","Electricity Generation",66,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.554870942,6.41e-17,"WRI",0,0.32080418382672
+"57",227,"Tajikistan","Hydro","Tajikistani Central Area 500KV Power Transmission and Distribution Project","Electricity Generation",285,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.389741383,4.2e-17,"WRI",0,0.9730283367978
+"58",228,"Tajikistan","Hydro","Nurek Hydropower Rehabilitation Project, Phase I","Electricity Generation",3000,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.389741383,4.2e-17,"WRI",0,10.24240354524
+"59",229,"Tanzania","Hydro","Regional Rusumo Hydroelectric Project","Electricity Generation",80,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.527026917,4.97e-17,"WRI",0,0.3693404634336
+"60",237,"Turkey","Hydro","Cetin Hydroelectric Power Plant","Electricity generation",517,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.335272793,4.27e-17,"WRI",0,1.51842365767356
+"61",9,"Argentina","Natural Gas","Santa Fe Gas-Fired Plant","Electricity generation",200,"MW","Latin America+Canada",2015,92.57569231,180.5319395,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",9.7315567756272e-05,1.0512
+"62",242,"Zimbabwe","Hydro","Kariba South Hydro & Hwange Thermal Power Plant Portfolio Rehabilitation Project","Electricity Generation",980,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.826636225,NA,"WRI",0,7.09650666438
+"63",243,"Zimbabwe","Hydro","Tokwe-Mukosi Mini - hydro plant","Electricity Generation",15,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.826636225,NA,"WRI",0,0.108619999965
+"64",10,"Argentina","Natural Gas","Stoneway Capital Portfolio","Electricity generation",686,"MW","Latin America+Canada",2015,92.57569231,180.5319395,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000333792397404013,3.605616
+"65",24,"Brazil","Natural Gas","Prosperidade I Thermal Power Plant","Electricity generation",20,"MW","Latin America+Canada",2015,88.95169231,167.2827482,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",9.3506018956272e-06,0.10512
+"66",156,"Jamaica","Natural Gas","Old Harbour  Combined Cycle Power Station","Electricity generation",190,"MW","Latin America+Canada",2015,464,NA,"g/kwh","Tong18",8760,0.6,NA,"BU",0.00046336896,0.99864
+"67",211,"Papua New Guinea","Natural Gas","Gas Engine-based Power Plant","Electricity Generation",58,"MW","Middle East+Africa",NA,535,NA,"g/kwh","Tong18",8760,0.6,NA,"BU",0.00016309368,0.304848
+"68",152,"Iran, Islamic Rep.","Nuclear","Bushehr Nuclear Power Plant","Electricity Generation",2100,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.510502283,NA,"WRI",0,9.391199998068
+"69",149,"Indonesia","Natural Gas","Gas-Fired Power Plant","Electricity Generation",9735,"MW","Rest of Asia",2015,92.02,186.9316572,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.0047084020632,51.16716
+"70",176,"Mexico","Natural Gas","Nuevo Leon combined cycle plant","Electricity generation",866,"MW","Latin America+Canada",2015,110.0837692,162.3783511,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000501067851932563,4.551696
+"71",177,"Mexico","Natural Gas","Tierra Mojada CCGT Power Plant","Electricity generation",874,"MW","Latin America+Canada",2015,110.0837692,162.3783511,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000505696654259885,4.593744
+"72",11,"Argentina","Solar","Cauchari Solar Plant","Electricity Generation",300,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.570776256,1.11e-16,"WRI",0,1.500000000768
+"73",12,"Argentina","Solar","Fiambala, Saujil and Tinogasta solar  parks","Electricity generation",20,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.570776256,1.11e-16,"WRI",0,0.1000000000512
+"74",178,"Mexico","Natural Gas","Norte III CCGT Power Plant","Electricity generation",907,"MW","Latin America+Canada",2015,110.0837692,162.3783511,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000524790463860086,4.767192
+"75",194,"Mozambique","Natural Gas","Central Termica de Ressano Garcia","Electricity",175,"MW","Middle East+Africa",2015,73.36723077,177.3902427,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",6.7483178862246e-05,0.9198
+"76",196,"Myanmar","Natural Gas","Myingyan Gas-Fired Power Plant","Electricity generation",225,"MW","Rest of Asia",2015,113.5306923,272.9898203,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.00013426139671398,1.1826
+"77",234,"Tunisia","Natural Gas","Mornaguia Gas Turbine Power Plant 660 MW","Electricity Generation",660,"MW","Middle East+Africa",2015,76.51569231,174.9573947,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000265429875995698,3.46896
+"78",18,"Bangladesh","Nuclear","Rooppur plant (Bangladesh)","Electricity Generation",2400,"MW","Rest of Asia",NA,0,NA,NA,NA,8760,0.925,NA,"EIA",0,19.4472
+"79",117,"India","Nuclear","Kudankulam NPP Unit No. 3 & 4","Electricity Generation",2000,"MW","India",NA,0,NA,NA,NA,8760,0.925,NA,"EIA",0,16.206
+"80",46,"China","Solar","Xiantao Yanglinwei 150MW Solar Power Plant","Electricity generation",150,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.254916
+"81",47,"China","Solar","Changsha City Gaoling International Trade Center Distributed Roof Solar Power Plant","Electricity generation",6,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.01019664
+"82",48,"China","Solar","Jinkopower Pingding County 100MW Solar Power Plant","Electricity generation",49.6,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.084292224
+"83",49,"China","Solar","Baoji City Chencang District Longxing 50MW Solar Power Plant","Electricity generation",70,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.1189608
+"84",50,"China","Solar","Longan County Zhendong 100MW Solar Power Plant Phase I","Electricity generation",50,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.084972
+"85",51,"China","Solar","Zhuozi County Shenzhen Clou Solar Power Plant Phase I","Electricity generation",20,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.0339888
+"86",52,"China","Solar","Yanan Yinggu Guorun Changde 200MW Distributed Solar Power Plant","Electricity generation",200,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.339888
+"87",53,"China","Solar","Yumen Zhongshangmingde 50MW Heat Conduction Oil Solar Power Plant","Electricity generation",50,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.084972
+"88",54,"China","Solar","Shanghai Lingang Distributed Solar Power Project.","Electricity Generation",100,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.169944
+"89",55,"China","Solar","Yiyang Lingjiaocha 20MW Solar Power Plant","Electricity generation",20,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.0339888
+"90",56,"China","Solar","Dai County Baotong Xinzhou City 40MW Solar Power Plant","Electricity generation",33,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.05608152
+"91",57,"China","Solar","Anhui floating Solar Plant","Electricity Generation",150,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.254916
+"92",58,"China","Solar","Zhongmin New Energy Pingding County 50MW Solar Power Plant","Electricity generation",40,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.0679776
+"93",59,"China","Solar","Yuanjiang County Natang 20MW Solar Power Plant","Electricity generation",12,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.02039328
+"94",60,"China","Solar","Yangquan City Baiyangshu 50MW Solar Power Plant","Electricity generation",48,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.08157312
+"95",61,"China","Solar","Yaocheng Wucheng County 100MW Solar Power Plant","Electricity generation",100,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.169944
+"96",62,"China","Solar","Yonker Liuyang Economic Development Zone Solar Power Plant","Electricity generation",470,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.7987368
+"97",63,"China","Solar","Yumen Xinneng 50MW Molten Salt Optothermal Power Plant","Electricity generation",50,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.084972
+"98",64,"China","Solar","Jinko Power Huancheng 100MW Solar Power Plant","Electricity generation",100,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.194,6.64e-17,"He 2016",0,0.169944
+"99",174,"Mali","Oil","Kayes Thermal Power Plant","Electricity generation",90,"MW","Middle East+Africa",2015,222.5387692,542.3119202,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.000105269739382368,0.47304
+"100",158,"Jordan","Shale","Attarat Oil Shale-Fired Power Plant","Electricity generation",470,"MW","Middle East+Africa",NA,108.07454,257.4344,"gCO2 per kWh","IEA",8760,0.6,NA,"BU",0.0002669786976528,2.47032
+"101",2,"Afghanistan","Solar","Kabul Solar Plant","Electricity Generation",20,"MW","South Asia",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.028032
+"102",3,"Afghanistan","Solar","Kandahar Solar Plant","Electricity generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.014016
+"103",25,"Brazil","Solar","BJL11 Solar Power Plant","Electricity generation",20,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.028032
+"104",26,"Brazil","Solar","Pirapora Solar Park","Electricity generation",150,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.21024
+"105",27,"Brazil","Solar","Sertao I and Sobral I Solar Power Plants","Electricity generation",60,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.084096
+"106",36,"Burkina Faso","Solar","Zagtouli solar power plant","Electricity Generation",33,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.0462528
+"107",37,"Cambodia","Solar","Svay Rieng PV Solar Farm","Electricity generation",5,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.007008
+"108",40,"Cameroon","Solar","Cameroon Rural Electrification Programme Phase 2","Electricity Generation",35,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.049056
+"109",78,"Cook Islands","Solar","Southern Renewable Energy Project","Electricity Generation",3,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.0042048
+"110",84,"Egypt, Arab Rep.","Solar","Acciona Benban Rising Sun Energy","Electricity generation",50.7,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07106112
+"111",85,"Egypt, Arab Rep.","Solar","Acciona Benban SunRise Energy","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"112",86,"Egypt, Arab Rep.","Solar","ACWA Benban Solar PV I","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"113",87,"Egypt, Arab Rep.","Solar","Alcazar Energy Solar Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"114",88,"Egypt, Arab Rep.","Solar","Alfa Solar Binban Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"115",89,"Egypt, Arab Rep.","Solar","ARC Benban Solar Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"116",90,"Egypt, Arab Rep.","Solar","Arinna Benban Solar Plant","Electricity generation",30,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.042048
+"117",91,"Egypt, Arab Rep.","Solar","Aten Solar PV Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"118",92,"Egypt, Arab Rep.","Solar","Scatec Solar Portfolio","Electricity generation",400,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.56064
+"119",93,"Egypt, Arab Rep.","Solar","Horus Solar PV Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"120",94,"Egypt, Arab Rep.","Solar","Infinity Solar Portfolio","Electricity generation",100,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.14016
+"121",95,"Egypt, Arab Rep.","Solar","Kom Ombo solar power project","Electricity Generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"122",96,"Egypt, Arab Rep.","Solar","Ra Solar Plant","Electricity generation",10,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.014016
+"123",97,"Egypt, Arab Rep.","Solar","Access Power and Eren Solar PV Complex","Electricity generation",100,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.14016
+"124",98,"Egypt, Arab Rep.","Solar","EDF EN Benban PV plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"125",99,"Egypt, Arab Rep.","Solar","Elsewedy Benban Solar Plant","Electricity generation",30,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.042048
+"126",118,"India","Solar","Sagardighi solar photovoltaic power unit ","Electricity Generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0194069974692
+"127",119,"India","Solar","Teni & Dindigul solar photovoltaic power plant","Electricity Generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.097034987346
+"128",120,"India","Solar","Essel Jalgaon Solar Plant","Electricity generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0194069974692
+"129",121,"India","Solar","Parbhani Solar Plant","Electricity generation",34,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.06598379139528
+"130",122,"India","Solar","Patni Solar PV based power unit","Electricity Generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0194069974692
+"131",123,"India","Solar","Divine Solren Solar park","Electricity generation",47.5,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0921832379787
+"132",124,"India","Solar","Suryoday Solar Plant","Electricity generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.097034987346
+"133",125,"India","Solar","Bandel, Kolaghat & Bakreswar rooftop power units","Electricity Generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0194069974692
+"134",126,"India","Solar","Rising Bhadla 2 Solar Farm","Electricity generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.097034987346
+"135",127,"India","Solar","Bhadla Solar park","Electricity generation",140,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.2716979645688
+"136",141,"Indonesia","Coal","Tanjung Jati B Coal-Fired Power Plant (Units 5 & 6)","Electricity generation",2000,"MW","East Asia and Pacific",2015,179.1603077,353.9892722,"gCO2 per kWh","IEA",8760,0.468296106,4.63e-17,"WRI",0.00146992930428817,8.20454777712
+"137",142,"Indonesia","Coal","Cirebon 2 Coal - Fired Power Plant","Electricity generation",1000,"MW","East Asia and Pacific",2015,179.1603077,353.9892722,"gCO2 per kWh","IEA",8760,0.468296106,4.63e-17,"WRI",0.000734964652144085,4.10227388856
+"138",143,"Indonesia","Coal","Sumsel 1","Electricity generation",600,"MW","East Asia and Pacific",2015,179.1603077,353.9892722,"gCO2 per kWh","IEA",8760,0.468296106,4.63e-17,"WRI",0.000440978791286451,2.461364333136
+"139",144,"Indonesia","Coal","KalSel Coal-Fired Power Plant","Electricity generation",200,"MW","East Asia and Pacific",2015,179.1603077,353.9892722,"gCO2 per kWh","IEA",8760,0.468296106,4.63e-17,"WRI",0.000146992930428817,0.820454777712
+"140",145,"Indonesia","Coal","Mine-Mouth Coal-Fired Power Plants (PLTU)","Electricity Generation",7550,"MW","East Asia and Pacific",2015,179.1603077,353.9892722,"gCO2 per kWh","IEA",8760,0.468296106,4.63e-17,"WRI",0.00554898312368784,30.972167858628
+"141",128,"India","Solar","Rewa Actis Solar Park","Electricity generation",250,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.48517493673
+"142",129,"India","Solar","Charanka solar based power unit (15 MW) ","Electricity Generation",15,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0291104962038
+"143",130,"India","Solar","Talaricheruvu Solar Plant","Electricity Generation",100,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.194069974692
+"144",100,"Egypt, Arab Rep.","Solar","ACWA Benban Solar PV II","Electricity generation",10,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.014016
+"145",131,"India","Solar","FRV India Solar Park II","Electricity generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.097034987346
+"146",132,"India","Solar","FRV Andhra Pradesh Solar Farm I","Electricity generation",24,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.04657679392608
+"147",133,"India","Solar","Salboni Solar PV power unit","Electricity Generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.0194069974692
+"148",134,"India","Solar","Thoothukudi 200 MW wind power plant","Electricity Generation",200,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.388139949384
+"149",135,"India","Solar","Lightsource Solar PV (Maharashtra)","Electricity generation",12,"MW","South Asia",NA,0,NA,NA,NA,8760,0.221541067,1.94e-17,"WRI",0,0.02328839696304
+"150",101,"Egypt, Arab Rep.","Solar","ACWA Benban Solar PV III","Electricity generation",80,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.112128
+"151",102,"Egypt, Arab Rep.","Solar","Al Subh Solar PV Plant","Electricity generation",19.8,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.02775168
+"152",103,"Egypt, Arab Rep.","Solar","Shapoorji Energy Benban Solar Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"153",104,"Egypt, Arab Rep.","Solar","Winnergy Benban Solar Plant","Electricity generation",19.3,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.02705088
+"154",171,"Malaysia","Solar","Merchang, Jasin and Gurun  Solar Farms","Electricity generation",197,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.33873519,1.96e-17,"WRI",0,0.5845620920868
+"155",172,"Malaysia","Solar","Solar Management (Seremban) Farm","Electricity generation",50,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.33873519,1.96e-17,"WRI",0,0.14836601322
+"156",173,"Malaysia","Solar","TNB Sepang Solar Plant","Electricity Generation",50,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.33873519,1.96e-17,"WRI",0,0.14836601322
+"157",179,"Mexico","Solar","Hermosillo Solar Plant","Electricity generation",105,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.13797
+"158",180,"Mexico","Solar","Villanueva Solar Farm","Electricity generation",754,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.990756
+"159",181,"Mexico","Solar","Solem Solar Farm","Electricity generation",290,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.38106
+"160",182,"Mexico","Solar","Orejana and Santa Maria Solar Parks","Electricity generation",337,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.442818
+"161",183,"Mexico","Solar","Santiago Solar Plant","Electricity generation",170,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.22338
+"162",184,"Mexico","Solar","Don Jose Solar Farm","Electricity generation",238,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.312732
+"163",185,"Mexico","Solar","Jalisco Solar 1","Electricity generation",8,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.010512
+"164",186,"Mexico","Solar","Viborillas Solar Power Plant","Electricity generation",100,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.15,0,"NREL",0,0.1314
+"165",105,"Egypt, Arab Rep.","Solar","Delta Solar PV Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"166",106,"Egypt, Arab Rep.","Solar","Taqa Arabia Benban Solar Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"167",109,"El Salvador","Solar","AES El Salvador Solar Portfolio","Electricity generation",100,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.14016
+"168",113,"Honduras","Solar","Pacific Solar Energy","Electricity generation",50,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"169",153,"Iran, Islamic Rep.","Solar","Jajarm Solar Park","Electricity generation",35,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.049056
+"170",157,"Jamaica","Solar","Eight Rivers Energy","Electricity generation",50,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"171",159,"Jordan","Solar","Baynouna Solar PV Plant","Electricity generation",200,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.28032
+"172",160,"Jordan","Solar","Risha Solar Plant","Electricity generation",50,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"173",191,"Mongolia","Solar","Second Energy Sector Project","Electricity Generation",10,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.014016
+"174",193,"Morocco","Solar","Noor PV I Solar Trio","Electricity generation",177,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.2480832
+"175",214,"Russian Federation","Solar","Renova Rosnano Altai Portfolio 64 MW","Electricity generation",64,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.103659706,9.81e-18,"WRI",0,0.05811577757184
+"176",195,"Mozambique","Solar","Mocuba Solar PV Plant","Electricity generation",50,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"177",197,"Namibia","Solar","Ejuva One and Ejuva Two Solar Plants","Electricity generation",27.3,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.03826368
+"178",198,"Namibia","Solar","Rosh Pinah PV Plant","Electricity generation",10,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.014016
+"179",203,"Nigeria","Solar","Afrinergia Power","Electricity generation",50,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.07008
+"180",232,"Tonga","Solar","Outer Island Renewable Energy Project - Additional Financing","Electricity Generation",1.3,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.00182208
+"181",240,"Zambia","Solar","Bangweulu Solar PV Plant","Electricity generation",9,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.16,NA,"IEA",0,0.0126144
+"182",13,"Argentina","Wind","Vientos Los Hercules Wind Farm","Electricity generation",97.2,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.393675989,5.29e-17,"WRI",0,0.335204081705808
+"183",14,"Argentina","Wind","El Corti Wind Farm","Electricity generation",98.6,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.393675989,5.29e-17,"WRI",0,0.340032124034904
+"184",15,"Argentina","Wind","La Castellana Wind Farm","Electricity generation",99,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.393675989,5.29e-17,"WRI",0,0.34141156470036
+"185",28,"Brazil","Wind","Serra da Babilonia Wind Park","Electricity generation",223,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.26443867477956
+"186",29,"Brazil","Wind","Santa Vitoria do Palmar Wind Complex","Electricity generation",209,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.24783714362748
+"187",30,"Brazil","Wind","Ventos da Bahia Wind Park","Electricity generation",116.6,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.138267038023752
+"188",31,"Brazil","Wind","Canoas, Lagoa 1 and Lagoa 2 Wind Power Plants","Electricity generation",90,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.1067241288348
+"189",32,"Brazil","Wind","Rio Grande do Norte Wind Portfolio","Electricity generation",129,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.15297125132988
+"190",33,"Brazil","Wind","Delta 3 Wind Park","Electricity generation",220.8,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.261829862741376
+"191",213,"Philippines","Coal","GNPower Dinginin Unit 2","Electricity generation",668,"MW","East Asia and Pacific",2015,174.9021538,402.8121562,"gCO2 per kWh","IEA",8760,0.432156457,3.55e-17,"WRI",0.000442299789340862,2.52884129629776
+"192",34,"Brazil","Wind","Central Eolica Jau","Electricity generation",50,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.135367997,1.61e-17,"WRI",0,0.059291182686
+"193",77,"China","Wind","Concord NE","Electricity generation",200,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.349421406,2.39e-17,"WRI",0,0.612186303312
+"194",82,"Dominican Republic","Wind","Parques Eolicos del Caribe","Electricity generation",50,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.38,NA,"Wright 2001",0,0.16644
+"195",218,"Senegal","Oil","Tobene Oil-Fired Power Plant","Electricity generation",9,"MW","Sub-Saharan Africa",2015,110.2365385,266.8858545,"gCO2 per kWh","IEA",8760,0.756327675,1.11e-16,"WRI",6.57328065305829e-06,0.059628873897
+"196",219,"Serbia","Coal","Kostolac B coal-fired power plant Unit 3 Phase 2","Electricity Generation",350,"MW","Europe and Central Asia",2015,164.2964308,381.6553044,"gCO2 per kWh","IEA",8760,0.45444779,4.69e-17,"WRI",0.000228920283538052,1.39333692414
+"197",114,"Honduras","Wind","San Marcos Wind Expansion","Electricity generation",20,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.360585635,NA,"WRI",0,0.063174603252
+"198",115,"Honduras","Wind","Chinchayote Wind Farm","Electricity generation",28,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.360585635,NA,"WRI",0,0.0884444445528
+"199",138,"India","Wind","Janardan Wind Energy","Electricity generation",10,"MW","South Asia",NA,0,NA,NA,NA,8760,0.2414375,0.026281454,"Kar 2015",0,0.021149925
+"200",139,"India","Wind","Karnataka Wind Farm","Electricity generation",50,"MW","South Asia",NA,0,NA,NA,NA,8760,0.2414375,0.026281454,"Kar 2015",0,0.105749625
+"201",140,"India","Wind","Vayu Urja Bharat Wind Farm","Electricity generation",120,"MW","South Asia",NA,0,NA,NA,NA,8760,0.2414375,0.026281454,"Kar 2015",0,0.2537991
+"202",108,"Egypt, Arab Rep.","Wind","Ras Ghareb Wind Farm","Electricity generation",250,"MW","Middle East and North Africa",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.73365
+"203",150,"Indonesia","Wind","Tolo Wind Park","Electricity generation",72,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.2112912
+"204",151,"Indonesia","Wind","Sidrap Wind Farm","Electricity generation",75,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.220095
+"205",187,"Mexico","Wind","El Mezquite Wind Farm","Electricity generation",250,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.462289919,3.82e-17,"WRI",0,1.01241492261
+"206",188,"Mexico","Wind","Amistad Wind Farm","Electricity generation",200,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.462289919,3.82e-17,"WRI",0,0.809931938088
+"207",189,"Mexico","Wind","El Cortijo wind farm","Electricity generation",168,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.462289919,3.82e-17,"WRI",0,0.68034282799392
+"208",190,"Mexico","Wind","Reynosa Wind Farm","Electricity generation",424,"MW","Latin America and the Caribbean",NA,0,NA,NA,NA,8760,0.462289919,3.82e-17,"WRI",0,1.71705570874656
+"209",192,"Mongolia","Wind","Sainshand Wind Farm","Electricity generation",55,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.388127854,NA,"WRI",0,0.1870000000572
+"210",209,"Pakistan","Wind","Tricon Boston Consulting Limited (TBCL)","Electricity generation",150,"MW","South Asia",NA,0,NA,NA,NA,8760,0.2414375,0.026281454,"Kar 2015",0,0.317248875
+"211",175,"Mauritania","Wind","Boulenouar Wind Power Plant","Electricity Generation",100,"MW","Sub-Saharan Africa",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.29346
+"212",221,"Serbia","Wind","Alibunar Wind Farm","Electricity generation",98.7,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.28964502
+"213",222,"Serbia","Wind","Dolovo Cibuk I Wind Farm","Electricity generation",158.4,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.46484064
+"214",223,"Serbia","Wind","Kosava Wind Farm Phase I","Electricity generation",69,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.2024874
+"215",224,"Serbia","Wind","Kovacica Wind Farm","Electricity generation",104.5,"MW","Europe and Central Asia",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.3066657
+"216",239,"Vietnam","Coal","Duyen Hai 2 Thermal Power Plant","Electricity generation",1200,"MW","East Asia and Pacific",2015,194.4227692,444.8085279,"gCO2 per kWh","IEA",8760,0.279330828,2e-17,"WRI",0.000570888566855466,2.936325663936
+"217",225,"Sri Lanka","Wind","Mannar Wind Farm Phase I","Electricity Generation",100,"MW","South Asia",NA,0,NA,NA,NA,8760,0.240699444,2.04e-17,"WRI",0,0.210852712944
+"218",241,"Zimbabwe","Coal","Hwange Power Station Expansion","Electricity Generation",600,"MW","Sub-Saharan Africa",2015,239.0173846,580.4137332,"gCO2 per kWh","IEA",8760,0.545587651,NA,"WRI",0.00068540833001388,2.867608693656
+"219",231,"Thailand","Wind","Wind Energy Holding Portfolio","Electricity generation",450,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.165796912,2.78e-17,"WRI",0,0.653571427104
+"220",233,"Tonga","Wind","Project for installation of wind power generation system in Tonga","Electricity Generation",1.3,"MW","East Asia and Pacific",NA,0,NA,NA,NA,8760,0.335,NA,"IEA",0,0.00381498
+"221",235,"Turkey","Biogas","Seleda Biogas Facility","Electricity generation",5,"MW","Europe and Central Asia",NA,177.670257377905,NA,"kg CO2 per mmBtu","EPA",8760,0.618,NA,"EIA",4.80924959480808e-06,0.0270684
+"222",41,"China","Biomass","Guangxi Qiquan Biomass Power Plant","Electricity generation",80,"MW","East Asia and Pacific",NA,360.015149912479,NA,"kg CO2 per mmBtu","EPA",8760,0.618,NA,"EIA",0.000155920545342255,0.4330944
+"223",42,"China","Biomass","Yushu City Kaidi Biomass Cogeneration Power Plant","Electricity generation",50,"MW","East Asia and Pacific",NA,360.015149912479,NA,"kg CO2 per mmBtu","EPA",8760,0.618,NA,"EIA",9.74503408389093e-05,0.270684
+"224",215,"Rwanda","Biomass","HQ Peat-fired Power Plant","Electricity generation",80,"MW","Sub-Saharan Africa",NA,381.614011621757,NA,"kg CO2 per mmBtu","EPA",8760,0.618,NA,"EIA",0.000165274891394918,0.4330944
+"225",65,"China","Waste","Dynagreen 610MW Waste-to-Energy Project","Electricity Generation",69.7,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",0.00013605165263025,0.43961184
+"226",66,"China","Waste","Funing County Xinhua Town Solid Waste Pyrolysis Gasification Power Plant","Electricity generation",5.25,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",1.02477930603847e-05,0.0331128
+"227",67,"China","Waste","Hechi City Urban and Rural Solid Waste Incineration Power Plant","Electricity generation",22,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",4.29431328244692e-05,0.1387584
+"228",68,"China","Waste","Kunming Wuhua Solid Waste Incineration Power Plant Relocation Project","Electricity generation",50,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",9.75980291465208e-05,0.31536
+"229",69,"China","Waste","Puyang Solid Waste Incineration Power Plant","Electricity generation",37.6,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",7.33937179181836e-05,0.23715072
+"230",70,"China","Waste","Tumen City Solid Waste Incineration Power Plant","Electricity generation",20.8,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",4.06007801249527e-05,0.13118976
+"231",71,"China","Waste","Tae Basin Solid Waste Incineration Power Plant","Electricity generation",30,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",5.85588174879125e-05,0.189216
+"232",72,"China","Waste","Wulanchabu Ctiy Jining District Solid Waste Incineration Power Plant","Electricity generation",22.6,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",4.41143091742274e-05,0.14254272
+"233",73,"China","Waste","Tieling Solid Waste Incineration Power Plant","Electricity generation",50,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",9.75980291465208e-05,0.31536
+"234",74,"China","Waste","Wuyi County Solid Waste Incineration Power Plant","Electricity generation",50,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",9.75980291465208e-05,0.31536
+"235",75,"China","Waste","Zhijin County Urban Solid Waste Incineration Power Plant","Electricity generation",40,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",7.80784233172166e-05,0.252288
+"236",76,"China","Waste","Wenxi County Solid Waste Incineration Power Plant","Electricity generation",12,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",2.3423526995165e-05,0.0756864
+"237",230,"Thailand","Waste","Thailand Waste-to-Energy Plant","Electricity generation",9,"MW","East Asia and Pacific",NA,309.481320226157,NA,"kg CO2 per mmBtu","EPA",8760,0.72,NA,"Naderi 2020",1.75676452463737e-05,0.0567648
