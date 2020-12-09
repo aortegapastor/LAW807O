@@ -28,9 +28,9 @@ unit1 <- df %>%
   filter(is.na(EmUnits) | EmUnits != "kg CO2 per mmBtu") %>%
   bind_rows(unit) %>%
   mutate (GtC = EmiF * Capacity * h * mean_ut * 10^(-12)) %>%
-  mutate (generation.MMW = Capacity * h * mean_ut * 10^(-6))
+  mutate (generation.TW = Capacity * h * mean_ut * 10^(-6))
 summary (unit1$GtC)
-summary (unit1$generation.MMW)
+summary (unit1$generation.TW)
 
 write.csv(unit1, "wb17_emit.csv")
 
@@ -61,12 +61,12 @@ wb17_Gt<-unit1%>%
 legend <- get_legend(wb17_Gt)
 
 wb17_MW<-unit1%>%
-  ggplot (aes (y = generation.MMW, x = fct_reorder2(code,GtC, Country), fill = Country)) + 
+  ggplot (aes (y = generation.TW, x = fct_reorder2(code,GtC, Country), fill = Country)) + 
     geom_bar(stat = "identity") +
     coord_flip() +
     theme_classic()+
     theme(legend.position="none") +
-    labs (x = "Projects", y = "Generation (MMW)")
+    labs (x = "Projects", y = "Generation (TW)")
 
 indo17_Gt<-indo %>%
   ggplot (aes (y = GtC, x = fct_reorder(code, GtC))) + 
@@ -77,11 +77,11 @@ indo17_Gt<-indo %>%
     ggtitle ("Case Study: Indonesia")
 
 indo17_MW<-indo %>%
-  ggplot (aes (y = generation.MMW, x = fct_reorder(code, GtC))) + 
+  ggplot (aes (y = generation.TW, x = fct_reorder(code, GtC))) + 
     geom_bar(stat = "identity") +
     coord_flip() +
     theme_classic()+
-    labs (x = "Projects", y = "Generation (MMW)")
+    labs (x = "Projects", y = "Generation (TW)")
 
 pdf("CurrentEmissions.pdf") 
 wb17_Gt+theme(legend.position = "none")

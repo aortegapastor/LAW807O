@@ -6,10 +6,11 @@ library (StandardizeText)
 #Emissions Factor----
 IEA_EmFact <- read.csv("CO2KWH-2018-1-EN-20190102T100824.csv") 
 IEA <- IEA_EmFact %>% 
+  filter (FLOW == "CO2KWH") %>%
   select (ï..PRODUCT, Value, Country, Time) %>%
   rename (Technology = ï..PRODUCT) %>% 
   group_by(Country, Technology, Time) %>%
-  summarise (EmiF = mean(Value), stEmiF = sd(Value))%>%
+  mutate (EmiF = Value)%>%
   mutate (EmUnits = "gCO2 per kWh", EmCite = "IEA")
 
 IEA$Technology<- recode(IEA$Technology, COAL = "Coal", NATGAS = "Natural Gas", OIL = "Oil")
@@ -19,13 +20,15 @@ IEA$Country <- recode(IEA$Country, "People's Republic of China" = "China", "CÃ�
 IEA15 <- IEA %>%
   filter(Time == 2015)
 unique (IEA15$Country)
+write.csv (IEA15, "a_IEA15.csv")
 
 Tong <- read.csv("Tong2018.csv")
 Tong$ï..Country<- standardize.countrynames(Tong$ï..Country, standard="wb")
 Tong_Em <- Tong %>% 
   select (ï..Country, Technology, EmF, Units) %>%
-  rename (Country = ï..Country, EmUnits = Units) %>%
+  rename (Country = ï..Country, EmUnits = Units, EmiF = EmF) %>%
   mutate (EmCite = "Tong18")
+write.csv (Tong_Em, "a_Tong18.csv")
 
 #Utilization Rates----
 GlobPower<- read.csv("global_power_plant_database.csv") 
@@ -38,11 +41,13 @@ WRI <- GlobPower %>% #WRI global power plant database
   rename (Country = country_long, Technology = primary_fuel) %>%
   mutate(h = 24*365, UtCite = "WRI")
 WRI$Country<- standardize.countrynames(WRI$Country, standard="wb",suggest="auto")
+write.csv (WRI, "a_WRI.csv")
 
 Tong_Ut <- Tong %>% 
   select (ï..Country, Technology, NumPlants, TotalCapacity.MW.) %>%
   rename (Country = ï..Country) %>%
   mutate (UtCite = "Tong18")
+write.csv (Tong_Ut, "a_Tong_Ut.csv")
 
 #Project Data----
 wb <- read.csv("worldbank2017.csv") 
@@ -64,6 +69,7 @@ summary (wb17$Technology)
 
 wb17$Country<- standardize.countrynames(wb17$Country, standard="wb",suggest="auto")
 unique (wb17$Country)
+write.csv (wb17, "a_wb17.csv")
 
 #Merging data----
 wb17_iea <- merge (wb17, IEA15, by = c("Country", "Technology"), all.x = T)
@@ -76,4 +82,4 @@ write.csv(df, "wb17_em_ut.csv")
 
 df.na.ut<- df[is.na(df$mean_ut),]
 df.na.em<- df[is.na(df$EmiF),]
-
+#and then I manually filled in the blanks cos i kinda gave up lol
